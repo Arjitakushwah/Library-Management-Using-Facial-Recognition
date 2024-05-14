@@ -1,0 +1,60 @@
+{% extends "index.html" %}
+
+{% block content %}
+<div class="container mt-5">
+  <h3 class="text-center mb-4"> Download list of Books</h3>
+  <div class="text-center">
+  <a  href="/download_books_csv" download="books.csv" class=" text-center btn btn-danger">Download CSV</a>
+  </div>
+
+</div>
+
+<div class="container mt-5">
+  <h3 class="text-center mb-4">Books</h3>
+  <div id="bookCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      {% for i in range(0, 16, 4) %}
+      <div class="carousel-item {% if i == 0 %}active{% endif %}">
+        <div class="row">
+          {% set end = i + 4 if (i + 4) < 16 else 16 %}
+          {% for j in range(i, end) %}
+          <div class="col-md-3">
+            <div class="card mb-3">
+              <div class="card-body">
+                <h5 class="card-title">{{ books[j].bookName }}</h5>
+                <p class="card-text">{{ books[j].author }}</p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
+      <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <!-- /<span class="carousel-control-next-icon" aria-hidden="true"></span> -->
+      <span class="sr-only">Next</span>
+  </a>
+  </div>
+  <div class="text-center">
+    <a href="/login" class="btn btn-primary mt-3">Login to Explore More</a>
+  </div>
+</div>
+
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // Activate carousel
+  var myCarousel = document.querySelector('#bookCarousel')
+  var carousel = new bootstrap.Carousel(myCarousel, {
+    interval: 3000, // Adjust the interval as needed
+    wrap: true
+  })
+</script>
+{% endblock %}

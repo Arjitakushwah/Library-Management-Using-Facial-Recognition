@@ -1,0 +1,36 @@
+{% extends "student.html" %}
+
+{% block title %}Profile - Student Dashboard{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col ml-4">
+                    <h1 class="card-title">Profile</h1>
+                    <!-- Student details -->
+                    <p>Student's profile information goes here.</p>
+                    <p>Name: {{ student.name }}</p>
+                    <p>Enrollment: {{ student.enrollment }}</p>
+                    
+                    <p>Department: {{ student.department }}</p>
+                    <p>Email: {{ student.email }}</p>
+                    <p>Phone: {{ student.phone }}</p>
+                    
+
+
+                    <!-- Edit details button -->
+                    <button class="btn btn-primary">Edit Details</button>
+                </div>
+                <div class="col">
+                    <!-- Student photo -->
+                    <img src="{{ url_for('static', filename='faces/arjita_0101CS211029/PHOTO.jpg') }}" alt="Student Photo" class="rounded-circle mt-3" style="width: 150px; height: 150px;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Books</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container justify-content-center d-flex align-items-center">
+                <img src="{{ url_for('static', filename='rgpv-logo.jpg') }}" alt="Logo" class="logo">
+                <div class="header-text text-center d-flex flex-column">
+                    <h5 class="head">Department of Computer Science & Engineering</h5>
+                    <h6 class="head">University Institute of Technology</h6>
+                    <h6 class="head">Rajiv Gandhi Proudyogiki Vishwavidyalaya</h6>
+                    <h6 class="head">Bhopal (M.P.)</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Manage Student Details</a>
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a href="/admin" class="nav-link custom-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/managestudents" class="nav-link custom-link">Students</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/managebooks" class="nav-link custom-link">Books</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/stats" class="nav-link custom-link">Stats</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/" class="nav-link custom-link">Logout</a>
+                </li>
+            </ul>
+        </div>
+        </div>
+    </nav>
+
+    <!-- stdent details -->
+
+    <!-- Student Details Card -->
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <!-- Left Side: Student Details -->
+                    <div class="col-md-6">
+                        <h5 class="card-title">Student Details</h5>
+                        <!-- Display student details here -->
+                        <p>Student Name: {{student.name}}</p>
+                        <p>Roll Number: {{student.enrollment}}</p>
+                        <p>Email: {{student.email}}</p>
+                        <p>Department: {{student.department}}</p>
+                        <p>Phone No.: {{student.phone}}</p>
+                        <!-- Add more student details as needed -->
+                        <!-- Options: Update and Delete -->
+                        <div class="row">
+                            <div class="col">
+                                <a href="#" class="btn btn-primary" data-toggle="modal"
+                                    data-target="#updateStudentModal">Update</a>
+                                <a href="#" class="btn btn-danger">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Right Side: Student Photo -->
+                    <div class="col-md-6">
+                        <div class="text-center">
+                            <!-- Circular Image -->
+                            <div class="image-upload">
+                                <!-- Current Photo -->
+                                <img src="{{ url_for('static', filename='student_photo.jpg') }}" class="rounded-circle"
+                                    alt="Student Photo" width="200">
+                                <!-- Upload New Photo Option -->
+                                <input type="file" id="photoUpload" style="display: none;">
+                                <label for="photoUpload" class="btn btn-secondary mt-3">Upload New Photo</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Update Student Modal -->
+    <div class="modal fade" id="updateStudentModal" tabindex="-1" role="dialog"
+        aria-labelledby="updateStudentModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="updateStudentModalLabel">Update Student Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="updateStudentForm">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" class="form-control" id="name" name="name" value="{{student.name}}">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="form-control" id="email" name="email" value="{{student.email}}">
+                        </div>
+                        <div class="form-group">
+                            <label for="enrollment">Enrollment</label>
+                            <input type="text" class="form-control" id="enrollment" name="enrollment"
+                                value="{{student.enrollment}}" disabled>
+                        </div>
+                        <div class="form-group">
+                            <label for="department">Department</label>
+                            <input type="text" class="form-control" id="department" name="department"
+                                value="{{student.department}}">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Phone No.</label>
+                            <input type="tel" class="form-control" id="phone" name="phone" value="{{student.phone}}">
+                        </div>
+                        <!-- Add more input fields for other details if needed -->
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" onclick="updateStudent()">Update</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- issue book -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Issue Book</h5>
+                        <p class="card-text">Search a book and issue book</p>
+                        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#issueModal">
+                            issue book</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Issue Book Modal -->
+            <div class="modal fade" id="issueModal" tabindex="-1" role="dialog" aria-labelledby="issueModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="issueModalLabel">Issue Book</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- Issue Book Form -->
+                            <form id="issueBookForm">
+                                <div class="form-group">
+                                    <label for="bookSearchInput">Search Book</label>
+                                    <input type="text" class="form-control" id="bookSearchInput" name="searchTerm"
+                                        placeholder="Enter book name or ID">
+                                </div>
+
+                                <button type="submit" class="btn btn-primary">Search Book</button>
+                            </form>
+                            <div id="issueResults">
+                                <!-- Search results will be displayed here -->
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--  return a book -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Return Book</h5>
+                        <p class="card-text">Return a issued book</p>
+                        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#returnModal">Return
+                            book</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Return Book Modal -->
+            <div class="modal fade" id="returnModal" tabindex="-1" role="dialog" aria-labelledby="returnModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="returnModalLabel">Return Book</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <form id="returnBookForm">
+                                <div class="form-group">
+                                    <label for="bookId">Book ID</label>
+                                    <input type="text" class="form-control" id="bookId" name="bookId"
+                                        placeholder="Enter book ID">
+                                </div>
+                                <!-- Add more input fields for other details if needed -->
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary" onclick="returnBook()">Return</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Borrowing history -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Borrowing History</h5>
+                        <p class="card-text">See the Borrowing history of student</p>
+                        <a href="#" class="btn btn-danger" data-toggle="modal"
+                            onclick="fetchBorrowingHistory('{{ student.id }}')" data-target="#borrowModal">See
+                            History</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Borrowing History Modal -->
+            <div class="modal fade" id="borrowModal" tabindex="-1" role="dialog" aria-labelledby="borrowModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="borrowModalLabel">Borrowing History</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- Borrowing History Table -->
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Book Title</th>
+                                        <th>Issue Date</th>
+                                        <th>Return Date</th>
+                                        <!-- Add more columns as needed -->
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Borrowing history rows will be displayed here -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+            <!-- issuebook script -->
+            <script>
+                document.getElementById('issueBookForm').addEventListener('submit', function (event) {
+                    event.preventDefault();
+                    var formData = new FormData(this);
+                    fetch('/search-book', {
+                        method: 'POST',
+                        body: formData
+                    })
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error('Error searching book');
+                            }
+                            return response.json();
+                        })
+                        .then(data => {
+                            displaySearchResults(data.books);
+                        })
+                        .catch(error => {
+                            console.error('Error:', error);
+                            alert('Error searching book');
+                        });
+                });
+
+                function displaySearchResults(books) {
+                    var searchResultsContainer = document.getElementById('issueResults');
+                    searchResultsContainer.innerHTML = '';
+                    if (books.length === 0) {
+                        searchResultsContainer.innerHTML = '<p>No results found</p>';
+                        return;
+                    }
+                    books.forEach(book => {
+                        var listItem = document.createElement('li');
+                        listItem.innerHTML = `ID: ${book.id}<br>Title: ${book.title}<br>Author: ${book.author}<br>Status: ${book.status}<br><button class="btn btn-danger btn-sm" onclick="issueBook('${book.id}', '{{ student.enrollment }}')")">Issue Book</button>&nbsp<hr>`;
+
+                        searchResultsContainer.appendChild(listItem);
+                    });
+                }
+                // function to issue book
+                function issueBook(bookId, userId) {
+                    fetch("/issue-book", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                        },
+                        body: JSON.stringify({ bookId: bookId, userId: userId }),
+                    })
+                        .then((response) => {
+                            if (response.ok) {
+                                // Book issued successfully, you can display a success message or update UI accordingly
+                                console.log("Book issued successfully.");
+                                window.alert("Book issued successfully.");
+                            } else {
+                                // Error occurred while issuing the book, handle the error
+                                console.error("Error issuing book:", response.statusText);
+                                window.alert("Error issuing book: " + response.statusText);
+                            }
+                        })
+                        .catch((error) => {
+                            // Catch any network or other errors
+                            console.error("Error issuing book:", error.message);
+                            window.alert("Error issuing book: " + error.message);
+                        });
+                }
+
+
+                function fetchBorrowingHistory(studentId) {
+                    // Replace 'student_id' with the actual student ID
+                    // var studentId = 1; // Example student ID
+                    fetch(`/borrowing-history/${studentId}`)
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error('Failed to fetch borrowing history');
+                            }
+                            return response.json();
+                        })
+                        .then(data => {
+                            console.log(data)
+                            displayBorrowingHistory(data);
+                        })
+                        .catch(error => {
+                            console.error('Error fetching borrowing history:', error);
+                        });
+                }
+                function displayBorrowingHistory(history) {
+                    var tbody = document.querySelector('#borrowModal tbody');
+                    tbody.innerHTML = ''; // Clear existing rows
+
+                    history.forEach(entry => {
+                        var row = document.createElement('tr');
+
+                        var titleCell = document.createElement('td');
+                        titleCell.textContent = entry.title;
+                        row.appendChild(titleCell);
+
+                        var issueDateCell = document.createElement('td');
+                        issueDateCell.textContent = entry.issueDate;
+                        row.appendChild(issueDateCell);
+
+                        var returnDateCell = document.createElement('td');
+                        returnDateCell.textContent = entry.returnDate;
+                        row.appendChild(returnDateCell);
+
+                        // Add more cells as needed
+
+                        tbody.appendChild(row);
+                    });
+                }
+
+            </script>
+
+
+
+</body>
+
+</html>

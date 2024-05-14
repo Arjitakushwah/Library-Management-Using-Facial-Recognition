@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Librarian Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/style.css">
+    <style>
+        
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container justify-content-center d-flex align-items-center">
+                <!-- Logo -->
+                <img src="{{ url_for('static', filename='rgpv-logo.jpg') }}" alt="Logo" class="logo">
+                <!-- Header text -->
+                <div class="header-text text-center d-flex flex-column">
+                  <h5 class="head">Department of Computer Science & Engineering</h5>
+                  <h6 class="head" >University Institute of Technology</h6>
+                  <h6 class="head">Rajiv Gandhi Proudyogiki Vishwavidyalaya</h6>
+                  <h6 class="head">Bhopal (M.P.)</h6>
+                  
+              </div>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/admin">Librarian Dashboard</a>
+            
+                <ul class="nav justify-content-end">
+                    <li class="nav-item">
+                        <a href="/admin" class="nav-link custom-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/managestudents" class="nav-link custom-link">Students</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/managebooks" class="nav-link custom-link">Books</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/stats" class="nav-link custom-link">Stats</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/" class="nav-link custom-link">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Manage Students</h5>
+                        <p class="card-text">Add new student, Find student details and isuue books</p>
+                        <a href="managestudents" class="btn btn-danger">Manage</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Book Management</h5>
+                        <p class="card-text">Add, Find, Update and Remove books details.</p>
+                        <a href="managebooks" class="btn btn-danger">Manage
+                            Books</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">View Stats</h5>
+                        <p class="card-text">View statistics of library management system</p>
+                        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#viewStatsModal">View
+                            Stats</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View Stats Modal -->
+            <div class="modal fade" id="viewStatsModal" tabindex="-1" aria-labelledby="viewStatsModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="viewStatsModalLabel">View Statistics</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- Statistics display -->
+                            <p>Number of available books: <span id="availableBooksCount">XX</span></p>
+                            <p>Number of registered students: <span id="registeredStudentsCount">XX</span></p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bootstrap JS and jQuery (needed for Bootstrap) -->
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

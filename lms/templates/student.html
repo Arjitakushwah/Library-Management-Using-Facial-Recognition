@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .sidebar {
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            overflow-y: auto;
+            border-right: 1px solid #dee2e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container justify-content-center d-flex align-items-center">
+                <!-- Logo -->
+                <img src="{{ url_for('static', filename='rgpv-logo.jpg') }}" alt="Logo" class="logo">
+                <!-- Header text -->
+                <div class="header-text text-center d-flex flex-column">
+                  <h5 class="head">Department of Computer Science & Engineering</h5>
+                  <h6 class="head">University Institute of Technology</h6>
+                  <h6 class="head">Rajiv Gandhi Proudyogiki Vishwavidyalaya</h6>
+                  <h6 class="head">Bhopal (M.P.)</h6>
+                  
+              </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#">Departmental Library</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <!-- Add upper navbar links here -->
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact" data-section="contact">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/" data-section="logout">Logout</a>
+                </li>
+                
+            </ul>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="col-md-2 d-none d-md-block navbar navbar-dark bg-light sidebar">
+                <div class="sidebar-sticky mt-4">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/profile/2">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/search_books" >Search Books</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/borrowing_History/2" >Borrowing History</a>
+                        </li>
+                        <!-- <li class="nav-item">
+                            <a class="nav-link" href="/Fine" >Fine History</a>
+                        </li> -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="/requested_books/2" >Requested books</a>
+                        </li>
+                        <!-- <li class="nav-item">
+                            <a class="nav-link" href="/liked" >Liked Books</a>
+                        </li> -->
+                        <!-- Add other sidebar items -->
+                    </ul>
+                </div>
+                
+            </nav>
+
+            <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4">
+                <div class="container mt-4" id="main-content">
+                    {% block content %}{% endblock %}
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and jQuery (needed for Bootstrap) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Custom JavaScript -->
+    {% block scripts %}{% endblock %}
+    
+</body>
+</html>
+

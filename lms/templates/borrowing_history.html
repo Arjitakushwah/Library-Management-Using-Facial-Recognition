@@ -1,0 +1,32 @@
+{% extends "student.html" %}
+
+{% block title %}Borrowing History - Student Dashboard{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <h1>Borrowing History</h1>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Book Title</th>
+                    <th>Issue Date</th>
+                    <th>Due Date</th>
+                    <!-- Add more table headers as needed -->
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in books %}
+                    <tr>
+                        <td>{{ item.book.bookName }}</td>
+                        <td>{{ item.issue_date.strftime('%Y-%m-%d ') }}</td>
+                        <td>{{ item.due_date.strftime('%Y-%m-%d ') }}</td>
+                        <!-- Add more table cells as needed -->
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
+

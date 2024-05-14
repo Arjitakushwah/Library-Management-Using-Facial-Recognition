@@ -1,0 +1,43 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+<div class="container-fluid p-0">
+    <div class="banner" style="background-image: url('static/books_bg.jpg');">
+
+        <div class="container">
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <h1 class="text-center mb-4 text-light">Welcome to Departmental Library</h1>
+                        <div class="text-center">
+                            <a href="/login_page" class="btn btn-success btn-lg">Login</a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <h1 class="text-center mb-4 text-light">50+ Categories</h1>
+                    </div>
+                    <div class="carousel-item">
+                        <h1 class="text-center mb-4 text-light">1000+ Books</h1>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <!-- /<span class="carousel-control-next-icon" aria-hidden="true"></span> -->
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+     
+
+
+</div>
+
+
+{% endblock %}
+
+

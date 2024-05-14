@@ -1,0 +1,716 @@
+id,bookName,categories,author,publisher,edition,bookCountAvailable,totalCount,bookStatus,language,createdAt,updatedAt,rating,review_count,top_rated
+65c2c3ad881df6d1bc84ae35,Data warehoushing OLAP and data mining,65c2ac3527c4e91908f3e3bb,S. Nagabhushana,New Age International Publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.24,0,YES
+65c2c3ad881df6d1bc84ae36,Mordern data warehouse mining and visulization,65c2ac3527c4e91908f3e3bb,George M. marakas,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.94,0,YES
+65c2c3ad881df6d1bc84ae37,Intrpduction to data mining,65c2ac3527c4e91908f3e3bb,"Pang-Ning Tan, \nMichael Steinback,\n Vipin Kumar",Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.87,0,NO
+65c2c3ad881df6d1bc84ae38,Text mining Application programming,65c2ac3527c4e91908f3e3bb,Manu Konchody,Charles River Media,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.81,0,NO
+65c2c3ad881df6d1bc84ae39,Data Mining,65c2ac3527c4e91908f3e3bb,Vikram pudi\nP Radha krishna,Oxford Higher Education,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.77,0,NO
+65c2c3ad881df6d1bc84ae3a,The data warehouse lifestyle toolkit,65c2ac4027c4e91908f3e3cb,Ralph Kimball\nMorgy Ross \nJoy mundy \nBob beeber,Wiley India,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.3,0,NO
+65c2c3ad881df6d1bc84ae3b,Introduction to data mining with case studies,65c2ac3527c4e91908f3e3bb,G.K. Gupta ,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.54,0,YES
+65c2c3ad881df6d1bc84ae3c,Web warehousing and knowledge management,65c2ac4027c4e91908f3e3cb,Rob mattison,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4,0,YES
+65c2c3ad881df6d1bc84ae3d,Data Mining concept and Technique,65c2ac3527c4e91908f3e3bb,Janel han \nMicheline kamber,Morgan Kaufmann Publishers,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.65,0,NO
+65c2c3ad881df6d1bc84ae3e,Data mining method and?model,65c2ac3527c4e91908f3e3bb, Daniel  T. Larose ,Wiley,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.43,0,NO
+65c2c3ad881df6d1bc84ae3f,"Data warehousing, Data Mining & OLAP ",65c2ac3527c4e91908f3e3bb,Alex Berson \nStephen J. Smith ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.33,0,NO
+65c2c3ad881df6d1bc84ae40,Data warehousing design devlopment and best practices,65c2ac4027c4e91908f3e3cb,Soumendra monanthy,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.14,0,NO
+65c2c3ad881df6d1bc84ae41,Knowledge Management,65c2ac4e27c4e91908f3e3db,Shelda Debowski,Wiley ,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.53,0,NO
+65c2c3ad881df6d1bc84ae42,Data Warehousing fundamental,65c2ac4027c4e91908f3e3cb,Poulraj \nPonniah,Wiley,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.14,0,NO
+65c2c3ad881df6d1bc84ae43,Mastering Data warehouse design,65c2ac4027c4e91908f3e3cb,Clovdia inhoft \nNicholas gallemn,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.09,0,YES
+65c2c3ad881df6d1bc84ae44,Pattern recoginition algo. for data mining,65c2ac3527c4e91908f3e3bb,Sankal K.pal\nPabitra Mitra,Chapman & Hall/CRC,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.03,0,NO
+65c2c3ad881df6d1bc84ae45,Decision support & data warehouse system,65c2ac4027c4e91908f3e3cb,Efren G mallac,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.49,0,NO
+65c2c3ad881df6d1bc84ae46,Cloud computing Bible,65c2ac5927c4e91908f3e3de,Barrie so sinky,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.51,0,NO
+65c2c3ad881df6d1bc84ae47,Microsoft private cloud computing ,65c2ac5927c4e91908f3e3de,Aidan ginn\nHans vedart,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.94,0,YES
+65c2c3ad881df6d1bc84ae48,Concepts in computing,65c2ac5e27c4e91908f3e3e1,kenneth hoganson,Jones and Bartlett,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.61,0,NO
+65c2c3ad881df6d1bc84ae49,Cloud computing ,65c2ac5927c4e91908f3e3de,Dr. kumar soubhi,Wiley,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.27,0,YES
+65c2c3ad881df6d1bc84ae4a,Cloud computing,65c2ac5927c4e91908f3e3de,Anthony T.vette\nToby J. veur,McGraw Hill,1,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.1,0,YES
+65c2c3ad881df6d1bc84ae4b,Cloud computing,65c2ac5927c4e91908f3e3de,M N Rao,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.19,0,YES
+65c2c3ad881df6d1bc84ae4c,Mastering cloud computing,65c2ac5927c4e91908f3e3de,Rsajkumar Buyya\nChristian vecchia\nS. thamaraiselvi,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.51,0,YES
+65c2c3ad881df6d1bc84ae4d,Cloud computing automating the virtualized data center,65c2ac5927c4e91908f3e3de,Vencata josyala\nmalcalm err\nGrey page\n,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.09,0,NO
+65c2c3ad881df6d1bc84ae4e,Cloud computing,65c2ac5927c4e91908f3e3de,A. Sriniovasam\nJ. suresh,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.65,0,NO
+65c2c3ad881df6d1bc84ae4f,Cloud computing with the window  azure platform,65c2ac5927c4e91908f3e3de,Reger Jenning,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.89,0,NO
+65c2c3ad881df6d1bc84ae50,cloud computing 2nd edition,65c2ac5927c4e91908f3e3de,Dr. Kumar saurabh,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.29,0,NO
+65c2c3ad881df6d1bc84ae51,Cloud computing or dummies,65c2ac5927c4e91908f3e3de,Judith hurwitz \nRobin bloor,Wiley,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.33,0,NO
+65c2c3ad881df6d1bc84ae52,Cloud computing ,65c2ac5927c4e91908f3e3de,Arvid das \nRajeev nanda ,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.51,0,YES
+65c2c3ad881df6d1bc84ae53,Enterprise cloud computing technology architecture application,65c2ac5927c4e91908f3e3de,Gautam Shroff,Cambridge University Press,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.51,0,NO
+65c2c3ad881df6d1bc84ae54,Cloud computing based projects used distributed architecture,65c2ac5927c4e91908f3e3de,Pranab Kumar Das gupta \nmanojranjan nayak \nsabyasachi,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.81,0,NO
+65c2c3ad881df6d1bc84ae55,Applied Probability & statistics,65c2ac6427c4e91908f3e3e4,Mario Latebvre,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.71,0,NO
+65c2c3ad881df6d1bc84ae56,Advance engineering mathematics ,65c2ac6e27c4e91908f3e3e7,RN Yadava \nAnil goyal \nRamkant Bhaning \nSarvesh kumar Agrawal,BS Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.01,0,NO
+65c2c3ad881df6d1bc84ae57,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,R.K. Bisht              \nH.S Dhami,Oxford Higher Education,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.27,0,NO
+65c2c3ad881df6d1bc84ae58,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,Swapan ku. Chakroberty\nBikash kanti sarkar,Oxford Higher Education,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.57,0,NO
+65c2c3ad881df6d1bc84ae59,Local area network,65c2ad0827c4e91908f3e41a,Gred E klisen,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.81,0,YES
+65c2c3ad881df6d1bc84ae5a,"Catalogue CS,CSE,IT",65c2b54827c4e91908f3e480,,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.37,0,YES
+65c2c3ad881df6d1bc84ae5b,Applied numerical method for engg. Using MATLAB &C ,65c2ac6e27c4e91908f3e3e7,Robert J Schilling\nSandra L harris,McGraw Hill,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.72,0,NO
+65c2c3ad881df6d1bc84ae5c,Element of discrete mathamatics,65c2ac7627c4e91908f3e3ea,C.L Lia,McGraw Hill,3,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.03,0,NO
+65c2c3ad881df6d1bc84ae5d,Numerical Methods,65c2ac6e27c4e91908f3e3e7,E balagrisang,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.63,0,NO
+65c2c3ad881df6d1bc84ae5e,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,Norman  L biggs,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.96,0,NO
+65c2c3ad881df6d1bc84ae5f,Discrete mathematical structure for CS,65c2ac7627c4e91908f3e3ea,Bernard kolman \nRobert C bushing,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.65,0,NO
+65c2c3ad881df6d1bc84ae60,Probability statistics & Queuing theory,65c2ac6427c4e91908f3e3e4,V. sundarpandian,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.35,0,NO
+65c2c3ad881df6d1bc84ae61,Mathematical method of science & Engg.,65c2ac6e27c4e91908f3e3e7,Kanti B Datta,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.71,0,YES
+65c2c3ad881df6d1bc84ae62,Discrete mathematics  & graph theory,65c2ac9927c4e91908f3e3f3,Purna chandra biswal,Prentice Hall ,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.37,0,NO
+65c2c3ad881df6d1bc84ae63,Discrete mathemetics,65c2ac7627c4e91908f3e3ea,Seymour Lipschutz \nMark lipson,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.47,0,NO
+65c2c3ad881df6d1bc84ae64,Stochastic process,65c2ac9227c4e91908f3e3f0,Shldon M ross,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.32,0,YES
+65c2c3ad881df6d1bc84ae65,Discrere mathematics ,65c2ac7627c4e91908f3e3ea,Seymour Lipschutz \nMare lipson,McGraw Hill,3,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.63,0,NO
+65c2c3ad881df6d1bc84ae66,Stochastic process,65c2ac9227c4e91908f3e3f0,Shedon m ross ,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.62,0,NO
+65c2c3ad881df6d1bc84ae67,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,L lovasz\nJ pelikan\nK Vesztesgombi,Springer,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.77,0,NO
+65c2c3ad881df6d1bc84ae68,Discrete mathematics stucture,65c2ac7627c4e91908f3e3ea,Klaman\nRobert C bushing\nshason cutter ross,Prentice Hall ,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.22,0,YES
+65c2c3ad881df6d1bc84ae69,Graph theory with application of engineering and computer science,65c2ac9927c4e91908f3e3f3,Narsingh Deo,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.46,0,NO
+65c2c3ad881df6d1bc84ae6a,Discrete Mathamatics with graph theory,65c2ac9927c4e91908f3e3f3,Edgar G Gooduirs \nhischad H paramite,Peanson,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.98,0,NO
+65c2c3ad881df6d1bc84ae6b,Numerical Methods,65c2ac6e27c4e91908f3e3e7,S kalavathy,Thomson Press,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.42,0,NO
+65c2c3ad881df6d1bc84ae6c,Linear Algbra and its application ,65c2ac6e27c4e91908f3e3e7,Gilbret Strang,Cengage India Private Limited\nPublication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.65,0,NO
+65c2c3ad881df6d1bc84ae6d,Matrix and linear algebra aided with MATLAB ,65c2ac6e27c4e91908f3e3e7,Kanti Bhushan Datta ,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.55,0,NO
+65c2c3ad881df6d1bc84ae6e,Numerical Mathamatical and computing,65c2ac6e27c4e91908f3e3e7,Ward cheney\nDavid kinaid`,First Indian Repesent,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.05,0,YES
+65c2c3ad881df6d1bc84ae6f,Linear Algebra,65c2ac6e27c4e91908f3e3e7,SK Jain\nAD gunawat denu,First Indian Repesent,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.31,0,NO
+65c2c3ad881df6d1bc84ae70,Gate - CSE,65c2b54827c4e91908f3e480,Douglase\nB west,Satya Prakashan,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.25,0,NO
+65c2c3ad881df6d1bc84ae71,Introduction to graph theory,65c2ac9927c4e91908f3e3f3,,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.58,0,NO
+65c2c3ad881df6d1bc84ae72,Discrete Mthamatical stucture with application on to computer science,65c2ac7627c4e91908f3e3ea,J P Trembly\nR manonav,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.5,0,NO
+65c2c3ad881df6d1bc84ae73,Crypotograph and network security,65c2aca027c4e91908f3e3f6,PS Gill,Mare Millan,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.48,0,YES
+65c2c3ad881df6d1bc84ae74,Advance engineering mathamatics ,65c2ac6e27c4e91908f3e3e7,SS Sastry,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.35,0,NO
+65c2c3ad881df6d1bc84ae75,Information security theory and practice,65c2acbd27c4e91908f3e3ff,Dhirem R patel,PHI Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.81,0,NO
+65c2c3ad881df6d1bc84ae76,Crypotograph and network security,65c2aca027c4e91908f3e3f6,CK Shyamla \nN Harini\nDr TR Padmanadham\n,Wiley,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.6,0,NO
+65c2c3ad881df6d1bc84ae77,Biomatrie for Network Security,65c2acaa27c4e91908f3e3f9,Paul raid,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.3,0,YES
+65c2c3ad881df6d1bc84ae78,Computer network security,65c2acaa27c4e91908f3e3f9,Joseph Migga,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.71,0,NO
+65c2c3ad881df6d1bc84ae79,Essential of error - control  coding,65c2acb127c4e91908f3e3fc,Jorge Castinenia moreria,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.68,0,NO
+65c2c3ad881df6d1bc84ae7a,Information assurance for the enterprise ,65c2acbd27c4e91908f3e3ff,Corey schon ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.95,0,NO
+65c2c3ad881df6d1bc84ae7b,Introduction to cryptograph with coding theory,65c2acc327c4e91908f3e402,Wade Trappe\nLawrence c washington C,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.31,0,YES
+65c2c3ad881df6d1bc84ae7c,Crypotograph and network security,65c2aca027c4e91908f3e3f6,Willian stallings,Pearson,2,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.4,0,NO
+65c2c3ad881df6d1bc84ae7d,Network security fundamental,65c2acaa27c4e91908f3e3f9,Peter Norton\nMike stockman,Tech Media,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.04,0,NO
+65c2c3ad881df6d1bc84ae7e,Information security principal and practicse,65c2acbd27c4e91908f3e3ff,Mark markous\njim breitharpt,Pearson,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.27,0,NO
+65c2c3ad881df6d1bc84ae7f,Network security ,65c2acaa27c4e91908f3e3f9,Kuldeep singh kohan,Vayu education ,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.67,0,NO
+65c2c3ad881df6d1bc84ae80,Computer security fundamental,65c2ad0827c4e91908f3e41a,Check easttom,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.95,0,NO
+65c2c3ad881df6d1bc84ae81,Crypotography and network security,65c2aca027c4e91908f3e3f6,Prakash c gupta ,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.39,0,NO
+65c2c3ad881df6d1bc84ae82,Crypotography and network security,65c2aca027c4e91908f3e3f6,Behrowz A forouzon\nDebdeep mukhopadhyay ,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.14,0,NO
+65c2c3ad881df6d1bc84ae83,Network Security A hackers perespective ,65c2acaa27c4e91908f3e3f9,Ankit fadia,Macmillan India Ltd,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84ae84,Network Security bible,65c2acaa27c4e91908f3e3f9,Dr. Eric cole \nDr. Ronaid krutz\nJsmes w conley,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.69,0,NO
+65c2c3ad881df6d1bc84ae85,Security in computing ,65c2ad0827c4e91908f3e41a,charles p fleegen\nshari lautstearm,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.13,0,NO
+65c2c3ad881df6d1bc84ae86,Introduction to cryptograph,65c2acc327c4e91908f3e402,Johannes A Beuchman ,Sprenges,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.28,0,NO
+65c2c3ad881df6d1bc84ae87,Web security privacy & commence,65c2acaa27c4e91908f3e3f9,Simson garfinkal,Shroff Publisher,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.07,0,YES
+65c2c3ad881df6d1bc84ae88,Cryptography theory & pratices,65c2acc327c4e91908f3e402,Dorglous R strean,Chapman & Hall/CRC,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.67,0,YES
+65c2c3ad881df6d1bc84ae89,Information security intelligence ,65c2acbd27c4e91908f3e3ff,Thomas calabrese,Thomas & Delman Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.98,0,YES
+65c2c3ad881df6d1bc84ae8a,Information system security,65c2acbd27c4e91908f3e3ff,Nina goduole,Wiley ,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.82,0,YES
+65c2c3ad881df6d1bc84ae8b,Mobile computing theory and practice,65c2accc27c4e91908f3e405,Kumkum garg,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.85,0,NO
+65c2c3ad881df6d1bc84ae8c,Mobile Application security,65c2acd527c4e91908f3e408,Himanshu dwivedi\nChris clark \ndavid thies,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.52,0,NO
+65c2c3ad881df6d1bc84ae8d,Mastering Turbo c,65c2ace127c4e91908f3e40b,Phillippe katrn,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.02,0,YES
+65c2c3ad881df6d1bc84ae8e,The essential guide to user interface design,65c2aced27c4e91908f3e40e,Wilbert o galitz,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.16,0,NO
+65c2c3ad881df6d1bc84ae8f,Intermational Stability Testing,65c2acf327c4e91908f3e411,Danid j mazzo,First Indian Repesent,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.04,0,NO
+65c2c3ad881df6d1bc84ae90,Discrete event system stimulation,65c2addb27c4e91908f3e465,jerry Barks\njohan s carson\nBarry L Nelion \nDavid M nical  \nP shahabude,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.73,0,NO
+65c2c3ad881df6d1bc84ae91,Computer Installation and servicing,65c2ad0027c4e91908f3e417,D Balas Ubrun chrain,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.69,0,NO
+65c2c3ad881df6d1bc84ae92,COM/DCOM,65c2ad0827c4e91908f3e41a,Randy Abernthy\nrandy marin\njesiu chahin,Tech Media,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.31,0,NO
+65c2c3ad881df6d1bc84ae93,ERP Demystified,65c2ad0f27c4e91908f3e41d,Alexis leon,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.31,0,NO
+65c2c3ad881df6d1bc84ae94,Mastering 1-2-3,65c2ad1627c4e91908f3e420,Caralyn Jorgensen,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.32,0,NO
+65c2c3ad881df6d1bc84ae95,Crystal Report ,65c2ad1c27c4e91908f3e423,Cate mecoy\ncort masie,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.58,0,NO
+65c2c3ad881df6d1bc84ae96,Basic computer engineering,65c2ad2327c4e91908f3e426,Sanjay Silakari\nrajesh k shukla,Wiley,4,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.09,0,NO
+65c2c3ad881df6d1bc84ae97,Information Technology,65c2ad2a27c4e91908f3e429,Dennis p curtin\nkina foley\nkunal sen\nclathleen morin,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.51,0,NO
+65c2c3ad881df6d1bc84ae98,Fundamental of computer,65c2ad3027c4e91908f3e42c,Marley & panken ,Cengage Learning McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.83,0,NO
+65c2c3ad881df6d1bc84ae99,Data stucturing and algorithm,65c2ad3927c4e91908f3e42f,GA vijaylakshmi ,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.93,0,NO
+65c2c3ad881df6d1bc84ae9a,Web Design Programming,65c2ad4527c4e91908f3e432,Paul S wong\nsandy katila,Cengage Learning McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.63,0,YES
+65c2c3ad881df6d1bc84ae9b,Desegning interactive web series,65c2ad4b27c4e91908f3e435,James L mahlon\nJon m duff,Cengage Learning McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.41,0,YES
+65c2c3ad881df6d1bc84ae9c,System Analysis design and MIS,65c2ad5127c4e91908f3e438,V K Jain,Khamma Book Thomson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.5,0,NO
+65c2c3ad881df6d1bc84ae9d,System Analysis and design,65c2ad5127c4e91908f3e438,Gary B Shelly \nThomas J ,Thomson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.18,0,NO
+65c2c3ad881df6d1bc84ae9e,Web programming building Internet application,65c2ad4527c4e91908f3e432,Chris bates,Wiley,5,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.21,0,YES
+65c2c3ad881df6d1bc84ae9f,Web application concepts & Real world design,65c2ad4527c4e91908f3e432,Craig  D knuckless \nDavid vuen,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.08,0,NO
+65c2c3ad881df6d1bc84aea0,E commerce strategy technology & application,65c2ad5727c4e91908f3e43b,David Whitelay,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.51,0,NO
+65c2c3ad881df6d1bc84aea1,Electronic commence ,65c2ad5727c4e91908f3e43b,David kosivr ,Prentice Hall ,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.88,0,NO
+65c2c3ad881df6d1bc84aea2,Electronic commence from vision to fulfillment ,65c2ad5727c4e91908f3e43b,Elias M awad,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.3,0,NO
+65c2c3ad881df6d1bc84aea3,Multimeadia and web design,65c2ad8527c4e91908f3e441,Vikash gupta\nkogent slon,DreamTech,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.78,0,NO
+65c2c3ad881df6d1bc84aea4,Multimedia :making it work,65c2ad8527c4e91908f3e441,Tay vaugham ,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.1,0,YES
+65c2c3ad881df6d1bc84aea5,Module communication engineering,65c2ad9027c4e91908f3e444,William C.Y Lee,Cengage Learning McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.7,0,NO
+65c2c3ad881df6d1bc84aea6,"Web programming with HTML,XHTML,CSS",65c2ad4527c4e91908f3e432,Jon duckh,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.26,0,YES
+65c2c3ad881df6d1bc84aea7,Developing web application,65c2ad4527c4e91908f3e432,Ralpmosday,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.93,0,NO
+65c2c3ad881df6d1bc84aea8,Internet and web technology,65c2ad9727c4e91908f3e447,Raj kamal,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.48,0,NO
+65c2c3ad881df6d1bc84aea9,Computer fundamental and Programming in c,65c2ad3027c4e91908f3e42c,Pradip dey\nmanes ghost,Oxford Higher Education,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.07,0,NO
+65c2c3ad881df6d1bc84aeaa,Computer fundamental and Programming in c,65c2ad3027c4e91908f3e42c,Reema thariya,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.48,0,YES
+65c2c3ad881df6d1bc84aeab,Inside XMl,65c2ad9e27c4e91908f3e44a,Stene Holgner,Tech Media,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.33,0,YES
+65c2c3ad881df6d1bc84aeac,HTML:The complete refernce,65c2ada327c4e91908f3e44d,Thomos A powell,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.64,0,NO
+65c2c3ad881df6d1bc84aead,Computer fundamental and Programming,65c2ad3027c4e91908f3e42c,Ashok Arora\nshefali Bansal ,Excel book,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.58,0,NO
+65c2c3ad881df6d1bc84aeae,Data processing,65c2ada927c4e91908f3e450,Pearl software,Khamma Book Thomson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.23,0,NO
+65c2c3ad881df6d1bc84aeaf,Introduction to computer,65c2ad3027c4e91908f3e42c,Alexes leon \nmatheus leon,Vijay Nicole Imprints,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.25,0,NO
+65c2c3ad881df6d1bc84aeb0,Computer fundamentals with pharmacy application,65c2ad3027c4e91908f3e42c,N K Tiwari ,Pharmaceutical Press,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.91,0,NO
+65c2c3ad881df6d1bc84aeb1,Computer fundamental concepts system & application,65c2ad3027c4e91908f3e42c,D P Nagpal,Schand,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.85,0,NO
+65c2c3ad881df6d1bc84aeb2,Data communications and Networking,65c2adaf27c4e91908f3e453,Behraiz A Forouzan\nSaphia chung fegan,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.54,0,NO
+65c2c3ad881df6d1bc84aeb3,"Local Area networks management , Design and security",65c2adaf27c4e91908f3e453,Arne Mikalsen\nPer bargesen,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.31,0,NO
+65c2c3ad881df6d1bc84aeb4,Local Area networks,65c2adaf27c4e91908f3e453,Behroo A forouzon,McGraw Hill,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.29,0,YES
+65c2c3ad881df6d1bc84aeb5,Understanding data communication & Network,65c2adaf27c4e91908f3e453,Willian stallings,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.72,0,NO
+65c2c3ad881df6d1bc84aeb6,ATM network concept and protocols,65c2adaf27c4e91908f3e453,Sumit kasera ,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.68,0,NO
+65c2c3ad881df6d1bc84aeb7,Wireless networks,65c2adaf27c4e91908f3e453,P. Nicopelitictis\nM.S. obaident\nG.J papadianition\nA.S Pompartsis,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.4,0,NO
+65c2c3ad881df6d1bc84aeb8,Corparate computer and network security,65c2acaa27c4e91908f3e3f9,Raymond R panka ,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.43,0,NO
+65c2c3ad881df6d1bc84aeb9,Information security policies and procedures,65c2acbd27c4e91908f3e3ff,Themos R Pelitier,Auerbach Publications,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.96,0,NO
+65c2c3ad881df6d1bc84aeba,An Ethical Hacking guide to coporate security,65c2b69727c4e91908f3e483,Ankit fadia,Macmillan India Ltd,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.09,0,YES
+65c2c3ad881df6d1bc84aebb,Information security,65c2acbd27c4e91908f3e3ff,Mark stamp,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.81,0,YES
+65c2c3ad881df6d1bc84aebc,Mobile and HOC Network,65c2adaf27c4e91908f3e453,George aggelexa,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.33,0,NO
+65c2c3ad881df6d1bc84aebd,Network security and cryptography,65c2acaa27c4e91908f3e3f9,Barnard menezs,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.02,0,NO
+65c2c3ad881df6d1bc84aebe,Mobile computing,65c2accc27c4e91908f3e405,Raj kamal,Oxford Higher Education,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.82,0,NO
+65c2c3ad881df6d1bc84aebf,Data communications ,65c2adaf27c4e91908f3e453,Dr. kamal raj parasaui,Balaji Publisher,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.28,0,NO
+65c2c3ad881df6d1bc84aec0,Data communications and Networking,65c2adaf27c4e91908f3e453,Behrauz A Farouzan\nSaphia chung fegan,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.41,0,NO
+65c2c3ad881df6d1bc84aec1,Data communications  Networks and systems,65c2adaf27c4e91908f3e453,Thomos C Bartee,BPB Publication,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.62,0,NO
+65c2c3ad881df6d1bc84aec2,Mobile communictions,65c2adbd27c4e91908f3e456,Jochen schiller,Pearson,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.45,0,NO
+65c2c3ad881df6d1bc84aec3,Information theory coding and cryptography,65c2acc327c4e91908f3e402,Panjan bose,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84aec4,Interaction design beyond humabn computer intraction,65c2adc327c4e91908f3e459,Sharp rogers preese,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.59,0,NO
+65c2c3ad881df6d1bc84aec5,Object orienal moduling and design with UML ,65c2adc927c4e91908f3e45c,Michael blaha james rumbaugh,Pearson,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.04,0,NO
+65c2c3ad881df6d1bc84aec6,The object oriated thought process,65c2adc927c4e91908f3e45c,Matt weisfeld,BPS publications ,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.88,0,NO
+65c2c3ad881df6d1bc84aec7,Designing object oriented software,65c2adc927c4e91908f3e45c,Rebecca wirfd brock \nBrian wilkerson \nlawren wiener,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.74,0,YES
+65c2c3ad881df6d1bc84aec8,Service orianted architecture,65c2adce27c4e91908f3e45f,Shouker kambhampat ,Wiley,5,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.72,0,NO
+65c2c3ad881df6d1bc84aec9,Object oriented analysics & design with application,65c2adc927c4e91908f3e45c,Grady booch,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.6,0,NO
+65c2c3ad881df6d1bc84aeca,Embedded system,65c2add527c4e91908f3e462,Steven F Barcott\nDanial J paok,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.22,0,NO
+65c2c3ad881df6d1bc84aecb,Embedded system design,65c2add527c4e91908f3e462,Frank Vatid \nTony Givargis,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.38,0,NO
+65c2c3ad881df6d1bc84aecc,Embedded micro computer systems,65c2add527c4e91908f3e462,Jonathan we valvano,CENGAGE Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.85,0,NO
+65c2c3ad881df6d1bc84aecd,Simulation Moduling  and analysis,65c2add527c4e91908f3e462,Averill  M law,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.8,0,NO
+65c2c3ad881df6d1bc84aece,System moduling and simulations,65c2addb27c4e91908f3e465,Frank L severance,Wiley,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.65,0,NO
+65c2c3ad881df6d1bc84aecf,Embedded system design,65c2ade527c4e91908f3e468,Santanu chattopadbyay,PHI Learning,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.25,0,NO
+65c2c3ad881df6d1bc84aed0,Neural networks for pattern recoginition,65c2add527c4e91908f3e462,Christopher m bishop,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.83,0,NO
+65c2c3ad881df6d1bc84aed1,Artificial intelligence and experts system,65c2adeb27c4e91908f3e46b,Den w patterson,Prentice Hall ,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.85,0,NO
+65c2c3ad881df6d1bc84aed2,An Introduction to neural network,65c2adf127c4e91908f3e46e,Javers a anderson,Prentice Hall ,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.43,0,NO
+65c2c3ad881df6d1bc84aed3,Artificial inteligence and intelligent system,65c2adeb27c4e91908f3e46b,N P Podhy ,Oxford Higher Education,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.84,0,NO
+65c2c3ad881df6d1bc84aed4,Natural language processing and information retrieval ,65c2adf127c4e91908f3e46e,Tanveer siedlqui\nU S Tiwari,Oxford Higher Education,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.62,0,NO
+65c2c3ad881df6d1bc84aed5,System simulation moduling and language ,65c2adf927c4e91908f3e471,p panveer selvom\np sahil kumar,PHI Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.63,0,NO
+65c2c3ad881df6d1bc84aed6,Total quality management,65c2ade527c4e91908f3e468,B janakiraman \nRk gopal,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.99,0,YES
+65c2c3ad881df6d1bc84aed7,Neural network fuzzy logic and ganctic algorithms,65c2ae0127c4e91908f3e474,S. rajasekarany \nG.A vijaylakshmi pai,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.75,0,NO
+65c2c3ad881df6d1bc84aed8,Artifificial Intelligence,65c2adeb27c4e91908f3e46b,Patrick menary winston,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.05,0,NO
+65c2c3ad881df6d1bc84aed9,Introduction to embedded system ,65c2adf127c4e91908f3e46e,Shibu kv,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.12,0,NO
+65c2c3ad881df6d1bc84aeda,Embedded system design,65c2add527c4e91908f3e462,Frank Vatid \nTony Givargis,Wiley,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.87,0,YES
+65c2c3ad881df6d1bc84aedb,Embedded system A contemporary design ,65c2add527c4e91908f3e462,James K peekol,Wiley,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.62,0,NO
+65c2c3ad881df6d1bc84aedc,An embedded software primer,65c2add527c4e91908f3e462,David E. Simen,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.24,0,YES
+65c2c3ad881df6d1bc84aedd,Embedded system design,65c2add527c4e91908f3e462,Arnold s berger,CMP books,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.18,0,YES
+65c2c3ad881df6d1bc84aede,Real time embbed system and components,65c2add527c4e91908f3e462,Sam siwer ,Cengage Learning McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.31,0,NO
+65c2c3ad881df6d1bc84aedf,Embedded c programming and the microchip pic,65c2add527c4e91908f3e462,Barnett cox and o' cull,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.56,0,NO
+65c2c3ad881df6d1bc84aee0,System simulation with digital computer,65c2ade527c4e91908f3e468,Narsingh Deo,Prentice Hall,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.98,0,YES
+65c2c3ad881df6d1bc84aee1,System modelling and analysis,65c2ad5127c4e91908f3e438,misashi kobayshi \nBrian L Mark,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.21,0,NO
+65c2c3ad881df6d1bc84aee2,system modelling and simulations,65c2ade527c4e91908f3e468,V P Singh,New age international publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.13,0,YES
+65c2c3ad881df6d1bc84aee3,Artificisal intelligence,65c2adf127c4e91908f3e46e,Elaine rich\nkevin knight,McGraw Hill,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.69,0,NO
+65c2c3ad881df6d1bc84aee4,Artificisal intelligence,65c2adf127c4e91908f3e46e,Patrick henry winston,addison wesley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.2,0,NO
+65c2c3ad881df6d1bc84aee5,Fundamental and parallel algorithms,65c2ae1127c4e91908f3e47a,kenneth A. bermany,thomos ,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.34,0,NO
+65c2c3ad881df6d1bc84aee6,Data strutures using c ,65c2b71a27c4e91908f3e486,E bolagurusany,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.18,0,NO
+65c2c3ad881df6d1bc84aee7,Data strutures using c++,65c2b71a27c4e91908f3e486,D S Malik,thomos ,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.18,0,YES
+65c2c3ad881df6d1bc84aee8,Data stuctures using c,65c2b71a27c4e91908f3e486,Kapil kumar verma ,A.B. Publication,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.36,0,NO
+65c2c3ad881df6d1bc84aee9,Classic data structures,65c2b71a27c4e91908f3e486,D samanta,PHI Learning,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.66,0,NO
+65c2c3ad881df6d1bc84aeea,Data strutures using c ,65c2b71a27c4e91908f3e486,Reema thariya,Oxford Higher Education,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.54,0,NO
+65c2c3ad881df6d1bc84aeeb,Dta stucture - I,65c2b71a27c4e91908f3e486,A A Puntambekar,Technical Publications,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.53,0,NO
+65c2c3ad881df6d1bc84aeec,Data stucture and algorithms in java ,65c2ad3927c4e91908f3e42f,Adam dradek ,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.09,0,NO
+65c2c3ad881df6d1bc84aeed,Programming and data stucture II,65c2ad3927c4e91908f3e42f,E balagrisang,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.47,0,NO
+65c2c3ad881df6d1bc84aeee,Data Strutures and  algorithms,65c2ad3927c4e91908f3e42f,GAV PAI,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.85,0,NO
+65c2c3ad881df6d1bc84aeef,C & Data structure,65c2b71a27c4e91908f3e486,Prof. P S Destopande\nPROF. OG kakede,DreamTech,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.67,0,NO
+65c2c3ad881df6d1bc84aef0,Data structures and program design in c,65c2b71a27c4e91908f3e486,rebert l kruse\nbruce p leung\nclovis l tondo,Prebtice hill of india,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.18,0,NO
+65c2c3ad881df6d1bc84aef1,Introduction to algorithms,65c2ae1127c4e91908f3e47a,Themos m corman\nCharles E leiserson \nRonald c rivent\nclifford stein,PHI Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.41,0,YES
+65c2c3ad881df6d1bc84aef2,Data stucture and algorithms in c++,65c2ad3927c4e91908f3e42f,Michael T geolrich\nRoberto tamassia\nDavid maunt ,Wiley,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.75,0,NO
+65c2c3ad881df6d1bc84aef3,Fundamental and algorithms,65c2ae1127c4e91908f3e47a,Gilles brassard \nPaul bratley,PHI Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.99,0,NO
+65c2c3ad881df6d1bc84aef4,Data structure and program design,65c2b71a27c4e91908f3e486,Robert lu kruce,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.4,0,NO
+65c2c3ad881df6d1bc84aef5,A practial approch to data stuctures and algorithms,65c2ad3927c4e91908f3e42f,Sanjay p ahuja ,New Age International Publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.31,0,NO
+65c2c3ad881df6d1bc84aef6,Data stucture,65c2b71a27c4e91908f3e486,Richard f gilberg\nand Behroor a forerizon ,Cengage Learning McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.86,0,YES
+65c2c3ad881df6d1bc84aef7,Data structure and algorithms in c ,65c2ad3927c4e91908f3e42f,Brijendra kimas joshi,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.79,0,NO
+65c2c3ad881df6d1bc84aef8,Data stucture a programming approch with c,65c2b71a27c4e91908f3e486,Dhasmendra singh kuswaha\nArun kumar mishra,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.22,0,NO
+65c2c3ad881df6d1bc84aef9,Data stucture ,65c2b71a27c4e91908f3e486,Richard F gilberg\n& behroor a forerizon ,Cengage,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.47,0,YES
+65c2c3ad881df6d1bc84aefa,Software project management ,65c2ae1827c4e91908f3e47d,kieron conuray,Paraglyph,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.83,0,YES
+65c2c3ad881df6d1bc84aefb,software testing ,65c2ae1827c4e91908f3e47d,Naresh chauhan,Oxford Higher Education,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.94,0,YES
+65c2c3ad881df6d1bc84aefc,Essantial of software engineering,65c2ae1827c4e91908f3e47d,Frank tsui\norlando kararm,Jones & Bartlett,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.54,0,YES
+65c2c3ad881df6d1bc84aefd,Software quality,65c2acf327c4e91908f3e411,Miling limaye,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.91,0,NO
+65c2c3ad881df6d1bc84aefe,Software engineering project management,65c2ae1827c4e91908f3e47d,Richard m thayer\nEdward youdan,Wiley,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.13,0,YES
+65c2c3ad881df6d1bc84aeff,Software engineering ,65c2ae1827c4e91908f3e47d,carlo ghezzi \nmeldi jazayeri,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.7,0,NO
+65c2c3ad881df6d1bc84af00,software quality ,65c2acf327c4e91908f3e411,kamna malik\npraveen chaudhary,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.34,0,NO
+65c2c3ad881df6d1bc84af01,Software engineering fundamental ,65c2ae1827c4e91908f3e47d,Ali behforoor and Frederick j,Oxford Higher Education,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.55,0,NO
+65c2c3ad881df6d1bc84af02,Object oriented software engineering,65c2ae1827c4e91908f3e47d,Yogesh singh \nRudika malhotra,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.02,0,NO
+65c2c3ad881df6d1bc84af03,Software project management ,65c2acf327c4e91908f3e411,Joel henry,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.81,0,NO
+65c2c3ad881df6d1bc84af04,System Analysis and design,65c2ad5127c4e91908f3e438,Elias M awad,Galgotia Publications Pvt. Ltd.,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.24,0,NO
+65c2c3ad881df6d1bc84af05,software requirment ,65c2acf327c4e91908f3e411,Karl E vliegers,DreamTech,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.26,0,NO
+65c2c3ad881df6d1bc84af06,Software engineering ,65c2ae1827c4e91908f3e47d,Rogers oressman,McGraw Hill,2,5,5,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.32,0,NO
+65c2c3ad881df6d1bc84af07,software engineering,65c2ae1827c4e91908f3e47d,KK agrawal yogesh singh,New Age International Publisher,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.06,0,YES
+65c2c3ad881df6d1bc84af08,Object oriented software engineering,65c2ae1827c4e91908f3e47d,Dravid c kung ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.3,0,NO
+65c2c3ad881df6d1bc84af09,Software project management ,65c2acf327c4e91908f3e411,Bob hughes \nMike cotterell\npajib mailt,McGraw Hill,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.11,0,YES
+65c2c3ad881df6d1bc84af0a,Software engineering for internet application,65c2ae1827c4e91908f3e47d,Eve andersons\nphilip greenspun\nAndress grumet,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84af0b,Software testing tool,65c2acf327c4e91908f3e411,Dr. K.V.K.K prasad,DreamTech,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.14,0,NO
+65c2c3ad881df6d1bc84af0c,Introduction to software testing,65c2acf327c4e91908f3e411,Paul amman \nJeft offutt,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.34,0,NO
+65c2c3ad881df6d1bc84af0d,Software testing concepts and tools,65c2acf327c4e91908f3e411,Nageswara rao pusufuri,DreamTech,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.47,0,YES
+65c2c3ad881df6d1bc84af0e,software testing fundamental,65c2acf327c4e91908f3e411,Marrie L. Mutcheson,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.52,0,NO
+65c2c3ad881df6d1bc84af0f, software engineering,65c2ad2a27c4e91908f3e429,Waman S.  Jawadekar,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.43,0,YES
+65c2c3ad881df6d1bc84af10,Information technology project management ,65c2acf327c4e91908f3e411,kalty schwalbe,theomos,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.3,0,NO
+65c2c3ad881df6d1bc84af11,Software quality assurance ,65c2acf327c4e91908f3e411,Daniel galin,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.6,0,NO
+65c2c3ad881df6d1bc84af12,Software engineering,65c2ae1827c4e91908f3e47d,S A kelkar,Prentice Hall ,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.91,0,NO
+65c2c3ad881df6d1bc84af13,Software engineering ,65c2ae1827c4e91908f3e47d,"James E peters,\nwitold pedayez",Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.57,0,NO
+65c2c3ad881df6d1bc84af14,Software architecure,65c2adce27c4e91908f3e45f,Mary shaw\ndavid gaslish,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.95,0,NO
+65c2c3ad881df6d1bc84af15,Software engineering ,65c2ae1827c4e91908f3e47d,Pankey jalote,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.98,0,NO
+65c2c3ad881df6d1bc84af16,Fundmental of software engineering,65c2ae1827c4e91908f3e47d,pajib mall,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.29,0,NO
+65c2c3ad881df6d1bc84af17,An integrated approch to software engineering,65c2ae1827c4e91908f3e47d,pankaj jalote,narosa publishing,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.32,0,YES
+65c2c3ad881df6d1bc84af18,Harnessing green IT principles and practices,65c2ad9727c4e91908f3e447,San murugeson\nG R Gangadtharam,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.47,0,YES
+65c2c3ad881df6d1bc84af19,Basic concept of information technology workshop,65c2ad2a27c4e91908f3e429,G praveen babu \n MV narayan, B.s publishing,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.06,0,NO
+65c2c3ad881df6d1bc84af1a,Internatinal journal of information technology & knowledge ,65c2ad2a27c4e91908f3e429,chander kant ,serials publications,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84af1b,IT Stretegy for business,65c2ad9727c4e91908f3e447,"Parag kulkarni ,Pradip k chande ",Oxford Higher Education,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.31,0,NO
+65c2c3ad881df6d1bc84af1c,Text of remote sensing and geographical information system,65c2acbd27c4e91908f3e3ff,M anji,B.S Publication ,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.73,0,YES
+65c2c3ad881df6d1bc84af1d,IT & its application in business,65c2ad9727c4e91908f3e447,Reema thareja,Oxford Higher Education,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.73,0,NO
+65c2c3ad881df6d1bc84af1e,Nano technology,65c2b87927c4e91908f3e489,lyon E foster,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.13,0,NO
+65c2c3ad881df6d1bc84af1f,Modern information retrieval,65c2ad9727c4e91908f3e447,Ricarda baeza \nyates,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.34,0,YES
+65c2c3ad881df6d1bc84af20,IT enabled practices and embedded management paradigms,65c2add527c4e91908f3e462,"I c gupta , Deepak jarolia",Excel book,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.46,0,YES
+65c2c3ad881df6d1bc84af21,Management Information system,65c2ad9727c4e91908f3e447,Effy oz,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.2,0,YES
+65c2c3ad881df6d1bc84af22,Information theory inference and learning algorithms,65c2ad9727c4e91908f3e447,David JC maikey,Cengage Learning McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.42,0,NO
+65c2c3ad881df6d1bc84af23,Information system ,65c2ad9727c4e91908f3e447,steven alter,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.33,0,NO
+65c2c3ad881df6d1bc84af24,Information storage and management ,65c2ad9727c4e91908f3e447,,apper  publication ,1,4,4,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.97,0,YES
+65c2c3ad881df6d1bc84af25,Information system ,65c2ad9727c4e91908f3e447,konneth c laiden,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.88,0,NO
+65c2c3ad881df6d1bc84af26,Data structure and algorithms in c ++,65c2ad3927c4e91908f3e42f,Brijendra kimas joshi,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.47,0,NO
+65c2c3ad881df6d1bc84af27,Digital logic and computer design ,65c2b9a827c4e91908f3e4a2,M . Marris mann,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.82,0,NO
+65c2c3ad881df6d1bc84af28,Pattern recoginition algo for data mining,65c2ac3527c4e91908f3e3bb,Richard Johnson boeyht                                                   edward youdan,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.92,0,NO
+65c2c3ad881df6d1bc84af29,Digital image procceing,65c2b94527c4e91908f3e499,Rafal c conzatiom,Pearson,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.97,0,NO
+65c2c3ad881df6d1bc84af2a,Digital image procceing,65c2b94527c4e91908f3e499,Adele droblas ,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.17,0,NO
+65c2c3ad881df6d1bc84af2b,Digital signal processing ,65c2b94527c4e91908f3e499,Johannes A Beuchman ,Prentice Hall ,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.29,0,NO
+65c2c3ad881df6d1bc84af2c,communication system analog and digital,65c2b97027c4e91908f3e49c,R P Singh\nSD sapre,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.65,0,NO
+65c2c3ad881df6d1bc84af2d,compiler design in c,65c2b98d27c4e91908f3e49f,Allen l holub ,Prentice Hall ,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.09,0,NO
+65c2c3ad881df6d1bc84af2e,System programming,65c2ace127c4e91908f3e40b,Johannes A Beuchman ,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84af2f,Image proccessing analaysics and machine version,65c2b94527c4e91908f3e499,milan sonka,Cengage Learning McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.99,0,NO
+65c2c3ad881df6d1bc84af30,System programming,65c2ace127c4e91908f3e40b,D M Dhamdhere,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.74,0,NO
+65c2c3ad881df6d1bc84af31,Compiler construction principle and practice,65c2b98d27c4e91908f3e49f,kennets c lavden,Cengage Learning McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.04,0,NO
+65c2c3ad881df6d1bc84af32,Digital signal processing ,65c2b94527c4e91908f3e499,Chi - Tsonacmen,Oxford Higher Education,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.52,0,YES
+65c2c3ad881df6d1bc84af33,Digital image procceing,65c2b94527c4e91908f3e499,s c sakkrigaon,McGraw Hill,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.66,0,NO
+65c2c3ad881df6d1bc84af34,Digital system design with VMDL and synthesis,65c2b9a827c4e91908f3e4a2,K L Chang ,Macmillan India Ltd,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.92,0,YES
+65c2c3ad881df6d1bc84af35,Fundamental of logic design,65c2b9a827c4e91908f3e4a2,Rath kinney,Cengage Learning McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.22,0,NO
+65c2c3ad881df6d1bc84af36,Mastering orcale 6.0,65c2ba2627c4e91908f3e4a5,meenakshi serpes,BPB Publication,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.13,0,NO
+65c2c3ad881df6d1bc84af37,Data base system,65c2ba2627c4e91908f3e4a5,Ramez elmassi,Pearson,3,4,4,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.88,0,NO
+65c2c3ad881df6d1bc84af38,Data Base III plus,65c2ba2627c4e91908f3e4a5,R K Taxall,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.85,0,NO
+65c2c3ad881df6d1bc84af39,Introduction to Database mangement,65c2ba2627c4e91908f3e4a5,Naveen prakush,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.79,0,NO
+65c2c3ad881df6d1bc84af3a,Special edition using SQL,65c2ba2627c4e91908f3e4a5,Rafe colboun,presentce hall of india ,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.94,0,NO
+65c2c3ad881df6d1bc84af3b,Data base management system,65c2ba2627c4e91908f3e4a5,Raghu rana krishna,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.19,0,NO
+65c2c3ad881df6d1bc84af3c,Data base management system,65c2ba2627c4e91908f3e4a5,arun k majunclas,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.79,0,YES
+65c2c3ad881df6d1bc84af3d,An introduction to data base system,65c2ba2627c4e91908f3e4a5,Prof. J R Issac ,narosa publishing,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.25,0,NO
+65c2c3ad881df6d1bc84af3e,Data base management system,65c2ba2627c4e91908f3e4a5,G K Gupta ,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.32,0,NO
+65c2c3ad881df6d1bc84af3f,An advanced course in data base system,65c2ba2627c4e91908f3e4a5,suzanne ,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84af40,Distributed data base principle and system,65c2ba2627c4e91908f3e4a5,Stfane ceri,McGraw Hill,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.91,0,NO
+65c2c3ad881df6d1bc84af41,Information stage and program,65c2acbd27c4e91908f3e3ff,,npex publication 1,2,,,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.57,0,YES
+65c2c3ad881df6d1bc84af42,The data warehouse toolkit,65c2ac4027c4e91908f3e3cb,ralph kimball,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.43,0,NO
+65c2c3ad881df6d1bc84af43,Writing TSR's through C,65c2ace127c4e91908f3e40b,Yashavant kandalkar,BPB Publication,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.63,0,YES
+65c2c3ad881df6d1bc84af44,Data base system concepts,65c2ba2627c4e91908f3e4a5,Sibberchety kokth ,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.11,0,NO
+65c2c3ad881df6d1bc84af45,Data base management system,65c2ba2627c4e91908f3e4a5,kamon a mailta,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.95,0,NO
+65c2c3ad881df6d1bc84af46,Oracle database II generation,65c2ba2627c4e91908f3e4a5,Satish asnani,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.12,0,NO
+65c2c3ad881df6d1bc84af47,Data base management system,65c2ba2627c4e91908f3e4a5,R. pannersewan ,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.89,0,YES
+65c2c3ad881df6d1bc84af48,Principal of distribution data base of system,65c2ba2627c4e91908f3e4a5,M Tamer,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.46,0,NO
+65c2c3ad881df6d1bc84af49,Relational data base management system,65c2ba2627c4e91908f3e4a5,pankaj agrawal ,vei,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.8,0,NO
+65c2c3ad881df6d1bc84af4a,An intriduction to data base management systems ,65c2ba2627c4e91908f3e4a5,R K Bharti,A.B.P,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.17,0,YES
+65c2c3ad881df6d1bc84af4b,Data base system concepts,65c2ba2627c4e91908f3e4a5,Abrahem silbes schaty ,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.48,0,NO
+65c2c3ad881df6d1bc84af4c,An Introduction of Database system,65c2ba2627c4e91908f3e4a5,C J date,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.39,0,NO
+65c2c3ad881df6d1bc84af4d,Data base III plus ,65c2ba2627c4e91908f3e4a5,r x taxolic,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84af4e,C++ Database devlopment ,65c2ba2627c4e91908f3e4a5,Al stevens,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.36,0,NO
+65c2c3ad881df6d1bc84af4f,PHP and MYSQL,65c2ba2627c4e91908f3e4a5, Stene Surchiy ,Prentice Hall ,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.3,0,NO
+65c2c3ad881df6d1bc84af50,Wireless comunication ,65c2b97027c4e91908f3e49c,Theodare S. rappaport,Prentice Hall ,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.07,0,NO
+65c2c3ad881df6d1bc84af51,Introduction to data commmunication and networking ,65c2b97027c4e91908f3e49c,Wayne thomas,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.45,0,NO
+65c2c3ad881df6d1bc84af52,COM/DCOM primer plus,65c2ace127c4e91908f3e40b,Lorry mayfield,Sams,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.55,0,NO
+65c2c3ad881df6d1bc84af53,Data network commucation,65c2b97027c4e91908f3e49c,Milier,DreamTech,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.75,0,YES
+65c2c3ad881df6d1bc84af54,Computer network security,65c2acaa27c4e91908f3e3f9,"Watalia , olifer victor ",Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.11,0,NO
+65c2c3ad881df6d1bc84af55,Wireless comunication ,65c2b97027c4e91908f3e49c,p. meether,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.18,0,NO
+65c2c3ad881df6d1bc84af56,AD HOC wireless network,65c2b97027c4e91908f3e49c,Ozan K. tunguz,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.97,0,NO
+65c2c3ad881df6d1bc84af57,Wireless and mobile network architure,65c2b97027c4e91908f3e49c,yi binglin imrich,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.7,0,NO
+65c2c3ad881df6d1bc84af58,Wireless and communication,65c2b97027c4e91908f3e49c,mobile tg palaminch,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.88,0,NO
+65c2c3ad881df6d1bc84af59,Wireless communicatipon ,65c2b97027c4e91908f3e49c,Andreas F molisuh,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.58,0,YES
+65c2c3ad881df6d1bc84af5a,Wireless communication,65c2b97027c4e91908f3e49c,upena dalal,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.13,0,NO
+65c2c3ad881df6d1bc84af5b,Software engieering ,65c2ae1827c4e91908f3e47d,Rajesh narang,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.99,0,YES
+65c2c3ad881df6d1bc84af5c,System Analysis and design methods,65c2ad5127c4e91908f3e438,Jeffery L. whitter ,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.01,0,YES
+65c2c3ad881df6d1bc84af5d,Data communication and networking,65c2b97027c4e91908f3e49c,Willian stallings,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.71,0,YES
+65c2c3ad881df6d1bc84af5e,Wireless communication and networking,65c2b97027c4e91908f3e49c,Willian stallings,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.86,0,NO
+65c2c3ad881df6d1bc84af5f,An introduction to wireless technology,65c2b97027c4e91908f3e49c,gramy s royer ,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.08,0,YES
+65c2c3ad881df6d1bc84af60,Modern wireless communication,65c2b97027c4e91908f3e49c,simon haykin,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.14,0,NO
+65c2c3ad881df6d1bc84af61,Introduction to wireless & mobile systems,65c2b97027c4e91908f3e49c,dharma prakash,Cengage Learning McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.27,0,NO
+65c2c3ad881df6d1bc84af62,Data communication and networking,65c2adaf27c4e91908f3e453,behrouz A. foruizan ,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.06,0,NO
+65c2c3ad881df6d1bc84af63,Local area network,65c2adaf27c4e91908f3e453,stephen pm bridge,Galgotia Publications Pvt. Ltd.,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.15,0,NO
+65c2c3ad881df6d1bc84af64,Computer network security,65c2acaa27c4e91908f3e3f9,behrouz a foruizan ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.9,0,NO
+65c2c3ad881df6d1bc84af65,Software engineering concepts,65c2ae1827c4e91908f3e47d,richgard fairley ,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.78,0,NO
+65c2c3ad881df6d1bc84af66,Software architure ,65c2adce27c4e91908f3e45f,vasndev vetrma ,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.36,0,NO
+65c2c3ad881df6d1bc84af67,Software security engineering ,65c2ae1827c4e91908f3e47d,Julia H allen,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.38,0,NO
+65c2c3ad881df6d1bc84af68,System Analysis and design,65c2ad5127c4e91908f3e438,Arunesh goyal,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.83,0,YES
+65c2c3ad881df6d1bc84af69,Software estimation,65c2ae1827c4e91908f3e47d,Steve Mc connal,DreamTech,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.77,0,NO
+65c2c3ad881df6d1bc84af6a,Software testing,65c2acf327c4e91908f3e411,MG limaye,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.47,0,NO
+65c2c3ad881df6d1bc84af6b,Object oriented software engineering,65c2ae1827c4e91908f3e47d,Timothy C lethbrian,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.21,0,YES
+65c2c3ad881df6d1bc84af6c,Software engineering,65c2ae1827c4e91908f3e47d,JAN sommer villie,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.45,0,NO
+65c2c3ad881df6d1bc84af6d,Testing computer software,65c2acf327c4e91908f3e411,Cem kaner,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.29,0,NO
+65c2c3ad881df6d1bc84af6e,Software engineering fundamental ,65c2ae1827c4e91908f3e47d,alibehferouz,Oxford Higher Education,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.23,0,NO
+65c2c3ad881df6d1bc84af6f,Software engineering principle and practice ,65c2ae1827c4e91908f3e47d,deepak jain,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.83,0,NO
+65c2c3ad881df6d1bc84af70,Software project management ,65c2ae1827c4e91908f3e47d,Joel henry,Pearson,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.54,0,NO
+65c2c3ad881df6d1bc84af71,Java the complete reference,65c2ace127c4e91908f3e40b,Herbert schildt,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.54,0,NO
+65c2c3ad881df6d1bc84af72,Java devlopers guide,65c2ace127c4e91908f3e40b,Bill brogden,BPB Publication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.72,0,NO
+65c2c3ad881df6d1bc84af73,Active server page 2.0,65c2ad4527c4e91908f3e432,Stephen walkes,Sams,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.31,0,NO
+65c2c3ad881df6d1bc84af74,Javascript,65c2ad4527c4e91908f3e432,dongosslein,Cengage Learning McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.83,0,NO
+65c2c3ad881df6d1bc84af75,Java & .NET,65c2ace127c4e91908f3e40b,narayana rao,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.29,0,YES
+65c2c3ad881df6d1bc84af76,UNIX Network programming,65c2adaf27c4e91908f3e453,W richard stevens,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.05,0,NO
+65c2c3ad881df6d1bc84af77,object oriented designing java,65c2ace127c4e91908f3e40b,DALE SKRIEH,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.55,0,YES
+65c2c3ad881df6d1bc84af78,Object oriented programming in c++,65c2ace127c4e91908f3e40b,rajesh shukla ,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.08,0,NO
+65c2c3ad881df6d1bc84af79,Object oriented programming in c++,65c2ace127c4e91908f3e40b,rogers pressan,Galgotia Publications Pvt. Ltd.,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.94,0,YES
+65c2c3ad881df6d1bc84af7a,Mastering  c++,65c2ace127c4e91908f3e40b,KR venugopal,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.11,0,YES
+65c2c3ad881df6d1bc84af7b,Object oriented analysics & design ,65c2ace127c4e91908f3e40b,andraw haigh,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.87,0,NO
+65c2c3ad881df6d1bc84af7c,Object oriented programming in c++,65c2ace127c4e91908f3e40b,sourav soni,Oxford Higher Education,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.45,0,YES
+65c2c3ad881df6d1bc84af7d,A structure approch to fortran ,65c2ace127c4e91908f3e40b,raj kumar ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.55,0,NO
+65c2c3ad881df6d1bc84af7e,Object oriented programming in java,65c2ace127c4e91908f3e40b,raj kumar ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.31,0,NO
+65c2c3ad881df6d1bc84af7f,Programming with ANSI C++,65c2ace127c4e91908f3e40b,Bhushan Triveds,Oxford Higher Education,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.17,0,YES
+65c2c3ad881df6d1bc84af80,Object oriented programming,65c2ace127c4e91908f3e40b,Balayurrusemy,Oxford Higher Education,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.16,0,NO
+65c2c3ad881df6d1bc84af81,The Java FAQ,65c2ace127c4e91908f3e40b,Johni kanerva,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.54,0,YES
+65c2c3ad881df6d1bc84af82,Javascript,65c2ace127c4e91908f3e40b,steves suehring,PHI Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.95,0,NO
+65c2c3ad881df6d1bc84af83,object oriented programming with c++,65c2ace127c4e91908f3e40b,E balaguresomany,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.8,0,NO
+65c2c3ad881df6d1bc84af84,Pascal programming,65c2ace127c4e91908f3e40b,P radha \nGa neshal,New Age International Publisher,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.96,0,NO
+65c2c3ad881df6d1bc84af85,Computer science a stucture programming approch using c,65c2ace127c4e91908f3e40b,Behrouz A ferouzan ,Cengage Learning McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.16,0,NO
+65c2c3ad881df6d1bc84af86,Object oriented analysics & design using UML,65c2ace127c4e91908f3e40b,D jaya mala S. getha,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.44,0,NO
+65c2c3ad881df6d1bc84af87,Mastering c,65c2ace127c4e91908f3e40b,KR venugopal,DreamTech,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.57,0,YES
+65c2c3ad881df6d1bc84af88,Programming wirh pascal,65c2ace127c4e91908f3e40b,d ravi chandron,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.21,0,NO
+65c2c3ad881df6d1bc84af89,Windows 2000 network intrasuture design,65c2ad0827c4e91908f3e41a,,Technical Publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.31,0,NO
+65c2c3ad881df6d1bc84af8a,Mastring c++,65c2ace127c4e91908f3e40b,lorry mayfiesld,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.97,0,YES
+65c2c3ad881df6d1bc84af8b,programing problem with c++,65c2ace127c4e91908f3e40b,Nell bok chips,Jones & Bartlett Learning,2,13,13,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.4,0,NO
+65c2c3ad881df6d1bc84af8c,Visual basic 6.0,65c2ace127c4e91908f3e40b,content devlopment group,McGraw Hill,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.12,0,YES
+65c2c3ad881df6d1bc84af8d,Object oriented programming with c++,65c2ace127c4e91908f3e40b,E balagrisang,McGraw Hill,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.56,0,NO
+65c2c3ad881df6d1bc84af8e,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Joyce farrel,Cengage Learning McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.83,0,NO
+65c2c3ad881df6d1bc84af8f,Programming in fox pro 2.6,65c2ace127c4e91908f3e40b,gagan b sahoo,Khanna Book Publishing Company,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.52,0,YES
+65c2c3ad881df6d1bc84af90,A user guide to the unix system,65c2ba2627c4e91908f3e4a5,Dr. rebecca ,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.19,0,NO
+65c2c3ad881df6d1bc84af91,The design og the UNIX OS,65c2ba2627c4e91908f3e4a5,Maurica I bch ,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.78,0,NO
+65c2c3ad881df6d1bc84af92,Object oriented programming with c++,65c2ace127c4e91908f3e40b,dileep jali,Vikas Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.34,0,NO
+65c2c3ad881df6d1bc84af93,C++ data base devlopment ,65c2ba2627c4e91908f3e4a5,randal albert ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.26,0,NO
+65c2c3ad881df6d1bc84af94,Object oriented programming ,65c2ace127c4e91908f3e40b,david Pearsons,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.24,0,NO
+65c2c3ad881df6d1bc84af95,Object oriented programming with c++,65c2ace127c4e91908f3e40b,M P bhave ,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.9,0,NO
+65c2c3ad881df6d1bc84af96,Object oriented programming with c++,65c2ace127c4e91908f3e40b,rogers lafera,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.86,0,YES
+65c2c3ad881df6d1bc84af97,Javasript edition ,65c2ace127c4e91908f3e40b,herbert schildt,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.33,0,NO
+65c2c3ad881df6d1bc84af98,The assembly programming master book,65c2ace127c4e91908f3e40b,vlad piroyor,Laxmi Publications,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.33,0,NO
+65c2c3ad881df6d1bc84af99,Assembly language ,65c2ace127c4e91908f3e40b,Vasile lunges,Laxmi Publications,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.31,0,NO
+65c2c3ad881df6d1bc84af9a,Web Design Programming,65c2ad4b27c4e91908f3e435,Toel sklar,Thomson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.27,0,NO
+65c2c3ad881df6d1bc84af9c,Java the complete reference,65c2ace127c4e91908f3e40b,herbert schildt,McGraw Hill,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.28,0,NO
+65c2c3ad881df6d1bc84af9d,Enterprise java computing application and architecture,65c2ace127c4e91908f3e40b,Govind seshadani,Cengage Learning McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.94,0,YES
+65c2c3ad881df6d1bc84af9e,Addvance unix ,65c2ba2627c4e91908f3e4a5,stepheen ,BPB Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.88,0,NO
+65c2c3ad881df6d1bc84af9f,The complete reference visual  c++,65c2ace127c4e91908f3e40b,christopher m bishop,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.03,0,NO
+65c2c3ad881df6d1bc84afa0,The complete reference  visual java,65c2ace127c4e91908f3e40b,Patrik naughton,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.38,0,NO
+65c2c3ad881df6d1bc84afa1,Programming with pascal ,65c2ace127c4e91908f3e40b,K K venre gopal\ncana magya,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.67,0,NO
+65c2c3ad881df6d1bc84afa2,Computer science a stucture programming approch using c++,65c2ace127c4e91908f3e40b,behrouz a foruizan ,Cengage Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.47,0,YES
+65c2c3ad881df6d1bc84afa3,Fundamental of digital logic & microcomputer design ,65c2bba227c4e91908f3e4a8,M.Rafiquzzaman,Wiley India,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.99,0,NO
+65c2c3ad881df6d1bc84afa4,Embedded  Micro Computer System,65c2add527c4e91908f3e462,jonathan we valvano,Cengage Learning McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.84,0,NO
+65c2c3ad881df6d1bc84afa5,Introduction to programme & logic Controllers,65c2ace127c4e91908f3e40b,Gary Dvnning,Delmar Cengage Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.05,0,NO
+65c2c3ad881df6d1bc84afa6,Datamining ,65c2ac3527c4e91908f3e3bb,Jiacuehan micheline,Morgan Kaufmann,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.12,0,NO
+65c2c3ad881df6d1bc84afa7,8051 Microcontroller ,65c2bba227c4e91908f3e4a8,vu dayashan kara ,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.5,0,YES
+65c2c3ad881df6d1bc84afa8,8086 programming and advance processor architecture,65c2bba227c4e91908f3e4a8,MT savaliya,Wiley India,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.15,0,NO
+65c2c3ad881df6d1bc84afa9,Processor architecture & interfacing,65c2bba227c4e91908f3e4a8,swati jashi atul joshi ,Wiley Practise Textbook,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.53,0,YES
+65c2c3ad881df6d1bc84afaa,Data structures  & program design ,65c2bba227c4e91908f3e4a8,robert LK ruse,Eastern Economy Edition,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.68,0,NO
+65c2c3ad881df6d1bc84afab,Data structure using c,65c2b71a27c4e91908f3e486,"AaramM ,Tenenbaums",darling kinders ley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.67,0,NO
+65c2c3ad881df6d1bc84afac,Algorithm +  Data Structure = Program,65c2ae1127c4e91908f3e47a,Niklans wirth,Eastern Economy Edition,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.1,0,YES
+65c2c3ad881df6d1bc84afad,Data Structure in c++,65c2b71a27c4e91908f3e486,Ns Kutti,pui,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.89,0,NO
+65c2c3ad881df6d1bc84afae,Algorithm  ,65c2ae1127c4e91908f3e47a,Berman,cleavage,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.97,0,NO
+65c2c3ad881df6d1bc84afaf,fundamental of algorithm,65c2ae1127c4e91908f3e47a,Gilles brassord \npaul bratley,p41,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.5,0,NO
+65c2c3ad881df6d1bc84afb0,Data structure with application,65c2b71a27c4e91908f3e486,jean paul,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.74,0,YES
+65c2c3ad881df6d1bc84afb1,Quantum Computing,65c2ac5e27c4e91908f3e3e1,Vishal Sauni,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.5,0,NO
+65c2c3ad881df6d1bc84afb2,Concepts in enterprise resource planning,65c2ad0f27c4e91908f3e41d,elten monk,Cengage Learning,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.68,0,NO
+65c2c3ad881df6d1bc84afb3,Ecommerse strategy technology simplemention,65c2ad5727c4e91908f3e43b,gary p Bchneider,Cengage Learning McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.45,0,NO
+65c2c3ad881df6d1bc84afb4,High performance cluster computing,65c2ac5e27c4e91908f3e3e1,raj kumer,pearsch education,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.68,0,NO
+65c2c3ad881df6d1bc84afb5,Distributed operating system,65c2ba2627c4e91908f3e4a5,andrews S Taneubann,pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.8,0,NO
+65c2c3ad881df6d1bc84afb6,Data warehousing,65c2ac4027c4e91908f3e3cb,reena tharja,Oxford Higher Education,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.44,0,NO
+65c2c3ad881df6d1bc84afb7,Programming problem solving with java,65c2ace127c4e91908f3e40b,james in slack,BS publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.34,0,NO
+65c2c3ad881df6d1bc84afb8,Simplifying c,65c2ace127c4e91908f3e40b," harsal aralkar , sonal jain",DreamTech,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.06,0,NO
+65c2c3ad881df6d1bc84afb9,Windows  programming rinner plus,65c2ace127c4e91908f3e40b,jim cowger,walte group press,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.77,0,NO
+65c2c3ad881df6d1bc84afba,Programming in java 5.0,65c2ace127c4e91908f3e40b,"james p cohasn , jack w",McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.92,0,NO
+65c2c3ad881df6d1bc84afbb,The J2ff tutorial,65c2ace127c4e91908f3e40b,kathy walwath,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.29,0,NO
+65c2c3ad881df6d1bc84afbc,Programming with java,65c2ace127c4e91908f3e40b,john R Ubbard,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.42,0,YES
+65c2c3ad881df6d1bc84afbd,Java servlets ,65c2ace127c4e91908f3e40b,karl mars,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.01,0,NO
+65c2c3ad881df6d1bc84afbe,world wide web design with html,65c2ada327c4e91908f3e44d,c xavier,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.29,0,NO
+65c2c3ad881df6d1bc84afbf,The scheme programming language ,65c2ace127c4e91908f3e40b,r.kent,The MIT Press,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.5,0,NO
+65c2c3ad881df6d1bc84afc0,Programming in java  ,65c2ace127c4e91908f3e40b,sachin malhotra,Oxford Higher Education,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.71,0,NO
+65c2c3ad881df6d1bc84afc1,Java servlets jsp,65c2ace127c4e91908f3e40b,sona mukhi,BPB Publication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.82,0,YES
+65c2c3ad881df6d1bc84afc2,Systems programming ,65c2ace127c4e91908f3e40b,John J Dononan,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.05,0,NO
+65c2c3ad881df6d1bc84afc3,HTML black book,65c2ace127c4e91908f3e40b,steaven ,DreamTech,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.07,0,NO
+65c2c3ad881df6d1bc84afc4,Sams teach yourself XML,65c2ace127c4e91908f3e40b,siman north paul hermans,Sams,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.41,0,NO
+65c2c3ad881df6d1bc84afc5,Java certification ,65c2ace127c4e91908f3e40b,khalid A mughal and Rol,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.21,0,NO
+65c2c3ad881df6d1bc84afc6,Xml & Asp .NET,65c2ace127c4e91908f3e40b,ashwin karmava,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.6,0,NO
+65c2c3ad881df6d1bc84afc7,Advanced java programming,65c2ace127c4e91908f3e40b,Uttam K Ray,Oxford  ,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.92,0,NO
+65c2c3ad881df6d1bc84afc8,Programming with C,65c2ace127c4e91908f3e40b,RS Bichkar,Universities Press,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.04,0,NO
+65c2c3ad881df6d1bc84afc9,Introduction to parallel processing,65c2ace127c4e91908f3e40b,"M.Sasi Kumer,Dimesh.P.ravi",PUI,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.82,0,NO
+65c2c3ad881df6d1bc84afca,Digital Image Processing  Computer Vision,65c2b94527c4e91908f3e499,"Sanska, Hlome",Cangage Homing,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.77,0,YES
+65c2c3ad881df6d1bc84afcb,Java Fundamental classes,65c2ace127c4e91908f3e40b,David Flanagane ,SPD,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.18,0,NO
+65c2c3ad881df6d1bc84afcc,JDBC 3,65c2ace127c4e91908f3e40b,Bernord Van Hack,Wiley & sons,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.63,0,YES
+65c2c3ad881df6d1bc84afcd,Digital Image Processing  Computer Vision,65c2b94527c4e91908f3e499,"Saska , Boyle",Cangage Homing,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.94,0,NO
+65c2c3ad881df6d1bc84afce,The java tutorial Continued,65c2ace127c4e91908f3e40b,Compione walnath nums,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.64,0,NO
+65c2c3ad881df6d1bc84afcf,Big Java,65c2ace127c4e91908f3e40b,Cay Harstmaun,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.83,0,NO
+65c2c3ad881df6d1bc84afd0,Let us c++,65c2ace127c4e91908f3e40b,Yashwant Kanefkar,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.97,0,NO
+65c2c3ad881df6d1bc84afd1,Programming in c#,65c2ace127c4e91908f3e40b,E balagrisang,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.25,0,YES
+65c2c3ad881df6d1bc84afd2,Programing in c#,65c2ace127c4e91908f3e40b,Harsh Bhasim,Oxford Education,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.84,0,NO
+65c2c3ad881df6d1bc84afd3,Java & Object Oriented Programming,65c2ace127c4e91908f3e40b,Dehasish Java,PUI,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.88,0,NO
+65c2c3ad881df6d1bc84afd4,Digital Image Processing  Using Matlab,65c2ace127c4e91908f3e40b,"Rafacl c Gonzab , ",Matlab Examples,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84afd5,UNIX Network programming,65c2ace127c4e91908f3e40b,W.Richord Stevies Michack Foley,PUI,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.35,0,NO
+65c2c3ad881df6d1bc84afd6,Electronic Engineering Material & Devies ,65c2b9a827c4e91908f3e4a2,herbert schildt,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.75,0,NO
+65c2c3ad881df6d1bc84afd7,Digital Intergrated Electronics ,65c2b9a827c4e91908f3e4a2,Schilling,TMU,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.8,0,YES
+65c2c3ad881df6d1bc84afd8,JFC Unleased,65c2ace127c4e91908f3e40b,Michael Foley,TechMedia,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.22,0,NO
+65c2c3ad881df6d1bc84afd9,Analytics Across the EnterPrise ,65c2ad0827c4e91908f3e41a,Bsenda L.,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.65,0,NO
+65c2c3ad881df6d1bc84afda,Digital signal processing ,65c2b94527c4e91908f3e499,Saujit K.Mitra,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.67,0,NO
+65c2c3ad881df6d1bc84afdb,Advanced Electronic Communication systems,65c2b9a827c4e91908f3e4a2,wayare themas ,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.25,0,NO
+65c2c3ad881df6d1bc84afdc,Fundamental of logic design,65c2b9a827c4e91908f3e4a2,charles Rath,Thomson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.33,0,YES
+65c2c3ad881df6d1bc84afdd,Digital Circuits and system,65c2b9a827c4e91908f3e4a2,AP Godse Da Godse,Technical Publication,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.23,0,NO
+65c2c3ad881df6d1bc84afde,Electronic Devices and Circuits,65c2b9a827c4e91908f3e4a2,AP Godse Da Godse,Technical Publication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.18,0,NO
+65c2c3ad881df6d1bc84afdf,Device Electronic for Integrated Circuits,65c2b9a827c4e91908f3e4a2,Richard  S muller,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.13,0,NO
+65c2c3ad881df6d1bc84afe0,Digital Electronic,65c2b9a827c4e91908f3e4a2,Anil K Maini,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.57,0,NO
+65c2c3ad881df6d1bc84afe1,Analog and digital Communication,65c2b9a827c4e91908f3e4a2,charles Rath,Thomson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.91,0,NO
+65c2c3ad881df6d1bc84afe2,Digital Systems design using VUDL,65c2b9a827c4e91908f3e4a2,charles Rath,Thomson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.52,0,NO
+65c2c3ad881df6d1bc84afe3,Chip Design for submicron VLSI,65c2b9a827c4e91908f3e4a2,John P Vyemura,Thomson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.21,0,YES
+65c2c3ad881df6d1bc84afe4,TCP/IP,65c2adaf27c4e91908f3e453,Kevin R.Fall,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84afe5,Computer Networking ,65c2adaf27c4e91908f3e453,ED  Tittel,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.2,0,YES
+65c2c3ad881df6d1bc84afe6,Local Area Network,65c2adaf27c4e91908f3e453,SK Basandra,Galgotia Publications Pvt. Ltd. Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.13,0,NO
+65c2c3ad881df6d1bc84afe7,Internetworking with TCP/IP,65c2adaf27c4e91908f3e453,Douglas E Comer,PUI,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.4,0,YES
+65c2c3ad881df6d1bc84afe8,Introduction to high performance network,65c2adaf27c4e91908f3e453,B Matwwk Marun ,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.09,0,NO
+65c2c3ad881df6d1bc84afe9,Data communication and networking,65c2adaf27c4e91908f3e453,Drm Jain Satish Jain,BPP,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.65,0,NO
+65c2c3ad881df6d1bc84afea,Compiler Construction,65c2b98d27c4e91908f3e49f,DM Dhandhex,Macmillan India Ltd,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.52,0,NO
+65c2c3ad881df6d1bc84afeb,Principles of Communication Systems ,65c2ad9027c4e91908f3e444,herbert Donald Goutam,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.23,0,NO
+65c2c3ad881df6d1bc84afec,Electronic Devices and Circuits,65c2b9a827c4e91908f3e4a2,Muhammad H.Rashid,Cengage Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.13,0,NO
+65c2c3ad881df6d1bc84afed,VLSI design,65c2b9a827c4e91908f3e4a2,"A.Alhert Raj,t.Latha",PUI,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.25,0,YES
+65c2c3ad881df6d1bc84afee,MCSF(IIS4.0),65c2ba2627c4e91908f3e4a5,Jeff R ,Comdex Computer,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.37,0,YES
+65c2c3ad881df6d1bc84afef,Operating Systems,65c2ba2627c4e91908f3e4a5,Dhananjay,Mcgraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.46,0,NO
+65c2c3ad881df6d1bc84aff0,Operating Systems,65c2ba2627c4e91908f3e4a5,Brian L Stuart,Cengage Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.8,0,NO
+65c2c3ad881df6d1bc84aff1,Operating Systems,65c2ba2627c4e91908f3e4a5,Milian,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.32,0,NO
+65c2c3ad881df6d1bc84aff2,Operating Systems,65c2ba2627c4e91908f3e4a5,Stuart,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.19,0,NO
+65c2c3ad881df6d1bc84aff3,Operating Systems concepts,65c2ba2627c4e91908f3e4a5,AS Godbole,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.36,0,YES
+65c2c3ad881df6d1bc84aff4,System programming & Operating System,65c2ba2627c4e91908f3e4a5,DM Dhamdhere,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2,0,NO
+65c2c3ad881df6d1bc84aff5,Distributed operating system,65c2ba2627c4e91908f3e4a5,andrews S Taneubann,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.38,0,NO
+65c2c3ad881df6d1bc84aff6,Operating Systems,65c2ba2627c4e91908f3e4a5,Willian stallings,PUI,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.42,0,NO
+65c2c3ad881df6d1bc84aff7,Modern Operating Systems,65c2ba2627c4e91908f3e4a5,andrews S Taneubann,PUI,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.53,0,YES
+65c2c3ad881df6d1bc84aff8,Distributed System,65c2ad9027c4e91908f3e444,Soel M.Grichlow,PUI,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.49,0,NO
+65c2c3ad881df6d1bc84aff9,Operating Systems,65c2ba2627c4e91908f3e4a5,Eymosri Cavick,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84affa,Computer Systems architecture,65c2bba227c4e91908f3e4a8,Rob  Williums,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.77,0,NO
+65c2c3ad881df6d1bc84affb,Operating Systems,65c2ba2627c4e91908f3e4a5,Elmarri Cavion,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.98,0,NO
+65c2c3ad881df6d1bc84affc,Operating Systems,65c2ba2627c4e91908f3e4a5,Frynm,Cengage Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.03,0,NO
+65c2c3ad881df6d1bc84affd,Operating Systems,65c2ba2627c4e91908f3e4a5,Achyt s,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.49,0,NO
+65c2c3ad881df6d1bc84affe,Distributed operating system,65c2ba2627c4e91908f3e4a5,Pradeep K Sinha,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.45,0,NO
+65c2c3ad881df6d1bc84afff,Operating Systems,65c2ba2627c4e91908f3e4a5,Dhananjay, Mcgraw hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.12,0,YES
+65c2c3ad881df6d1bc84b000,The Architecture of Computer Hardware and system software,65c2bba227c4e91908f3e4a8,Irv  Englander,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.48,0,NO
+65c2c3ad881df6d1bc84b001,Operating Systems in Depth,65c2ba2627c4e91908f3e4a5,Thomas W.Dropper,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.07,0,NO
+65c2c3ad881df6d1bc84b002,Foundation of Operatong system,65c2ba2627c4e91908f3e4a5,DP Sharma,Excel book,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.67,0,YES
+65c2c3ad881df6d1bc84b003,Operating System,65c2ba2627c4e91908f3e4a5,SR saths,Macmillan India Ltd,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.93,0,YES
+65c2c3ad881df6d1bc84b004,Distributed Operating System,65c2ba2627c4e91908f3e4a5,Anil Ando,Macmillan India Ltd,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.31,0,NO
+65c2c3ad881df6d1bc84b005,Let us C Solution,65c2ace127c4e91908f3e40b,Yashwant Kanefkar,BPB Publication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.16,0,NO
+65c2c3ad881df6d1bc84b006,C programming Concept,65c2ace127c4e91908f3e40b,Jitander Kumar,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.44,0,NO
+65c2c3ad881df6d1bc84b007,Programming and Problem Solving wing c,65c2ace127c4e91908f3e40b,ISRD Group ,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.13,0,NO
+65c2c3ad881df6d1bc84b008,Object oriented programming in c++,65c2ace127c4e91908f3e40b,Rajcosh K Shukla,Wiley India,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.7,0,NO
+65c2c3ad881df6d1bc84b009,Learning c++,65c2ace127c4e91908f3e40b,Eric Naglor,Jaica Publishing,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.76,0,NO
+65c2c3ad881df6d1bc84b00a,Programming with c++,65c2ace127c4e91908f3e40b,D Rani CkanDran,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.43,0,NO
+65c2c3ad881df6d1bc84b00b,Interoduction to oops,65c2ace127c4e91908f3e40b,ISRD Group ,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.98,0,NO
+65c2c3ad881df6d1bc84b00c,object oriented programming with c++,65c2ace127c4e91908f3e40b,Balaguru Swammy,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.3,0,NO
+65c2c3ad881df6d1bc84b00d,Pointers Simplified,65c2ace127c4e91908f3e40b,Pankaj Narany,Kannna Book Publicity,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.78,0,NO
+65c2c3ad881df6d1bc84b00e,Mastering cloud computing,65c2ac5927c4e91908f3e3de,KR venugopal,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.43,0,NO
+65c2c3ad881df6d1bc84b00f,Thinking in C++,65c2ace127c4e91908f3e40b,PB Rohapatna,Khanna Book Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.33,0,NO
+65c2c3ad881df6d1bc84b010,C++ Primer answer book,65c2ace127c4e91908f3e40b,clsuis Bruck,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.41,0,NO
+65c2c3ad881df6d1bc84b011,Advanced Graphic Programming with C++,65c2ace127c4e91908f3e40b,Roger a charistoper,BPB Publication,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.51,0,NO
+65c2c3ad881df6d1bc84b012,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Rohit Khurana,Vikas Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.1,0,YES
+65c2c3ad881df6d1bc84b013,Programming in C ,65c2ace127c4e91908f3e40b,Pradip  dey Manas Ghash,Oxford,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.74,0,YES
+65c2c3ad881df6d1bc84b014,A First Book of Ansi-c,65c2ace127c4e91908f3e40b,Gary J.Branson,BPB Publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.04,0,NO
+65c2c3ad881df6d1bc84b015,C++ Programming,65c2ace127c4e91908f3e40b,Al stevens,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.99,0,NO
+65c2c3ad881df6d1bc84b016,Mastering C++,65c2ace127c4e91908f3e40b,KR venugopal,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.99,0,NO
+65c2c3ad881df6d1bc84b017,C++ Projects,65c2ace127c4e91908f3e40b,Reeta Sahoo,Khana Book,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.72,0,NO
+65c2c3ad881df6d1bc84b018,C Made Easy,65c2ace127c4e91908f3e40b,herbert schildt,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.06,0,NO
+65c2c3ad881df6d1bc84b019,Programming in ANSI-C,65c2ace127c4e91908f3e40b,E-Balaguru swammy,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.49,0,NO
+65c2c3ad881df6d1bc84b01a,Numerical Technique,65c2ac6e27c4e91908f3e3e7,EV,BPB Publication,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.45,0,NO
+65c2c3ad881df6d1bc84b01b,Programming with c,65c2ace127c4e91908f3e40b,Kamashw RS Bishuam,Universities Press,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2,0,NO
+65c2c3ad881df6d1bc84b01c,C++ Data  Structure,65c2ace127c4e91908f3e40b,Ncell Dolo,Jones and Bartlett,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.75,0,NO
+65c2c3ad881df6d1bc84b01d,Computer Science,65c2b54827c4e91908f3e480,behrouz a foruizan ,Thomson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.83,0,NO
+65c2c3ad881df6d1bc84b01e,Tech Yourself c++,65c2ace127c4e91908f3e40b,Heartbert,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.85,0,NO
+65c2c3ad881df6d1bc84b01f,Computer Arctecture & Logic Design,65c2bba227c4e91908f3e4a8,Thomas C Bartec,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.05,0,YES
+65c2c3ad881df6d1bc84b020,Internetworking with TCP/IP,65c2adaf27c4e91908f3e453,Donglas E.loner,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.08,0,NO
+65c2c3ad881df6d1bc84b021,Computer Organisation and Arctecture,65c2bba227c4e91908f3e4a8,Willian stallings,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.17,0,YES
+65c2c3ad881df6d1bc84b022,Data Structure ,65c2b71a27c4e91908f3e486,R.venkature,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.82,0,NO
+65c2c3ad881df6d1bc84b023,Analysis and Design of Algo,65c2ae1127c4e91908f3e47a,A.A Puntamboka,Technical Publications,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.58,0,NO
+65c2c3ad881df6d1bc84b024,Computer Organisation  ,65c2bba227c4e91908f3e4a8,V.call Hamacher,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.16,0,NO
+65c2c3ad881df6d1bc84b025,Fundamental and Principles of Computer,65c2ad3027c4e91908f3e42c,Joseph D Dumas,Taylor & Francis,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.95,0,NO
+65c2c3ad881df6d1bc84b026,Computer Arctecture and Organisation ,65c2bba227c4e91908f3e4a8,Miles Mardocca Vincent,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.6,0,NO
+65c2c3ad881df6d1bc84b027,Computer Organisation and Arctecture,65c2bba227c4e91908f3e4a8,Smruti Ranjan,McGraw Hill,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.89,0,NO
+65c2c3ad881df6d1bc84b028,Computer System Architecture,65c2bba227c4e91908f3e4a8,Rob Willians,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.34,0,NO
+65c2c3ad881df6d1bc84b029,Modern Computer Architecture,65c2bba227c4e91908f3e4a8,Ratiquzzaman,Galgotia Publications Pvt. Ltd. Publication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.32,0,NO
+65c2c3ad881df6d1bc84b02a,Computer Organisation,65c2bba227c4e91908f3e4a8,V.Rajaraman,Prentice Hall ,2,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.33,0,YES
+65c2c3ad881df6d1bc84b02b,Computer Architecture,65c2bba227c4e91908f3e4a8,Behrooz Parhami,Oxford,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.39,0,NO
+65c2c3ad881df6d1bc84b02c,Computer Organisation and Design,65c2bba227c4e91908f3e4a8,P.Palchoeudhur,Prentice Hall ,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.47,0,NO
+65c2c3ad881df6d1bc84b02d,Fundamental of Multimedia,65c2ad8527c4e91908f3e441,Ramesh Bangia,Khana Book,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.36,0,NO
+65c2c3ad881df6d1bc84b02e,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Donald Heari M.Paulins,PHI Learning,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.64,0,NO
+65c2c3ad881df6d1bc84b02f,Multimedia,65c2ad8527c4e91908f3e441,Toy Vaughan,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.64,0,NO
+65c2c3ad881df6d1bc84b030,Multimedia System Design,65c2ad8527c4e91908f3e441,Prabhat K Andligh,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.63,0,NO
+65c2c3ad881df6d1bc84b031,Computer System Architecture and Organisation,65c2bba227c4e91908f3e4a8,DR mUSHA,Wiley ,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.42,0,NO
+65c2c3ad881df6d1bc84b032,Computer architecture and paraller processing,65c2bba227c4e91908f3e4a8,"Kai hulang,Faye A brigg",McGraw Hill,3,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.09,0,YES
+65c2c3ad881df6d1bc84b033,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Steven harringt,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.81,0,NO
+65c2c3ad881df6d1bc84b034,Computer System organisation,65c2bba227c4e91908f3e4a8,Naresh jotwani,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.67,0,YES
+65c2c3ad881df6d1bc84b035,Computer Graphics secret and solutions,65c2bd7c27c4e91908f3e4ab,John corrigan,BPB publictions,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.22,0,YES
+65c2c3ad881df6d1bc84b036,Procedual element for computer graphics ,65c2bd7c27c4e91908f3e4ab,David F rogers,McGraw Hill,3,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.21,0,YES
+65c2c3ad881df6d1bc84b037,Multimedia computing communication & application,65c2ad8527c4e91908f3e441,"Mart steinmet,Kura manrstedt",Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.74,0,NO
+65c2c3ad881df6d1bc84b038,Computer system architecture,65c2bba227c4e91908f3e4a8,M. morris mano,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.75,0,NO
+65c2c3ad881df6d1bc84b039,Principle of interative computer graphics,65c2bd7c27c4e91908f3e4ab,"wiliam m nisean,robert fs mall",McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.53,0,NO
+65c2c3ad881df6d1bc84b03a,Computer graphics a programming approach,65c2bd7c27c4e91908f3e4ab,Steven harington,McGraw Hill,2,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.41,0,NO
+65c2c3ad881df6d1bc84b03b,Computer organisation,65c2bba227c4e91908f3e4a8,Pankaj agarwal,Vaijes educations,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.56,0,NO
+65c2c3ad881df6d1bc84b03c,Computer graphics and multimedia,65c2bd7c27c4e91908f3e4ab,G.S baliya,Dhanpat rai,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.12,0,NO
+65c2c3ad881df6d1bc84b03d,Digital design and computer organisation,65c2bba227c4e91908f3e4a8,"Dr. nasibs gill,J.B dixit",University Science process,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.71,0,NO
+65c2c3ad881df6d1bc84b03e,Computer organisation and architecture,65c2bba227c4e91908f3e4a8,Alan clemints,Cengage hearosing,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.5,0,NO
+65c2c3ad881df6d1bc84b03f,Computer architecture,65c2bba227c4e91908f3e4a8,Behrooz parhami,Oxford university press,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.64,0,NO
+65c2c3ad881df6d1bc84b040,Multimedia communication,65c2ad8527c4e91908f3e441,Fred halsall,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.46,0,NO
+65c2c3ad881df6d1bc84b041,Computer graphics & multimedia,65c2bd7c27c4e91908f3e4ab,"A.p Godse,D.A Godse",Technical publictions,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.28,0,NO
+65c2c3ad881df6d1bc84b042,Computer graphics,65c2bd7c27c4e91908f3e4ab,"A marendra N sinha,Arun D udai",McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84b043,Computer graphics principle and practice,65c2bd7c27c4e91908f3e4ab,"Foley vareham ,Feinger hughes",Pearson,2,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.9,0,NO
+65c2c3ad881df6d1bc84b044,Computer graphics,65c2bd7c27c4e91908f3e4ab,Rajesh K maurya,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.97,0,NO
+65c2c3ad881df6d1bc84b045,Data structure through c,65c2b71a27c4e91908f3e486,Yashwant kanetkar,BPB publications,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.26,0,NO
+65c2c3ad881df6d1bc84b046,Data structure using c,65c2b71a27c4e91908f3e486,R krishna marrthey,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.47,0,YES
+65c2c3ad881df6d1bc84b047,Supply chain manage mesh,65c2ac4e27c4e91908f3e3db,"Sunil chopra,peter mendl",PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.43,0,YES
+65c2c3ad881df6d1bc84b048,Android programming,65c2ace127c4e91908f3e40b,Eriis hellman,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.5,0,NO
+65c2c3ad881df6d1bc84b049,Algorithm design,65c2ae1127c4e91908f3e47a,Michodt crrodrich,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.47,0,NO
+65c2c3ad881df6d1bc84b04a,A  first book of c++ from here to these,65c2ace127c4e91908f3e40b,Gary j.bronson,Thomson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.01,0,NO
+65c2c3ad881df6d1bc84b04b,C with data structure,65c2ace127c4e91908f3e40b,Nageswara rools,DreamTech,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.74,0,NO
+65c2c3ad881df6d1bc84b04c,Data structure and program design in c,65c2b71a27c4e91908f3e486,"Robery l kruse, Bruce P.mung,clous c tande",PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.7,0,NO
+65c2c3ad881df6d1bc84b04d,Data structure using c,65c2b71a27c4e91908f3e486,ISRD Group ,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.11,0,YES
+65c2c3ad881df6d1bc84b04e,Design & analysis of algorithm,65c2ae1127c4e91908f3e47a,S.sridhar,Oxford,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.66,0,YES
+65c2c3ad881df6d1bc84b04f,Algorithm,65c2ae1127c4e91908f3e47a,Harsh Bhasim,Oxford,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.65,0,NO
+65c2c3ad881df6d1bc84b050,Algorithm and data structure in c++,65c2ae1127c4e91908f3e47a,Wendert ammgoal,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.74,0,NO
+65c2c3ad881df6d1bc84b051,Design and analysis of algorithm,65c2ae1127c4e91908f3e47a,R.pannerserk,PHI Learning,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.64,0,YES
+65c2c3ad881df6d1bc84b052,Formal language and automata theory,65c2ace127c4e91908f3e40b,"Kun sunitha,N kalyani",McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.94,0,NO
+65c2c3ad881df6d1bc84b053,Computer algorithm,65c2ae1127c4e91908f3e47a,"sara base,allen van godse",Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.2,0,YES
+65c2c3ad881df6d1bc84b054,Object oriented programming with C++,65c2ace127c4e91908f3e40b,David parsons,BPB,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.82,0,NO
+65c2c3ad881df6d1bc84b055,Graphics programming in c,65c2bd7c27c4e91908f3e4ab,Stevens,BPB,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.03,0,NO
+65c2c3ad881df6d1bc84b056,compilers,65c2b98d27c4e91908f3e49f,"Alfred V.Ahomenica,S.lam Ravi sethi,Jeffrey D.ullmon",Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.15,0,NO
+65c2c3ad881df6d1bc84b057,Compiler writing,65c2b98d27c4e91908f3e49f,"Lean paul trembly,paw sorenson",McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.92,0,NO
+65c2c3ad881df6d1bc84b058,Compiler design in c,65c2b98d27c4e91908f3e49f,Allen I.Holup,PHI Learning,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.04,0,YES
+65c2c3ad881df6d1bc84b059,Compiler design in c,65c2b98d27c4e91908f3e49f,Santanu chattopadhyay,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.76,0,NO
+65c2c3ad881df6d1bc84b05a,Engineering a compiler,65c2b98d27c4e91908f3e49f,"Keith D.cowper,Linda tarzen",Morgan Kaufmann,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.57,0,YES
+65c2c3ad881df6d1bc84b05b,Theory of Computation,65c2be2c27c4e91908f3e4ae,Michael sipser,Cenage learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.37,0,YES
+65c2c3ad881df6d1bc84b05c,Introduction to language & Toc,65c2be2c27c4e91908f3e4ae,John c martin,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.01,0,NO
+65c2c3ad881df6d1bc84b05d,Principle of compiler design,65c2b98d27c4e91908f3e49f,Alfred V. aho jeffrey D ullman,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.65,0,NO
+65c2c3ad881df6d1bc84b05e,Compiler design ,65c2b98d27c4e91908f3e49f,O.G.kakde,Laxmi Publications,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.46,0,NO
+65c2c3ad881df6d1bc84b05f,Principle of compiler design,65c2b98d27c4e91908f3e49f,V Raghman,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.15,0,YES
+65c2c3ad881df6d1bc84b060,Theoty of Computer Science,65c2be2c27c4e91908f3e4ae,"KLP Mishra,N. chandrase ",PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.63,0,NO
+65c2c3ad881df6d1bc84b061,Throry of computation,65c2be2c27c4e91908f3e4ae,A.A.puntambekar,Technical Publications,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.57,0,NO
+65c2c3ad881df6d1bc84b062,Introduction to automata theory language and computation,65c2be2c27c4e91908f3e4ae,"John E.HOP crojt,Rajeev motwani,jeffrey D.ullmon",Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.53,0,NO
+65c2c3ad881df6d1bc84b063,theory of computation'Compiler,65c2be2c27c4e91908f3e4ae,Michael sipser,Cengage,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.84,0,NO
+65c2c3ad881df6d1bc84b064,Compiler,65c2b98d27c4e91908f3e49f,"Alfred V, aho monicas lam,Ravi jethi",Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.29,0,NO
+65c2c3ad881df6d1bc84b065,Compiler design in c,65c2b98d27c4e91908f3e49f,"Jeffrey D.ullmon,Allen I.Holub",PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.88,0,NO
+65c2c3ad881df6d1bc84b066,Elements of theory of computation,65c2be2c27c4e91908f3e4ae,Hary R.lewis  Christos H pepadimirior,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.91,0,NO
+65c2c3ad881df6d1bc84b067,Data structure with c and c++,65c2b71a27c4e91908f3e486,Danjeev jojat,Khanna Book Publication,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.36,0,NO
+65c2c3ad881df6d1bc84b068,Compiler constructions,65c2b98d27c4e91908f3e49f,A.A Puntambekar,Technical Publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.11,0,YES
+65c2c3ad881df6d1bc84b069,Introduction to automata and compiler design,65c2be2c27c4e91908f3e4ae,Dasaradh Ramaian k.,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.69,0,YES
+65c2c3ad881df6d1bc84b06a,Principle of compiler design,65c2be2c27c4e91908f3e4ae,V Raghavan,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.07,0,NO
+65c2c3ad881df6d1bc84b06b,Principle of compiler design,65c2be2c27c4e91908f3e4ae,V Raghavan,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.08,0,YES
+65c2c3ad881df6d1bc84b06c,Modes compiler implementation in c,65c2b98d27c4e91908f3e49f,Andrew W apper,Combridge,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.73,0,NO
+65c2c3ad881df6d1bc84b06d,Theory of autometa language and computer,65c2be2c27c4e91908f3e4ae,Rajendra Kumar,McGraw Hill,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.4,0,YES
+65c2c3ad881df6d1bc84b06e,Elements of theory of computation,65c2be2c27c4e91908f3e4ae,harry R.lewis christos H.papadimiiren,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.87,0,YES
+65c2c3ad881df6d1bc84b06f,Fundamental of algorithm,65c2ae1127c4e91908f3e47a,Gilles Brassard paul Bratley,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.56,0,NO
+65c2c3ad881df6d1bc84b070,Imntroduction to compiler design,65c2b98d27c4e91908f3e49f,Daniel A Cotten,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.08,0,NO
+65c2c3ad881df6d1bc84b071,Data mining,65c2ac3527c4e91908f3e3bb,"Vikram pudi ,P. radha krishna",Oxford,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.22,0,NO
+65c2c3ad881df6d1bc84b073,Telecommunications and computer,65c2ad9027c4e91908f3e444,james martin,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.33,0,NO
+65c2c3ad881df6d1bc84b078,Computer architecture,65c2bba227c4e91908f3e4a8,K.M mebbos,Macmillan India Ltd,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.34,0,NO
+65c2c3ad881df6d1bc84b07a,Network security,65c2acaa27c4e91908f3e3f9,Charlie kautman,Prentice Hall,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.15,0,YES
+65c2c3ad881df6d1bc84b07b,Computer network,65c2ad0827c4e91908f3e41a,Bhushan trivedi,Oxford,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.08,0,NO
+65c2c3ad881df6d1bc84b07c,Local area network,65c2ad0827c4e91908f3e41a,Behrouz a foreuzan,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.82,0,YES
+65c2c3ad881df6d1bc84b081,Computer network,65c2ad0827c4e91908f3e41a,Mayank Dave,Cengage,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.56,0,NO
+65c2c3ad881df6d1bc84b082,TCP/IP illustreted,65c2ad0827c4e91908f3e41a,"Kereen R. fall ,W,richerdson",Pearson,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.31,0,NO
+65c2c3ad881df6d1bc84b083,Computer architecture and organisation,65c2bba227c4e91908f3e4a8,John P hayes,McGraw Hill,4,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.29,0,YES
+65c2c3ad881df6d1bc84b084,Networking approach to grid computing,65c2adaf27c4e91908f3e453,Daniel minoli,Wiley,1,3,3,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.07,0,NO
+65c2c3ad881df6d1bc84b085,Structured computer organisation,65c2bba227c4e91908f3e4a8,Andrew s trenbaun,PHI Learning,1,4,4,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.08,0,YES
+65c2c3ad881df6d1bc84b086,High performance cluster computing,65c2ac5e27c4e91908f3e3e1,Rajkumar buyya,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.03,0,NO
+65c2c3ad881df6d1bc84b087,Advance computer architecture,65c2bba227c4e91908f3e4a8,Sajjan G jhira,Taisar and frains,4,,,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.35,0,YES
+65c2c3ad881df6d1bc84b088,Broadband packet switching technology,65c2adaf27c4e91908f3e453,"H.jonathan Chao,Cheuk h.lam.eisi oki",Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.67,0,NO
+65c2c3ad881df6d1bc84b089,Parallel programming in with MPI and MP,65c2ac5e27c4e91908f3e3e1,Michael J. Quilnn,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.93,0,NO
+65c2c3ad881df6d1bc84b08a,Parallel computing,65c2ac5e27c4e91908f3e3e1,MR Bhujade,New Age International Publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.11,0,YES
+65c2c3ad881df6d1bc84b08b,Service oriented computing,65c2ac5e27c4e91908f3e3e1,Mundav P singh,Wiley,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.13,0,NO
+65c2c3ad881df6d1bc84b08c,The Grid Code technologies,65c2ac5e27c4e91908f3e3e1,Maozhen N Limask baka,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.68,0,YES
+65c2c3ad881df6d1bc84b08d,Computer graphics toc java programmer,65c2bd7c27c4e91908f3e4ab,leen Ammaal Kang zhang,Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.89,0,YES
+65c2c3ad881df6d1bc84b08e,Grid Computing,65c2ac5e27c4e91908f3e3e1,O janakiran,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.52,0,NO
+65c2c3ad881df6d1bc84b08f,Intrduction to parallel comuting,65c2ac5e27c4e91908f3e3e1,"Ananth Grama,Anshal Gupta Geolge kalypis,vipin Kumar",Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.13,0,NO
+65c2c3ad881df6d1bc84b090,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Rajesh K maurya,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.25,0,NO
+65c2c3ad881df6d1bc84b091,Computer Graphics,65c2bd7c27c4e91908f3e4ab,"RGS Asthana ,MK sinha",New Age International Publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.14,0,NO
+65c2c3ad881df6d1bc84b092,Multimedia and nimation kit,65c2ad8527c4e91908f3e441,Vikas Gupta,DreamTech,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.63,0,YES
+65c2c3ad881df6d1bc84b093,Data structure through c,65c2b71a27c4e91908f3e486,Yashwant kamtkar,BPB publication,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.28,0,NO
+65c2c3ad881df6d1bc84b094,Data structure using c,65c2b71a27c4e91908f3e486,"Aaran M,Tenenbar,yudidyan Langsam,Moshe J Augentein",always earning c Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.44,0,NO
+65c2c3ad881df6d1bc84b095,Fundamental of algorithm,65c2ae1127c4e91908f3e47a,Giller Brallar -Paul Brathey,PHI Learning,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.04,0,YES
+65c2c3ad881df6d1bc84b096,Analysis of information system,65c2ad2a27c4e91908f3e429,James Asenn,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.07,0,YES
+65c2c3ad881df6d1bc84b097,Desktop publishing on pc,65c2ad2a27c4e91908f3e429,MC.sharma,BPB,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.38,0,NO
+65c2c3ad881df6d1bc84b098,Information technology control & audit,65c2ad2a27c4e91908f3e429,"Fredride gallegos,Sandr semt,Daniel P manson, Carol crnzal",Aurbach,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.85,0,NO
+65c2c3ad881df6d1bc84b099,management information system,65c2ad2a27c4e91908f3e429,"Kenneth C Lauden,Jane phardon",Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.57,0,NO
+65c2c3ad881df6d1bc84b09a,Biometric,65c2b69727c4e91908f3e483,"Samir Narivati ,Michael Thieme,Rajnaravati",Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.8,0,YES
+65c2c3ad881df6d1bc84b09b,Introduction to c programming,65c2ace127c4e91908f3e40b,Reema Thareja,Oxford,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.08,0,NO
+65c2c3ad881df6d1bc84b09c,Programming with c++,65c2ace127c4e91908f3e40b,John Hubard,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.21,0,NO
+65c2c3ad881df6d1bc84b09d,C projects,65c2ace127c4e91908f3e40b,Yashvant kantkar,BPB,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.96,0,NO
+65c2c3ad881df6d1bc84b09e,web Hacking,65c2b69727c4e91908f3e483,"Stuart mcclure,Sacemilshah,Shreeraj shan",Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.13,0,YES
+65c2c3ad881df6d1bc84b09f,Dynamic web publishing,65c2ad4527c4e91908f3e432,Shelly paoey,Tech Media,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.64,0,YES
+65c2c3ad881df6d1bc84b0a0,Practical C++ programming,65c2ace127c4e91908f3e40b,steve onalline,O'Reilly Media,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.59,0,YES
+65c2c3ad881df6d1bc84b0a1,Android Application development,65c2adbd27c4e91908f3e456,"Lawren Darey,Shane condor",Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.68,0,NO
+65c2c3ad881df6d1bc84b0a2,Ropbotics fundamental concept analysis,65c2adf127c4e91908f3e46e,Asitava Ghashal,Oxford,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.65,0,YES
+65c2c3ad881df6d1bc84b0a3,Numerical Methods,65c2ac6e27c4e91908f3e3e7,Shrimanta pal,Oxford,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.39,0,YES
+65c2c3ad881df6d1bc84b0a4,Computer forensic & Investigator,65c2b69727c4e91908f3e483,"Nelson,Phillips engineer ,Steuart",Cengage,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.83,0,NO
+65c2c3ad881df6d1bc84b0a5,IBM PC & clone,65c2ad0027c4e91908f3e417,B govinda rajadar,McGraw Hill,4,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1,0,NO
+65c2c3ad881df6d1bc84b0a6,Mastering Turbo c,65c2ace127c4e91908f3e40b,Stam kelly Bootle,BPB,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.64,0,NO
+65c2c3ad881df6d1bc84b0a7,Introduction to object oriented programming in C++,65c2ace127c4e91908f3e40b,Graham seed,Springer,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.98,0,NO
+65c2c3ad881df6d1bc84b0a8,Ethical hacking and network defense,65c2b69727c4e91908f3e483,Michael T simpson,Cengage learning india,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.02,0,YES
+65c2c3ad881df6d1bc84b0a9,Software hacking,65c2b69727c4e91908f3e483,Ankit fadia Nishant das patnaik,Vikas Publishing House,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.39,0,NO
+65c2c3ad881df6d1bc84b0aa,ATM networking,65c2adaf27c4e91908f3e453,Sumit Kasera,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.97,0,YES
+65c2c3ad881df6d1bc84b0ab,structured Cobol Programmingnwith Business Applications,65c2ace127c4e91908f3e40b,NL SARDA,Pitambar publishing,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.92,0,NO
+65c2c3ad881df6d1bc84b0ac,Enterprise resources planning,65c2ad0f27c4e91908f3e41d,"Vinod kumar garg ,Nv venkita krishman",Prentice Hall ,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.21,0,NO
+65c2c3ad881df6d1bc84b0ad,Element of material science and engineering ,65c2ad2327c4e91908f3e426,Lawrence H van vlack,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.02,0,YES
+65c2c3ad881df6d1bc84b0ae,fundamental of Information technology,65c2ad2a27c4e91908f3e429,"Alex Leon ,Mathew Leon",Leon tech world,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.26,0,NO
+65c2c3ad881df6d1bc84b0af,Internet for everyone,65c2ad0827c4e91908f3e41a,"Alex Leon ,Mathew Leon",Leon tech world,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.25,0,NO
+65c2c3ad881df6d1bc84b0b0,Neural network,65c2adeb27c4e91908f3e46b,Simon haykin,Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.69,0,NO
+65c2c3ad881df6d1bc84b0b1,The ABCs of intenet,65c2ad0827c4e91908f3e41a,"Peter dyson,Pat lotmanLen crilbert",BPB publications,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.09,0,NO
+65c2c3ad881df6d1bc84b0b2,The  ABC s of internet,65c2ad0827c4e91908f3e41a,Christian Crumlish,BPB publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84b0b3,X Window Application programming,65c2ace127c4e91908f3e40b,ERICF johnson.Kevin Rechard,BPB publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.69,0,NO
+65c2c3ad881df6d1bc84b0b4,Introducing UNIX system V,65c2ba2627c4e91908f3e4a5,"Rachel morgan,Hennry MC Crrilton",McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.49,0,NO
+65c2c3ad881df6d1bc84b0b5,Understanding UNIX,65c2ba2627c4e91908f3e4a5,Stan kelly Bootle,Tech Publications,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.2,0,NO
+65c2c3ad881df6d1bc84b0b6,UNIX shell programming,65c2ace127c4e91908f3e40b,Yashvant kanetkar,BPB publications,5,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.63,0,NO
+65c2c3ad881df6d1bc84b0b7,UNIX concept & Application,65c2ba2627c4e91908f3e4a5,Sumitabh das,McGraw Hill,1,2,2,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.6,0,NO
+65c2c3ad881df6d1bc84b0b8,UNIX and shell programming,65c2ace127c4e91908f3e40b,"Behrouz a foruizan,Richard F crillberg ",Cengage Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.96,0,YES
+65c2c3ad881df6d1bc84b0b9,Advance Unix a programmer guide,65c2ba2627c4e91908f3e4a5,Stephen pratos,BPB publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.12,0,NO
+65c2c3ad881df6d1bc84b0ba,The concept Reference Linux,65c2bf9b27c4e91908f3e4b1,Richard L.peterson,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.55,0,NO
+65c2c3ad881df6d1bc84b0bb,red hat Linux 7. unleased,65c2bf9b27c4e91908f3e4b1,Bill Ball david pitts etal,BPB publications,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.12,0,NO
+65c2c3ad881df6d1bc84b0bc,Unix primer plus,65c2ba2627c4e91908f3e4a5,"Don martin ,stephen prata,Mitchel wissler,Mitchell waite,Dan wilson",BPB publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.82,0,YES
+65c2c3ad881df6d1bc84b0bd,Gray hat hacking,65c2b69727c4e91908f3e483,"Allen harper,Jonathan ness,cruldean lenkey,tereh williams,Chris edge,shan harris",McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.02,0,NO
+65c2c3ad881df6d1bc84b0be,Introuction to Linux : Installation & programming,65c2bf9b27c4e91908f3e4b1,LB venkate swara,BS publications,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.17,0,NO
+65c2c3ad881df6d1bc84b0bf,The complete reference Unix,65c2ba2627c4e91908f3e4a5,"Keneth rosen,Dovglas host ,james farber",McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.76,0,YES
+65c2c3ad881df6d1bc84b0c0,ATM networks,65c2adaf27c4e91908f3e453,"Rainer handel,Manfed N huber,stefen schroder",Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.46,0,NO
+65c2c3ad881df6d1bc84b0c1,Computer forensics and Investigation,65c2b69727c4e91908f3e483,Neson phillps enfiner steuart,Cengage learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.6,0,YES
+65c2c3ad881df6d1bc84b0c2,Supply chain architecture,65c2ad2a27c4e91908f3e429,William T walker CEPIM CIRM,CRC firess,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.41,0,YES
+65c2c3ad881df6d1bc84b0c3,Algorithms,65c2ae1127c4e91908f3e47a,"Sanjoy das gupta,christmas fapadimitiow,umesh vagirani",McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3,0,NO
+65c2c3ad881df6d1bc84b0c4,Hand om Microsoft SQL server 7 with VB6,65c2ba2627c4e91908f3e4a5,Wayne Freeze,BPB publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.4,0,NO
+65c2c3ad881df6d1bc84b0c5,Let us C++,65c2ace127c4e91908f3e40b,Yashwant kanetkar,BPB publications,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.07,0,YES
+65c2c3ad881df6d1bc84b0c6,Fuzzy Logic with engineering applications,65c2adeb27c4e91908f3e46b,Timothy J ross,Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.56,0,NO
+65c2c3ad881df6d1bc84b0c7,Intoduction to mechatronics,65c2adf127c4e91908f3e46e,appu kutton Kk,Oxford,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.19,0,NO
+65c2c3ad881df6d1bc84b0c8,Probability & statistics,65c2ac6427c4e91908f3e3e4,"Murray R spcegel ,John J schiller, R alu shrinnaran",McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.12,0,NO
+65c2c3ad881df6d1bc84b0c9,Computer Vision A Modern approach,65c2adf127c4e91908f3e46e,Forsyth prince,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.67,0,NO
+65c2c3ad881df6d1bc84b0ca,MCSE Windows 2000 network security design,65c2adaf27c4e91908f3e453,"Robert bragg MCSE ,MCT",BPB publications,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.05,0,NO
+65c2c3ad881df6d1bc84b0cb,Windows & programming,65c2ace127c4e91908f3e40b,"Nick Lecrenseki,Dovg holland,Allen sanders, Kevin Ashley",Wiley,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.89,0,NO
+65c2c3ad881df6d1bc84b0cc,The complete reference storage network,65c2adaf27c4e91908f3e453,Robert Spalding,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.67,0,NO
+65c2c3ad881df6d1bc84b0cd,beyond software architecture creating and sustaining winning solutions,65c2adce27c4e91908f3e45f,Luke huhmann,Pearson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.15,0,NO
+65c2c3ad881df6d1bc84b0ce,A cocise introduction to MATLAb,65c2ace127c4e91908f3e40b,william J paln,McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.26,0,YES
+65c2c3ad881df6d1bc84b0cf,Embedded systems: A contemporay design tool,65c2add527c4e91908f3e462,james K Peckol,Wiley,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.1,0,NO
+65c2c3ad881df6d1bc84b0d0,MTLAB and simulink introduction to application,65c2ace127c4e91908f3e40b,Paratha S mallik,Sciteeh Publication,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.82,0,NO
+65c2c3ad881df6d1bc84b0d1,software Architecture organisation principle and patterns,65c2adce27c4e91908f3e45f,"David m Dikel, David kane,James Revilson",Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.43,0,NO
+65c2c3ad881df6d1bc84b0d2,Mastering dos 60 & 62,65c2bf9b27c4e91908f3e4b1,Judd Robings,BPB publications,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.37,0,YES
+65c2c3ad881df6d1bc84b0d3,Professions ios programming,65c2ace127c4e91908f3e40b,Peter vandeput,Wiley,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.45,0,NO
+65c2c3ad881df6d1bc84b0d4,Matlab 74,65c2ace127c4e91908f3e40b,William J Palm,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.53,0,NO
+65c2c3ad881df6d1bc84b0d5, Android A programming divide,65c2ace127c4e91908f3e40b,Jerome(J.F) Di mazzio,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.7,0,NO
+65c2c3ad881df6d1bc84b0d6,Fundamental of open sources software,65c2ace127c4e91908f3e40b,MN Rao,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.04,0,NO
+65c2c3ad881df6d1bc84b0d7,E commerce an indian perspective,65c2ad5727c4e91908f3e43b,PT Joseph,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.87,0,NO
+65c2c3ad881df6d1bc84b0d8,Exploring python,65c2ace127c4e91908f3e40b,Timothy A Budd,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.17,0,YES
+65c2c3ad881df6d1bc84b0d9,Oracle Automatic storage management,65c2ba2627c4e91908f3e4a5,"Nitin venguzekar ,Murali Yallath,Rich Long",McGraw Hill,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.72,0,NO
+65c2c3ad881df6d1bc84b0da,Natural language processing & information retrival,65c2adf927c4e91908f3e471,Tanveer sieddqui,Oxford,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.25,0,NO
+65c2c3ad881df6d1bc84b0db,The complete reference Ado NET,65c2ace127c4e91908f3e40b,"Michael otey,Danielle Orey",McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.82,0,YES
+65c2c3ad881df6d1bc84b0dc,NET & CII programming,65c2ace127c4e91908f3e40b,Tanveer alam,ABP,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.19,0,NO
+65c2c3ad881df6d1bc84b0dd,Programming in ANSI-C,65c2ace127c4e91908f3e40b,E.Balagura Swami,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.56,0,YES
+65c2c3ad881df6d1bc84b0de,Mastering oracle 6.0,65c2ba2627c4e91908f3e4a5,"Meenakshs serps ,Soham desai,Ramnath sharma",BPB,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.87,0,NO
+65c2c3ad881df6d1bc84b0df,Pattern Recoginiton,65c2adeb27c4e91908f3e46b,Robert Schakoff,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.38,0,YES
+65c2c3ad881df6d1bc84b0e0,Exploring Python,65c2ace127c4e91908f3e40b,Timothy A Budd,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.33,0,NO
+65c2c3ad881df6d1bc84b0e1,introduction to Prolog,65c2ace127c4e91908f3e40b,carl Town send,BPB,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.27,0,NO
+65c2c3ad881df6d1bc84b0e2,VHDL primer,65c2ace127c4e91908f3e40b,J Bhasker,Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.64,0,NO
+65c2c3ad881df6d1bc84b0e3,CORBA with XML,65c2ace127c4e91908f3e40b,George M Dasi,BPB,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2,0,NO
+65c2c3ad881df6d1bc84b0e4,Computer Vision A Modern approach,65c2adeb27c4e91908f3e46b,"Forsyth,Ponce",PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.57,0,NO
+65c2c3ad881df6d1bc84b0e5,Learning with Python,65c2ace127c4e91908f3e40b,"Allen downey,jaffrey Eliener,Chris meyers",Wiley,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.02,0,NO
+65c2c3ad881df6d1bc84b0e6,"SQL ,PLSQL The Programming Language & Oracle",65c2ba2627c4e91908f3e4a5,Ivan Bayross,BPB,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.41,0,NO
+65c2c3ad881df6d1bc84b0e7,Oracle &i,65c2ba2627c4e91908f3e4a5,Jose A Ramal ho,BPB,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.41,0,NO
+65c2c3ad881df6d1bc84b0e8,Orcle Designer handbook,65c2ba2627c4e91908f3e4a5,Dr. paul Dorrey peter Koleter,McGraw Hill,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84b0e9,Computer Sceince A strucutred programming a progress using c,65c2b54827c4e91908f3e480,".Behrooz ,AF Richard F.culbery",Cengage,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.95,0,YES
+65c2c3ad881df6d1bc84b0ea,PHP Advance and oop,65c2ace127c4e91908f3e40b,Carry lieman,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.13,0,NO
+65c2c3ad881df6d1bc84b0eb,Swift in 24 hour,65c2ace127c4e91908f3e40b,BL milner,Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.02,0,NO
+65c2c3ad881df6d1bc84b0ec,Pearsonal oracle 8.0,65c2ba2627c4e91908f3e4a5,Jose.A Ramal HO,BPB,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.04,0,NO
+65c2c3ad881df6d1bc84b0ed,The Lowplete reference ASP NET,65c2ace127c4e91908f3e40b,Mathhew macdonald,McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.73,0,NO
+65c2c3ad881df6d1bc84b0ee,Hardware & Software of Pearsonal computer,65c2ad0027c4e91908f3e417,Sauj ay k Bose,New Age International Publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.27,0,NO
+65c2c3ad881df6d1bc84b0ef,Cobol programming,65c2ace127c4e91908f3e40b,"Mk roy, D ghosh dostidas",McGraw Hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.93,0,YES
+65c2c3ad881df6d1bc84b0f0,Esential of NET,65c2ace127c4e91908f3e40b,"Stephesite perry ,Atul Kuvati, Stephen watler ,Joseph mayo",Pearson,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.09,0,NO
+65c2c3ad881df6d1bc84b0f1,Computer & Information processing,65c2b54827c4e91908f3e480,"Stephesite perry ,Atul Kuvati, Stephen watler ,Joseph mayo",PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.81,0,NO
+65c2c3ad881df6d1bc84b0f2,Topology,65c2ac6e27c4e91908f3e3e7,James R Munkres,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.11,0,NO
+65c2c3ad881df6d1bc84b0f3,C & data structure,65c2ace127c4e91908f3e40b,P.Padmanabham,BS publications,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.5,0,NO
+65c2c3ad881df6d1bc84b0f4,Designing the user interface,65c2aced27c4e91908f3e40e,"Shroidetoman,Plaisant,Cohen,Jocobs",Pearson,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.79,0,NO
+65c2c3ad881df6d1bc84b0f5,Digital Logic & microprocessor,65c2b9a827c4e91908f3e4a2,Enocho Hwang,Thomson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.54,0,NO
+65c2c3ad881df6d1bc84b0f6,Object -oriented analysis & design,65c2adc927c4e91908f3e45c,crady .Booch,Pearson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.43,0,NO
+65c2c3ad881df6d1bc84b0f7,Java. Network programming,65c2ace127c4e91908f3e40b,Elliotte Rustu Haroid,Shroff,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.97,0,NO
+65c2c3ad881df6d1bc84b0f8,Introduction to programming and Computing,65c2b54827c4e91908f3e480,Matthias Fellessen Robert Bruce Findeler Mathas Flat Shhriram Krishnamurthy,PHI Learning,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.97,0,NO
+65c2c3ad881df6d1bc84b0f9,The complete reference,65c2ace127c4e91908f3e40b,Herbert Schildt,McGraw Hill,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.09,0,NO
+65c2c3ad881df6d1bc84b0fa,Advance java programming,65c2ace127c4e91908f3e40b,Uttam k.roy,Oxford,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.47,0,NO
+65c2c3ad881df6d1bc84b0fb,Java actually,65c2ace127c4e91908f3e40b,Khalid A mughal Forill hawre Rolf W.Rusmussen,Cengage,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.88,0,YES
+65c2c3ad881df6d1bc84b0fc,Information technology today,65c2ad2a27c4e91908f3e429,S.Jaiswal,Galgatia Publication,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.84,0,NO
+65c2c3ad881df6d1bc84b0fd,Structured Cobol Programming,65c2ace127c4e91908f3e40b,David Karlins,Techmedia,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.6,0,NO
+65c2c3ad881df6d1bc84b0fe,Upgrading to window 98,65c2ba2627c4e91908f3e4a5,Charhie russel sharon crano Fold,BPB,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.94,0,NO
+65c2c3ad881df6d1bc84b0ff,Windoww AP7 bible,65c2ba2627c4e91908f3e4a5,James L Couges,Galgotia Publications Pvt. Ltd.,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.41,0,NO
+65c2c3ad881df6d1bc84b100,Windows Azure,65c2ac5927c4e91908f3e3de,Robert braneti,PHI Learning,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,1.38,0,NO
+65c2c3ad881df6d1bc84b101,Management information system,65c2ad2a27c4e91908f3e429,James A obrien,Galgotia Publications Pvt. Ltd.,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.5,0,YES
+65c2c3ad881df6d1bc84b102,Information technology,65c2ad2a27c4e91908f3e429,Dennis P curtin kim toley kunal sen cathleen movin,Mc-Grow hill,1,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.83,0,NO
+65c2c3ad881df6d1bc84b103,Java Beans,65c2ace127c4e91908f3e40b,Richard Monson haesel,Shraff Publisher,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.05,0,YES
+65c2c3ad881df6d1bc84b104,Microsoft internet Explorer 4,65c2ad7f27c4e91908f3e43e,Richard Monson haesel,Techmedia,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.58,0,NO
+65c2c3ad881df6d1bc84b105,C++ programming,65c2ace127c4e91908f3e40b,D.S malik,Thomson,2,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,2.55,0,NO
+65c2c3ad881df6d1bc84b106,Structured Cobol Programming,65c2ace127c4e91908f3e40b,Shelly ashman series,Thomson,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.39,0,NO
+65c2c3ad881df6d1bc84b107,Programming Microsoft ASP Net 2.0,65c2ace127c4e91908f3e40b,Dino Esposito,WP Publisher,4,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.18,0,YES
+65c2c3ad881df6d1bc84b108,Managing information System in businesss government & society ,65c2acbd27c4e91908f3e3ff,Rahul DE,Wiley,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,4.53,0,YES
+65c2c3ad881df6d1bc84b109,Power System operation & Control,65c2acbd27c4e91908f3e3ff,"S.sivangaray ,G.Sreenivasam",Pearson,3,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.99,0,NO
+65c2c3ad881df6d1bc84b10a,X window System Programming,65c2ace127c4e91908f3e40b,Mabayoti Barkakati,PHI Learning,5,1,1,Available,English,2024-02-02 05:46:03,2024-02-02 05:46:03,3.91,0,NO

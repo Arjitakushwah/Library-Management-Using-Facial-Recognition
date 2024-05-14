@@ -1,0 +1,68 @@
+
+{% extends "index.html" %}
+
+{% block content %}
+<div class="container mt-5">
+  <h3 class="text-center mb-4"> Select Your Role</h3>
+  <div class="row">
+    <div class="col-md-6">
+      <button class="btn btn-danger btn-block" onclick="selectRole('student')">Student</button>
+    </div>
+    <div class="col-md-6">
+      <button class="btn btn-secondary btn-block" onclick="selectRole('librarian')">Librarian</button>
+    </div>
+  </div>
+</div>
+
+<!-- Student Login Form -->
+<div class="container mt-5" id="studentLogin" style="display: none;">
+  <h2 class="text-center">Student Login</h2>
+  <form action="{{ url_for('student_login') }}" method="POST">
+    <div class="form-group">
+      <label for="enrollment">Enrollment Number</label>
+      <input type="text" class="form-control" name = "enrollment" id="studentID" placeholder="Enter student ID">
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" class="form-control" name = "password" id="password" placeholder="Enter password">
+    </div>
+    <button type="submit" class="btn btn-primary btn-block">Login</button>
+  </form>
+</div>
+
+<!-- Librarian Login Form -->
+<div class="container mt-5" id="librarianLogin" style="display: none;">
+  <h2 class="text-center">Librarian Login</h2>
+  <form action="{{ url_for('admin_login') }}" method="POST">
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="text" class="form-control" id="email" name = "email" placeholder="Enter email">
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" class="form-control" id="password" name = "password" placeholder="Enter password">
+    </div>
+    <button type="submit" class="btn btn-primary btn-block">Login</button>
+  </form>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // JavaScript function to handle role selection
+  function selectRole(role) {
+    if (role === 'student') {
+      // Show student login form
+      document.getElementById('studentLogin').style.display = 'block';
+      // Hide librarian login form
+      document.getElementById('librarianLogin').style.display = 'none';
+    } else if (role === 'librarian') {
+      // Show librarian login form
+      document.getElementById('librarianLogin').style.display = 'block';
+      // Hide student login form
+      document.getElementById('studentLogin').style.display = 'none';
+    }
+    console.log("Selected role: " + role);
+  }
+</script>
+{% endblock %}

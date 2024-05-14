@@ -1,0 +1,716 @@
+﻿S.no,book_id,bookName,category_id,catagory_name,edition,Qty
+1,65c2c3ad881df6d1bc84ae35,Data warehoushing OLAP and data mining,65c2ac3527c4e91908f3e3bb,Data Mining,5,1
+2,65c2c3ad881df6d1bc84ae36,Mordern data warehouse mining and visulization,65c2ac3527c4e91908f3e3bb,Data Mining,4,1
+3,65c2c3ad881df6d1bc84ae37,Intrpduction to data mining,65c2ac3527c4e91908f3e3bb,Data Mining,4,1
+4,65c2c3ad881df6d1bc84ae38,Text mining Application programming,65c2ac3527c4e91908f3e3bb,Data Mining,4,1
+5,65c2c3ad881df6d1bc84ae39,Data Mining,65c2ac3527c4e91908f3e3bb,Data Mining,5,1
+6,65c2c3ad881df6d1bc84ae3a,The data warehouse lifestyle toolkit,65c2ac4027c4e91908f3e3cb,Data Warehousing,3,1
+7,65c2c3ad881df6d1bc84ae3b,Introduction to data mining with case studies,65c2ac3527c4e91908f3e3bb,Data Mining,5,1
+8,65c2c3ad881df6d1bc84ae3c,Web warehousing and knowledge management,65c2ac4027c4e91908f3e3cb,Data Warehousing,2,1
+9,65c2c3ad881df6d1bc84ae3d,Data Mining concept and Technique,65c2ac3527c4e91908f3e3bb,Data Mining,3,1
+10,65c2c3ad881df6d1bc84ae3e,Data mining method and?model,65c2ac3527c4e91908f3e3bb,Data Mining,5,2
+11,65c2c3ad881df6d1bc84ae3f,"Data warehousing, Data Mining & OLAP",65c2ac3527c4e91908f3e3bb,Data Mining,5,1
+12,65c2c3ad881df6d1bc84ae40,Data warehousing design devlopment and best practices,65c2ac4027c4e91908f3e3cb,Data Warehousing,4,1
+13,65c2c3ad881df6d1bc84ae41,Knowledge Management,65c2ac4e27c4e91908f3e3db,Knowledge Management,2,1
+14,65c2c3ad881df6d1bc84ae42,Data Warehousing fundamental,65c2ac4027c4e91908f3e3cb,Data Warehousing,2,2
+15,65c2c3ad881df6d1bc84ae43,Mastering Data warehouse design,65c2ac4027c4e91908f3e3cb,Data Warehousing,5,1
+16,65c2c3ad881df6d1bc84ae44,Pattern recoginition algo. for data mining,65c2ac3527c4e91908f3e3bb,Data Mining,3,1
+17,65c2c3ad881df6d1bc84ae45,Decision support & data warehouse system,65c2ac4027c4e91908f3e3cb,Data Warehousing,3,1
+18,65c2c3ad881df6d1bc84ae46,Cloud computing Bible,65c2ac5927c4e91908f3e3de,Cloud Computing,5,1
+19,65c2c3ad881df6d1bc84ae47,Microsoft private cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,1,1
+20,65c2c3ad881df6d1bc84ae48,Concepts in computing,65c2ac5e27c4e91908f3e3e1,Computing,4,1
+21,65c2c3ad881df6d1bc84ae49,Cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,1,2
+22,65c2c3ad881df6d1bc84ae4a,Cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,1,3
+23,65c2c3ad881df6d1bc84ae4b,Cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,3,1
+24,65c2c3ad881df6d1bc84ae4c,Mastering cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,5,1
+25,65c2c3ad881df6d1bc84ae4d,Cloud computing automating the virtualized data center,65c2ac5927c4e91908f3e3de,Cloud Computing,4,1
+26,65c2c3ad881df6d1bc84ae4e,Cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,5,1
+27,65c2c3ad881df6d1bc84ae4f,Cloud computing with the window  azure platform,65c2ac5927c4e91908f3e3de,Cloud Computing,3,1
+28,65c2c3ad881df6d1bc84ae50,cloud computing 2nd edition,65c2ac5927c4e91908f3e3de,Cloud Computing,5,1
+29,65c2c3ad881df6d1bc84ae51,Cloud computing or dummies,65c2ac5927c4e91908f3e3de,Cloud Computing,2,2
+30,65c2c3ad881df6d1bc84ae52,Cloud computing ,65c2ac5927c4e91908f3e3de,Cloud Computing,3,1
+31,65c2c3ad881df6d1bc84ae53,Enterprise cloud computing technology architecture application,65c2ac5927c4e91908f3e3de,Cloud Computing,2,1
+32,65c2c3ad881df6d1bc84ae54,Cloud computing based projects used distributed architecture,65c2ac5927c4e91908f3e3de,Cloud Computing,5,1
+33,65c2c3ad881df6d1bc84ae55,Applied Probability & statistics,65c2ac6427c4e91908f3e3e4,Probability and Statistics,5,1
+34,65c2c3ad881df6d1bc84ae56,Advance engineering mathematics ,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,2,1
+35,65c2c3ad881df6d1bc84ae57,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,5,1
+36,65c2c3ad881df6d1bc84ae58,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,1,1
+37,65c2c3ad881df6d1bc84ae59,Local area network,65c2ad0827c4e91908f3e41a,Computer Networks,1,1
+38,65c2c3ad881df6d1bc84ae5a,"Catalogue CS,CSE,IT",65c2b54827c4e91908f3e480,Computer Science,4,1
+39,65c2c3ad881df6d1bc84ae5b,Applied numerical method for engg. Using MATLAB &C ,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,1,2
+40,65c2c3ad881df6d1bc84ae5c,Element of discrete mathamatics,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,1,3
+41,65c2c3ad881df6d1bc84ae5d,Numerical Methods,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,2,1
+42,65c2c3ad881df6d1bc84ae5e,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,1,1
+43,65c2c3ad881df6d1bc84ae5f,Discrete mathematical structure for CS,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,1,1
+44,65c2c3ad881df6d1bc84ae60,Probability statistics & Queuing theory,65c2ac6427c4e91908f3e3e4,Probability and Statistics,1,1
+45,65c2c3ad881df6d1bc84ae61,Mathematical method of science & Engg.,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,5,1
+46,65c2c3ad881df6d1bc84ae62,Discrete mathematics  & graph theory,65c2ac9927c4e91908f3e3f3,Graph Theory,2,1
+47,65c2c3ad881df6d1bc84ae63,Discrete mathemetics,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,2,2
+48,65c2c3ad881df6d1bc84ae64,Stochastic process,65c2ac9227c4e91908f3e3f0,Stochastic Processes,3,1
+49,65c2c3ad881df6d1bc84ae65,Discrere mathematics ,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,5,3
+50,65c2c3ad881df6d1bc84ae66,Stochastic process,65c2ac9227c4e91908f3e3f0,Stochastic Processes,2,1
+51,65c2c3ad881df6d1bc84ae67,Discrete mathematics ,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,3,1
+52,65c2c3ad881df6d1bc84ae68,Discrete mathematics stucture,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,3,2
+53,65c2c3ad881df6d1bc84ae69,Graph theory with application of engineering and computer science,65c2ac9927c4e91908f3e3f3,Graph Theory,3,1
+54,65c2c3ad881df6d1bc84ae6a,Discrete Mathamatics with graph theory,65c2ac9927c4e91908f3e3f3,Graph Theory,5,2
+55,65c2c3ad881df6d1bc84ae6b,Numerical Methods,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,5,1
+56,65c2c3ad881df6d1bc84ae6c,Linear Algbra and its application ,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,3,1
+57,65c2c3ad881df6d1bc84ae6d,Matrix and linear algebra aided with MATLAB ,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,2,1
+58,65c2c3ad881df6d1bc84ae6e,Numerical Mathamatical and computing,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,3,1
+59,65c2c3ad881df6d1bc84ae6f,Linear Algebra,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,1,1
+60,65c2c3ad881df6d1bc84ae70,Gate - CSE,65c2b54827c4e91908f3e480,Computer Science,3,1
+61,65c2c3ad881df6d1bc84ae71,Introduction to graph theory,65c2ac9927c4e91908f3e3f3,Graph Theory,4,1
+62,65c2c3ad881df6d1bc84ae72,Discrete Mthamatical stucture with application on to computer science,65c2ac7627c4e91908f3e3ea,Discrete Mathematics,5,1
+63,65c2c3ad881df6d1bc84ae73,Crypotograph and network security,65c2aca027c4e91908f3e3f6,Cryptography and Network Security,1,1
+64,65c2c3ad881df6d1bc84ae74,Advance engineering mathamatics,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,3,1
+65,65c2c3ad881df6d1bc84ae75,Information security theory and practice,65c2acbd27c4e91908f3e3ff,Information Security,1,1
+66,65c2c3ad881df6d1bc84ae76,Crypotograph and network security,65c2aca027c4e91908f3e3f6,Cryptography and Network Security,3,2
+67,65c2c3ad881df6d1bc84ae77,Biomatrie for Network Security,65c2acaa27c4e91908f3e3f9,Network Security,3,1
+68,65c2c3ad881df6d1bc84ae78,Computer network security,65c2acaa27c4e91908f3e3f9,Network Security,3,1
+69,65c2c3ad881df6d1bc84ae79,Essential of error - control  coding,65c2acb127c4e91908f3e3fc,Error Control Coding,5,1
+70,65c2c3ad881df6d1bc84ae7a,Information assurance for the enterprise,65c2acbd27c4e91908f3e3ff,Information Security,2,1
+71,65c2c3ad881df6d1bc84ae7b,Introduction to cryptograph with coding theory,65c2acc327c4e91908f3e402,Cryptography,2,1
+72,65c2c3ad881df6d1bc84ae7c,Crypotograph and network security,65c2aca027c4e91908f3e3f6,Cryptography and Network Security,2,3
+73,65c2c3ad881df6d1bc84ae7d,Network security fundamental,65c2acaa27c4e91908f3e3f9,Network Security,5,1
+74,65c2c3ad881df6d1bc84ae7e,Information security principal and practicse,65c2acbd27c4e91908f3e3ff,Information Security,3,2
+75,65c2c3ad881df6d1bc84ae7f,Network security,65c2acaa27c4e91908f3e3f9,Network Security,4,2
+76,65c2c3ad881df6d1bc84ae80,Computer security fundamental,65c2ad0827c4e91908f3e41a,Computer Networks,3,1
+77,65c2c3ad881df6d1bc84ae81,Crypotography and network security,65c2aca027c4e91908f3e3f6,Cryptography and Network Security,4,1
+78,65c2c3ad881df6d1bc84ae82,Crypotography and network security,65c2aca027c4e91908f3e3f6,Cryptography and Network Security,2,1
+79,65c2c3ad881df6d1bc84ae83,Network Security A hackers perespective,65c2acaa27c4e91908f3e3f9,Network Security,5,1
+80,65c2c3ad881df6d1bc84ae84,Network Security bible,65c2acaa27c4e91908f3e3f9,Network Security,2,1
+81,65c2c3ad881df6d1bc84ae85,Security in computing ,65c2ad0827c4e91908f3e41a,Computer Networks,4,1
+82,65c2c3ad881df6d1bc84ae86,Introduction to cryptograph,65c2acc327c4e91908f3e402,Cryptography,2,1
+83,65c2c3ad881df6d1bc84ae87,Web security privacy & commence,65c2acaa27c4e91908f3e3f9,Network Security,5,1
+84,65c2c3ad881df6d1bc84ae88,Cryptography theory & pratices,65c2acc327c4e91908f3e402,Cryptography,5,1
+85,65c2c3ad881df6d1bc84ae89,Information security intelligence ,65c2acbd27c4e91908f3e3ff,Information Security,5,1
+86,65c2c3ad881df6d1bc84ae8a,Information system security,65c2acbd27c4e91908f3e3ff,Information Security,5,1
+87,65c2c3ad881df6d1bc84ae8b,Mobile computing theory and practice,65c2accc27c4e91908f3e405,Mobile Computing,1,1
+88,65c2c3ad881df6d1bc84ae8c,Mobile Application security,65c2acd527c4e91908f3e408,Mobile Security,2,1
+89,65c2c3ad881df6d1bc84ae8d,Mastering Turbo c,65c2ace127c4e91908f3e40b,Programming,5,1
+90,65c2c3ad881df6d1bc84ae8e,The essential guide to user interface design,65c2aced27c4e91908f3e40e,User Interface Design,5,1
+91,65c2c3ad881df6d1bc84ae8f,Intermational Stability Testing,65c2acf327c4e91908f3e411,Software Testing,3,1
+92,65c2c3ad881df6d1bc84ae90,Discrete event system stimulation,65c2addb27c4e91908f3e465,Simulation and Analysis,2,1
+93,65c2c3ad881df6d1bc84ae91,Computer Installation and servicing,65c2ad0027c4e91908f3e417,Computer Maintenance,3,1
+94,65c2c3ad881df6d1bc84ae92,COM/DCOM,65c2ad0827c4e91908f3e41a,Computer Networks,5,2
+95,65c2c3ad881df6d1bc84ae93,ERP Demystified,65c2ad0f27c4e91908f3e41d,Enterprise Resource Planning,3,1
+96,65c2c3ad881df6d1bc84ae94,Mastering 1-2-3,65c2ad1627c4e91908f3e420,Spreadsheet Software,2,1
+97,65c2c3ad881df6d1bc84ae95,Crystal Report ,65c2ad1c27c4e91908f3e423,Reporting Software,5,1
+98,65c2c3ad881df6d1bc84ae96,Basic computer engineering,65c2ad2327c4e91908f3e426,Computer Engineering,1,3
+99,65c2c3ad881df6d1bc84ae97,Information Technology,65c2ad2a27c4e91908f3e429,Information Technology,5,1
+100,65c2c3ad881df6d1bc84ae98,Fundamental of computer,65c2ad3027c4e91908f3e42c,Computer Fundamentals,2,1
+101,65c2c3ad881df6d1bc84ae99,Data stucturing and algorithm,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,5,1
+102,65c2c3ad881df6d1bc84ae9a,Web Design Programming,65c2ad4527c4e91908f3e432,Web Development,4,1
+103,65c2c3ad881df6d1bc84ae9b,Desegning interactive web series,65c2ad4b27c4e91908f3e435,Web Design,3,1
+104,65c2c3ad881df6d1bc84ae9c,System Analysis design and MIS,65c2ad5127c4e91908f3e438,System Analysis and Design,5,1
+105,65c2c3ad881df6d1bc84ae9d,System Analysis and design,65c2ad5127c4e91908f3e438,System Analysis and Design,4,1
+106,65c2c3ad881df6d1bc84ae9e,Web programming building Internet application,65c2ad4527c4e91908f3e432,Web Development,3,3
+107,65c2c3ad881df6d1bc84ae9f,Web application concepts & Real world design,65c2ad4527c4e91908f3e432,Web Development,2,1
+108,65c2c3ad881df6d1bc84aea0,E commerce strategy technology & application,65c2ad5727c4e91908f3e43b,E-commerce,5,1
+109,65c2c3ad881df6d1bc84aea1,Electronic commence ,65c2ad5727c4e91908f3e43b,E-commerce,1,1
+110,65c2c3ad881df6d1bc84aea2,Electronic commence from vision to fulfillment ,65c2ad5727c4e91908f3e43b,E-commerce,3,1
+111,65c2c3ad881df6d1bc84aea3,Multimeadia and web design,65c2ad8527c4e91908f3e441,Multimedia,4,1
+112,65c2c3ad881df6d1bc84aea4,Multimedia :making it work,65c2ad8527c4e91908f3e441,Multimedia,4,1
+113,65c2c3ad881df6d1bc84aea5,Module communication engineering,65c2ad9027c4e91908f3e444,Communication Engineering,2,1
+114,65c2c3ad881df6d1bc84aea6,"Web programming with HTML,XHTML,CSS",65c2ad4527c4e91908f3e432,Web Development,3,1
+115,65c2c3ad881df6d1bc84aea7,Developing web application,65c2ad4527c4e91908f3e432,Web Development,2,1
+116,65c2c3ad881df6d1bc84aea8,Internet and web technology,65c2ad9727c4e91908f3e447,Internet Technology,1,1
+117,65c2c3ad881df6d1bc84aea9,Computer fundamental and Programming in c,65c2ad3027c4e91908f3e42c,Computer Fundamentals,5,1
+118,65c2c3ad881df6d1bc84aeaa,Computer fundamental and Programming in c,65c2ad3027c4e91908f3e42c,Computer Fundamentals,3,1
+119,65c2c3ad881df6d1bc84aeab,Inside XMl,65c2ad9e27c4e91908f3e44a,XML,5,1
+120,65c2c3ad881df6d1bc84aeac,HTML:The complete refernce,65c2ada327c4e91908f3e44d,HTML,4,1
+121,65c2c3ad881df6d1bc84aead,Computer fundamental and Programming,65c2ad3027c4e91908f3e42c,Computer Fundamentals,3,1
+122,65c2c3ad881df6d1bc84aeae,Data processing,65c2ada927c4e91908f3e450,Data Processing,3,1
+123,65c2c3ad881df6d1bc84aeaf,Introduction to computer,65c2ad3027c4e91908f3e42c,Computer Fundamentals,4,1
+124,65c2c3ad881df6d1bc84aeb0,Computer fundamentals with pharmacy application,65c2ad3027c4e91908f3e42c,Computer Fundamentals,2,1
+125,65c2c3ad881df6d1bc84aeb1,Computer fundamental concepts system & application,65c2ad3027c4e91908f3e42c,Computer Fundamentals,1,1
+126,65c2c3ad881df6d1bc84aeb2,Data communications and Networking,65c2adaf27c4e91908f3e453,Networking,3,1
+127,65c2c3ad881df6d1bc84aeb3,"Local Area networks management , Design and security",65c2adaf27c4e91908f3e453,Networking,3,1
+128,65c2c3ad881df6d1bc84aeb4,Local Area networks,65c2adaf27c4e91908f3e453,Networking,5,2
+129,65c2c3ad881df6d1bc84aeb5,Understanding data communication & Network,65c2adaf27c4e91908f3e453,Networking,2,1
+130,65c2c3ad881df6d1bc84aeb6,ATM network concept and protocols,65c2adaf27c4e91908f3e453,Networking,5,1
+131,65c2c3ad881df6d1bc84aeb7,Wireless networks,65c2adaf27c4e91908f3e453,Networking,5,1
+132,65c2c3ad881df6d1bc84aeb8,Corparate computer and network security,65c2acaa27c4e91908f3e3f9,Network Security,5,1
+133,65c2c3ad881df6d1bc84aeb9,Information security policies and procedures,65c2acbd27c4e91908f3e3ff,Information Security,4,1
+134,65c2c3ad881df6d1bc84aeba,An Ethical Hacking guide to coporate security,65c2b69727c4e91908f3e483,Ethical Hacking,2,1
+135,65c2c3ad881df6d1bc84aebb,Information security,65c2acbd27c4e91908f3e3ff,Information Security,4,1
+136,65c2c3ad881df6d1bc84aebc,Mobile and HOC Network,65c2adaf27c4e91908f3e453,Networking,5,1
+137,65c2c3ad881df6d1bc84aebd,Network security and cryptography,65c2acaa27c4e91908f3e3f9,Network Security,1,1
+138,65c2c3ad881df6d1bc84aebe,Mobile computing,65c2accc27c4e91908f3e405,Mobile Computing,4,1
+139,65c2c3ad881df6d1bc84aebf,Data communications ,65c2adaf27c4e91908f3e453,Networking,4,1
+140,65c2c3ad881df6d1bc84aec0,Data communications and Networking,65c2adaf27c4e91908f3e453,Networking,1,1
+141,65c2c3ad881df6d1bc84aec1,Data communications  Networks and systems,65c2adaf27c4e91908f3e453,Networking,4,1
+142,65c2c3ad881df6d1bc84aec2,Mobile communictions,65c2adbd27c4e91908f3e456,Mobile Communication,5,2
+143,65c2c3ad881df6d1bc84aec3,Information theory coding and cryptography,65c2acc327c4e91908f3e402,Cryptography,5,1
+144,65c2c3ad881df6d1bc84aec4,Interaction design beyond humabn computer intraction,65c2adc327c4e91908f3e459,Interaction Design,2,1
+145,65c2c3ad881df6d1bc84aec5,Object orienal moduling and design with UML ,65c2adc927c4e91908f3e45c,Object-Oriented Design,3,2
+146,65c2c3ad881df6d1bc84aec6,The object oriated thought process,65c2adc927c4e91908f3e45c,Object-Oriented Design,4,1
+147,65c2c3ad881df6d1bc84aec7,Designing object oriented software,65c2adc927c4e91908f3e45c,Object-Oriented Design,4,1
+148,65c2c3ad881df6d1bc84aec8,Service orianted architecture,65c2adce27c4e91908f3e45f,Service-Oriented Architecture,3,3
+149,65c2c3ad881df6d1bc84aec9,Object oriented analysics & design with application,65c2adc927c4e91908f3e45c,Object-Oriented Design,5,1
+150,65c2c3ad881df6d1bc84aeca,Embedded system,65c2add527c4e91908f3e462,Embedded Systems,4,1
+151,65c2c3ad881df6d1bc84aecb,Embedded system design,65c2add527c4e91908f3e462,Embedded Systems,4,1
+152,65c2c3ad881df6d1bc84aecc,Embedded micro computer systems,65c2add527c4e91908f3e462,Embedded Systems,2,1
+153,65c2c3ad881df6d1bc84aecd,Simulation Moduling  and analysis,65c2add527c4e91908f3e462,Embedded Systems,2,2
+154,65c2c3ad881df6d1bc84aece,System moduling and simulations,65c2addb27c4e91908f3e465,Simulation and Analysis,5,2
+155,65c2c3ad881df6d1bc84aecf,Embedded system design,65c2ade527c4e91908f3e468,Simulation and Modeling,2,2
+156,65c2c3ad881df6d1bc84aed0,Neural networks for pattern recoginition,65c2add527c4e91908f3e462,Embedded Systems,4,1
+157,65c2c3ad881df6d1bc84aed1,Artificial intelligence and experts system,65c2adeb27c4e91908f3e46b,Neural Networks,2,1
+158,65c2c3ad881df6d1bc84aed2,An Introduction to neural network,65c2adf127c4e91908f3e46e,Artificial Intelligence,1,1
+159,65c2c3ad881df6d1bc84aed3,Artificial inteligence and intelligent system,65c2adeb27c4e91908f3e46b,Neural Networks,3,2
+160,65c2c3ad881df6d1bc84aed4,Natural language processing and information retrieval ,65c2adf127c4e91908f3e46e,Artificial Intelligence,3,2
+161,65c2c3ad881df6d1bc84aed5,System simulation moduling and language ,65c2adf927c4e91908f3e471,Natural Language Processing,2,1
+162,65c2c3ad881df6d1bc84aed6,Total quality management,65c2ade527c4e91908f3e468,Simulation and Modeling,2,1
+163,65c2c3ad881df6d1bc84aed7,Neural network fuzzy logic and ganctic algorithms,65c2ae0127c4e91908f3e474,Quality Management,1,1
+164,65c2c3ad881df6d1bc84aed8,Artifificial Intelligence,65c2adeb27c4e91908f3e46b,Neural Networks,4,1
+165,65c2c3ad881df6d1bc84aed9,Introduction to embedded system ,65c2adf127c4e91908f3e46e,Artificial Intelligence,2,1
+166,65c2c3ad881df6d1bc84aeda,Embedded system design,65c2add527c4e91908f3e462,Embedded Systems,3,2
+167,65c2c3ad881df6d1bc84aedb,Embedded system A contemporary design ,65c2add527c4e91908f3e462,Embedded Systems,4,2
+168,65c2c3ad881df6d1bc84aedc,An embedded software primer,65c2add527c4e91908f3e462,Embedded Systems,4,1
+169,65c2c3ad881df6d1bc84aedd,Embedded system design,65c2add527c4e91908f3e462,Embedded Systems,1,1
+170,65c2c3ad881df6d1bc84aede,Real time embbed system and components,65c2add527c4e91908f3e462,Embedded Systems,3,1
+171,65c2c3ad881df6d1bc84aedf,Embedded c programming and the microchip pic,65c2add527c4e91908f3e462,Embedded Systems,1,1
+172,65c2c3ad881df6d1bc84aee0,System simulation with digital computer,65c2ade527c4e91908f3e468,Simulation and Modeling,2,1
+173,65c2c3ad881df6d1bc84aee1,System modelling and analysis,65c2ad5127c4e91908f3e438,System Analysis and Design,4,1
+174,65c2c3ad881df6d1bc84aee2,system modelling and simulations,65c2ade527c4e91908f3e468,Simulation and Modeling,3,1
+175,65c2c3ad881df6d1bc84aee3,Artificisal intelligence,65c2adf127c4e91908f3e46e,Artificial Intelligence,3,2
+176,65c2c3ad881df6d1bc84aee4,Artificisal intelligence,65c2adf127c4e91908f3e46e,Artificial Intelligence,3,1
+177,65c2c3ad881df6d1bc84aee5,Fundamental and parallel algorithms,65c2ae1127c4e91908f3e47a,Algorithms,2,1
+178,65c2c3ad881df6d1bc84aee6,Data strutures using c ,65c2b71a27c4e91908f3e486,Data Structures,1,1
+179,65c2c3ad881df6d1bc84aee7,Data strutures using c++,65c2b71a27c4e91908f3e486,Data Structures,1,1
+180,65c2c3ad881df6d1bc84aee8,Data stuctures using c,65c2b71a27c4e91908f3e486,Data Structures,3,1
+181,65c2c3ad881df6d1bc84aee9,Classic data structures,65c2b71a27c4e91908f3e486,Data Structures,2,2
+182,65c2c3ad881df6d1bc84aeea,Data strutures using c ,65c2b71a27c4e91908f3e486,Data Structures,1,1
+183,65c2c3ad881df6d1bc84aeeb,Dta stucture - I,65c2b71a27c4e91908f3e486,Data Structures,5,2
+184,65c2c3ad881df6d1bc84aeec,Data stucture and algorithms in java ,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,5,1
+185,65c2c3ad881df6d1bc84aeed,Programming and data stucture II,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,5,1
+186,65c2c3ad881df6d1bc84aeee,Data Strutures and  algorithms,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,5,2
+187,65c2c3ad881df6d1bc84aeef,C & Data structure,65c2b71a27c4e91908f3e486,Data Structures,1,1
+188,65c2c3ad881df6d1bc84aef0,Data structures and program design in c,65c2b71a27c4e91908f3e486,Data Structures,5,1
+189,65c2c3ad881df6d1bc84aef1,Introduction to algorithms,65c2ae1127c4e91908f3e47a,Algorithms,5,1
+190,65c2c3ad881df6d1bc84aef2,Data stucture and algorithms in c++,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,2,2
+191,65c2c3ad881df6d1bc84aef3,Fundamental and algorithms,65c2ae1127c4e91908f3e47a,Algorithms,2,1
+192,65c2c3ad881df6d1bc84aef4,Data structure and program design,65c2b71a27c4e91908f3e486,Data Structures,3,1
+193,65c2c3ad881df6d1bc84aef5,A practial approch to data stuctures and algorithms,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,4,1
+194,65c2c3ad881df6d1bc84aef6,Data stucture,65c2b71a27c4e91908f3e486,Data Structures,3,1
+195,65c2c3ad881df6d1bc84aef7,Data structure and algorithms in c ,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,3,1
+196,65c2c3ad881df6d1bc84aef8,Data stucture a programming approch with c,65c2b71a27c4e91908f3e486,Data Structures,4,1
+197,65c2c3ad881df6d1bc84aef9,Data stucture ,65c2b71a27c4e91908f3e486,Data Structures,5,1
+198,65c2c3ad881df6d1bc84aefa,Software project management ,65c2ae1827c4e91908f3e47d,Software Engineering,1,1
+199,65c2c3ad881df6d1bc84aefb,software testing ,65c2ae1827c4e91908f3e47d,Software Engineering,4,2
+200,65c2c3ad881df6d1bc84aefc,Essantial of software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,2,1
+201,65c2c3ad881df6d1bc84aefd,Software quality,65c2acf327c4e91908f3e411,Software Testing,1,1
+202,65c2c3ad881df6d1bc84aefe,Software engineering project management,65c2ae1827c4e91908f3e47d,Software Engineering,3,2
+203,65c2c3ad881df6d1bc84aeff,Software engineering ,65c2ae1827c4e91908f3e47d,Software Engineering,3,1
+204,65c2c3ad881df6d1bc84af00,software quality ,65c2acf327c4e91908f3e411,Software Testing,5,1
+205,65c2c3ad881df6d1bc84af01,Software engineering fundamental ,65c2ae1827c4e91908f3e47d,Software Engineering,1,1
+206,65c2c3ad881df6d1bc84af02,Object oriented software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,2,1
+207,65c2c3ad881df6d1bc84af03,Software project management ,65c2acf327c4e91908f3e411,Software Testing,5,1
+208,65c2c3ad881df6d1bc84af04,System Analysis and design,65c2ad5127c4e91908f3e438,System Analysis and Design,5,1
+209,65c2c3ad881df6d1bc84af05,software requirment ,65c2acf327c4e91908f3e411,Software Testing,1,1
+210,65c2c3ad881df6d1bc84af06,Software engineering ,65c2ae1827c4e91908f3e47d,Software Engineering,2,5
+211,65c2c3ad881df6d1bc84af07,software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,3,2
+212,65c2c3ad881df6d1bc84af08,Object oriented software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,5,1
+213,65c2c3ad881df6d1bc84af09,Software project management ,65c2acf327c4e91908f3e411,Software Testing,3,2
+214,65c2c3ad881df6d1bc84af0a,Software engineering for internet application,65c2ae1827c4e91908f3e47d,Software Engineering,3,1
+215,65c2c3ad881df6d1bc84af0b,Software testing tool,65c2acf327c4e91908f3e411,Software Testing,1,1
+216,65c2c3ad881df6d1bc84af0c,Introduction to software testing,65c2acf327c4e91908f3e411,Software Testing,3,1
+217,65c2c3ad881df6d1bc84af0d,Software testing concepts and tools,65c2acf327c4e91908f3e411,Software Testing,2,1
+218,65c2c3ad881df6d1bc84af0e,software testing fundamental,65c2acf327c4e91908f3e411,Software Testing,5,1
+219,65c2c3ad881df6d1bc84af0f, software engineering,65c2ad2a27c4e91908f3e429,Information Technology,3,1
+220,65c2c3ad881df6d1bc84af10,Information technology project management ,65c2acf327c4e91908f3e411,Software Testing,3,1
+221,65c2c3ad881df6d1bc84af11,Software quality assurance ,65c2acf327c4e91908f3e411,Software Testing,4,1
+222,65c2c3ad881df6d1bc84af12,Software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,1,2
+223,65c2c3ad881df6d1bc84af13,Software engineering ,65c2ae1827c4e91908f3e47d,Software Engineering,4,1
+224,65c2c3ad881df6d1bc84af14,Software architecure,65c2adce27c4e91908f3e45f,Service-Oriented Architecture,2,1
+225,65c2c3ad881df6d1bc84af15,Software engineering ,65c2ae1827c4e91908f3e47d,Software Engineering,5,1
+226,65c2c3ad881df6d1bc84af16,Fundmental of software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,3,1
+227,65c2c3ad881df6d1bc84af17,An integrated approch to software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,2,1
+228,65c2c3ad881df6d1bc84af18,Harnessing green IT principles and practices,65c2ad9727c4e91908f3e447,Internet Technology,3,1
+229,65c2c3ad881df6d1bc84af19,Basic concept of information technology workshop,65c2ad2a27c4e91908f3e429,Information Technology,1,2
+230,65c2c3ad881df6d1bc84af1a,Internatinal journal of information technology & knowledge ,65c2ad2a27c4e91908f3e429,Information Technology,5,1
+231,65c2c3ad881df6d1bc84af1b,IT Stretegy for business,65c2ad9727c4e91908f3e447,Internet Technology,4,1
+232,65c2c3ad881df6d1bc84af1c,Text of remote sensing and geographical information system,65c2acbd27c4e91908f3e3ff,Information Security,4,1
+233,65c2c3ad881df6d1bc84af1d,IT & its application in business,65c2ad9727c4e91908f3e447,Internet Technology,1,1
+234,65c2c3ad881df6d1bc84af1e,Nano technology,65c2b87927c4e91908f3e489,Nanotechnology,2,1
+235,65c2c3ad881df6d1bc84af1f,Modern information retrieval,65c2ad9727c4e91908f3e447,Internet Technology,3,1
+236,65c2c3ad881df6d1bc84af20,IT enabled practices and embedded management paradigms,65c2add527c4e91908f3e462,Embedded Systems,4,1
+237,65c2c3ad881df6d1bc84af21,Management Information system,65c2ad9727c4e91908f3e447,Internet Technology,4,1
+238,65c2c3ad881df6d1bc84af22,Information theory inference and learning algorithms,65c2ad9727c4e91908f3e447,Internet Technology,4,1
+239,65c2c3ad881df6d1bc84af23,Information system ,65c2ad9727c4e91908f3e447,Internet Technology,3,1
+240,65c2c3ad881df6d1bc84af24,Information storage and management ,65c2ad9727c4e91908f3e447,Internet Technology,3,4
+241,65c2c3ad881df6d1bc84af25,Information system ,65c2ad9727c4e91908f3e447,Internet Technology,4,1
+242,65c2c3ad881df6d1bc84af26,Data structure and algorithms in c ++,65c2ad3927c4e91908f3e42f,Data Structures and Algorithms,5,1
+243,65c2c3ad881df6d1bc84af27,Digital logic and computer design ,65c2b9a827c4e91908f3e4a2,Digital Logic,4,1
+244,65c2c3ad881df6d1bc84af28,Pattern recoginition algo for data mining,65c2ac3527c4e91908f3e3bb,Data Mining,1,1
+245,65c2c3ad881df6d1bc84af29,Digital image procceing,65c2b94527c4e91908f3e499,Digital Image Processing,1,2
+246,65c2c3ad881df6d1bc84af2a,Digital image procceing,65c2b94527c4e91908f3e499,Digital Image Processing,4,1
+247,65c2c3ad881df6d1bc84af2b,Digital signal processing ,65c2b94527c4e91908f3e499,Digital Image Processing,2,1
+248,65c2c3ad881df6d1bc84af2c,communication system analog and digital,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,2,1
+249,65c2c3ad881df6d1bc84af2d,compiler design in c,65c2b98d27c4e91908f3e49f,Compiler Design,4,1
+250,65c2c3ad881df6d1bc84af2e,System programming,65c2ace127c4e91908f3e40b,Programming,3,2
+251,65c2c3ad881df6d1bc84af2f,Image proccessing analaysics and machine version,65c2b94527c4e91908f3e499,Digital Image Processing,2,1
+252,65c2c3ad881df6d1bc84af30,System programming,65c2ace127c4e91908f3e40b,Programming,3,1
+253,65c2c3ad881df6d1bc84af31,Compiler construction principle and practice,65c2b98d27c4e91908f3e49f,Compiler Design,4,1
+254,65c2c3ad881df6d1bc84af32,Digital signal processing ,65c2b94527c4e91908f3e499,Digital Image Processing,4,1
+255,65c2c3ad881df6d1bc84af33,Digital image procceing,65c2b94527c4e91908f3e499,Digital Image Processing,1,2
+256,65c2c3ad881df6d1bc84af34,Digital system design with VMDL and synthesis,65c2b9a827c4e91908f3e4a2,Digital Logic,1,1
+257,65c2c3ad881df6d1bc84af35,Fundamental of logic design,65c2b9a827c4e91908f3e4a2,Digital Logic,5,1
+258,65c2c3ad881df6d1bc84af36,Mastering orcale 6.0,65c2ba2627c4e91908f3e4a5,Database Systems,4,2
+259,65c2c3ad881df6d1bc84af37,Data base system,65c2ba2627c4e91908f3e4a5,Database Systems,2,4
+260,65c2c3ad881df6d1bc84af38,Data Base III plus,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+261,65c2c3ad881df6d1bc84af39,Introduction to Database mangement,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+262,65c2c3ad881df6d1bc84af3a,Special edition using SQL,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+263,65c2c3ad881df6d1bc84af3b,Data base management system,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+264,65c2c3ad881df6d1bc84af3c,Data base management system,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+265,65c2c3ad881df6d1bc84af3d,An introduction to data base system,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+266,65c2c3ad881df6d1bc84af3e,Data base management system,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+267,65c2c3ad881df6d1bc84af3f,An advanced course in data base system,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+268,65c2c3ad881df6d1bc84af40,Distributed data base principle and system,65c2ba2627c4e91908f3e4a5,Database Systems,2,2
+269,65c2c3ad881df6d1bc84af41,Information stage and program,65c2acbd27c4e91908f3e3ff,Information Security,4,
+270,65c2c3ad881df6d1bc84af42,The data warehouse toolkit,65c2ac4027c4e91908f3e3cb,Data Warehousing,2,1
+271,65c2c3ad881df6d1bc84af43,Writing TSR's through C,65c2ace127c4e91908f3e40b,Programming,1,1
+272,65c2c3ad881df6d1bc84af44,Data base system concepts,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+273,65c2c3ad881df6d1bc84af45,Data base management system,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+274,65c2c3ad881df6d1bc84af46,Oracle database II generation,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+275,65c2c3ad881df6d1bc84af47,Data base management system,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+276,65c2c3ad881df6d1bc84af48,Principal of distribution data base of system,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+277,65c2c3ad881df6d1bc84af49,Relational data base management system,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+278,65c2c3ad881df6d1bc84af4a,An intriduction to data base management systems ,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+279,65c2c3ad881df6d1bc84af4b,Data base system concepts,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+280,65c2c3ad881df6d1bc84af4c,An Introduction of Database system,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+281,65c2c3ad881df6d1bc84af4d,Data base III plus ,65c2ba2627c4e91908f3e4a5,Database Systems,4,2
+282,65c2c3ad881df6d1bc84af4e,C++ Database devlopment ,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+283,65c2c3ad881df6d1bc84af4f,PHP and MYSQL,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+284,65c2c3ad881df6d1bc84af50,Wireless comunication ,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,1,1
+285,65c2c3ad881df6d1bc84af51,Introduction to data commmunication and networking ,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,1,1
+286,65c2c3ad881df6d1bc84af52,COM/DCOM primer plus,65c2ace127c4e91908f3e40b,Programming,4,1
+287,65c2c3ad881df6d1bc84af53,Data network commucation,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,5,1
+288,65c2c3ad881df6d1bc84af54,Computer network security,65c2acaa27c4e91908f3e3f9,Network Security,3,1
+289,65c2c3ad881df6d1bc84af55,Wireless comunication ,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,4,1
+290,65c2c3ad881df6d1bc84af56,AD HOC wireless network,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,1,1
+291,65c2c3ad881df6d1bc84af57,Wireless and mobile network architure,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,4,1
+292,65c2c3ad881df6d1bc84af58,Wireless and communication,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,3,1
+293,65c2c3ad881df6d1bc84af59,Wireless communicatipon ,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,1,1
+294,65c2c3ad881df6d1bc84af5a,Wireless communication,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,2,1
+295,65c2c3ad881df6d1bc84af5b,Software engieering ,65c2ae1827c4e91908f3e47d,Software Engineering,1,1
+296,65c2c3ad881df6d1bc84af5c,System Analysis and design methods,65c2ad5127c4e91908f3e438,System Analysis and Design,4,1
+297,65c2c3ad881df6d1bc84af5d,Data communication and networking,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,1,1
+298,65c2c3ad881df6d1bc84af5e,Wireless communication and networking,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,1,1
+299,65c2c3ad881df6d1bc84af5f,An introduction to wireless technology,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,4,1
+300,65c2c3ad881df6d1bc84af60,Modern wireless communication,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,4,1
+301,65c2c3ad881df6d1bc84af61,Introduction to wireless & mobile systems,65c2b97027c4e91908f3e49c,Analog and Digital Communication Systems,3,1
+302,65c2c3ad881df6d1bc84af62,Data communication and networking,65c2adaf27c4e91908f3e453,Networking,3,1
+303,65c2c3ad881df6d1bc84af63,Local area network,65c2adaf27c4e91908f3e453,Networking,3,1
+304,65c2c3ad881df6d1bc84af64,Computer network security,65c2acaa27c4e91908f3e3f9,Network Security,4,1
+305,65c2c3ad881df6d1bc84af65,Software engineering concepts,65c2ae1827c4e91908f3e47d,Software Engineering,5,1
+306,65c2c3ad881df6d1bc84af66,Software architure ,65c2adce27c4e91908f3e45f,Service-Oriented Architecture,4,1
+307,65c2c3ad881df6d1bc84af67,Software security engineering ,65c2ae1827c4e91908f3e47d,Software Engineering,2,1
+308,65c2c3ad881df6d1bc84af68,System Analysis and design,65c2ad5127c4e91908f3e438,System Analysis and Design,5,1
+309,65c2c3ad881df6d1bc84af69,Software estimation,65c2ae1827c4e91908f3e47d,Software Engineering,4,1
+310,65c2c3ad881df6d1bc84af6a,Software testing,65c2acf327c4e91908f3e411,Software Testing,3,1
+311,65c2c3ad881df6d1bc84af6b,Object oriented software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,5,1
+312,65c2c3ad881df6d1bc84af6c,Software engineering,65c2ae1827c4e91908f3e47d,Software Engineering,2,1
+313,65c2c3ad881df6d1bc84af6d,Testing computer software,65c2acf327c4e91908f3e411,Software Testing,3,1
+314,65c2c3ad881df6d1bc84af6e,Software engineering fundamental ,65c2ae1827c4e91908f3e47d,Software Engineering,5,1
+315,65c2c3ad881df6d1bc84af6f,Software engineering principle and practice ,65c2ae1827c4e91908f3e47d,Software Engineering,5,1
+316,65c2c3ad881df6d1bc84af70,Software project management ,65c2ae1827c4e91908f3e47d,Software Engineering,1,2
+317,65c2c3ad881df6d1bc84af71,Java the complete reference,65c2ace127c4e91908f3e40b,Programming,1,1
+318,65c2c3ad881df6d1bc84af72,Java devlopers guide,65c2ace127c4e91908f3e40b,Programming,3,1
+319,65c2c3ad881df6d1bc84af73,Active server page 2.0,65c2ad4527c4e91908f3e432,Web Development,1,1
+320,65c2c3ad881df6d1bc84af74,Javascript,65c2ad4527c4e91908f3e432,Web Development,3,1
+321,65c2c3ad881df6d1bc84af75,Java & .NET,65c2ace127c4e91908f3e40b,Programming,4,1
+322,65c2c3ad881df6d1bc84af76,UNIX Network programming,65c2adaf27c4e91908f3e453,Networking,5,1
+323,65c2c3ad881df6d1bc84af77,object oriented designing java,65c2ace127c4e91908f3e40b,Programming,5,1
+324,65c2c3ad881df6d1bc84af78,Object oriented programming in c++,65c2ace127c4e91908f3e40b,Programming,5,1
+325,65c2c3ad881df6d1bc84af79,Object oriented programming in c++,65c2ace127c4e91908f3e40b,Programming,5,1
+326,65c2c3ad881df6d1bc84af7a,Mastering  c++,65c2ace127c4e91908f3e40b,Programming,3,1
+327,65c2c3ad881df6d1bc84af7b,Object oriented analysics & design ,65c2ace127c4e91908f3e40b,Programming,1,1
+328,65c2c3ad881df6d1bc84af7c,Object oriented programming in c++,65c2ace127c4e91908f3e40b,Programming,1,1
+329,65c2c3ad881df6d1bc84af7d,A structure approch to fortran ,65c2ace127c4e91908f3e40b,Programming,3,1
+330,65c2c3ad881df6d1bc84af7e,Object oriented programming in java,65c2ace127c4e91908f3e40b,Programming,5,1
+331,65c2c3ad881df6d1bc84af7f,Programming with ANSI C++,65c2ace127c4e91908f3e40b,Programming,1,1
+332,65c2c3ad881df6d1bc84af80,Object oriented programming,65c2ace127c4e91908f3e40b,Programming,1,1
+333,65c2c3ad881df6d1bc84af81,The Java FAQ,65c2ace127c4e91908f3e40b,Programming,1,1
+334,65c2c3ad881df6d1bc84af82,Javascript,65c2ace127c4e91908f3e40b,Programming,4,1
+335,65c2c3ad881df6d1bc84af83,object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,3,1
+336,65c2c3ad881df6d1bc84af84,Pascal programming,65c2ace127c4e91908f3e40b,Programming,5,1
+337,65c2c3ad881df6d1bc84af85,Computer science a stucture programming approch using c,65c2ace127c4e91908f3e40b,Programming,5,1
+338,65c2c3ad881df6d1bc84af86,Object oriented analysics & design using UML,65c2ace127c4e91908f3e40b,Programming,4,1
+339,65c2c3ad881df6d1bc84af87,Mastering c,65c2ace127c4e91908f3e40b,Programming,5,1
+340,65c2c3ad881df6d1bc84af88,Programming wirh pascal,65c2ace127c4e91908f3e40b,Programming,3,1
+341,65c2c3ad881df6d1bc84af89,Windows 2000 network intrasuture design,65c2ad0827c4e91908f3e41a,Computer Networks,1,1
+342,65c2c3ad881df6d1bc84af8a,Mastring c++,65c2ace127c4e91908f3e40b,Programming,3,1
+343,65c2c3ad881df6d1bc84af8b,programing problem with c++,65c2ace127c4e91908f3e40b,Programming,4,13
+344,65c2c3ad881df6d1bc84af8c,Visual basic 6.0,65c2ace127c4e91908f3e40b,Programming,2,2
+345,65c2c3ad881df6d1bc84af8d,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,3,2
+346,65c2c3ad881df6d1bc84af8e,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,2,1
+347,65c2c3ad881df6d1bc84af8f,Programming in fox pro 2.6,65c2ace127c4e91908f3e40b,Programming,2,1
+348,65c2c3ad881df6d1bc84af90,A user guide to the unix system,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+349,65c2c3ad881df6d1bc84af91,The design og the UNIX OS,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+350,65c2c3ad881df6d1bc84af92,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,5,1
+351,65c2c3ad881df6d1bc84af93,C++ data base devlopment ,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+352,65c2c3ad881df6d1bc84af94,Object oriented programming ,65c2ace127c4e91908f3e40b,Programming,2,1
+353,65c2c3ad881df6d1bc84af95,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,5,1
+354,65c2c3ad881df6d1bc84af96,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,4,1
+355,65c2c3ad881df6d1bc84af97,Javasript edition ,65c2ace127c4e91908f3e40b,Programming,1,1
+356,65c2c3ad881df6d1bc84af98,The assembly programming master book,65c2ace127c4e91908f3e40b,Programming,3,1
+357,65c2c3ad881df6d1bc84af99,Assembly language ,65c2ace127c4e91908f3e40b,Programming,3,1
+358,65c2c3ad881df6d1bc84af9a,Web Design Programming,65c2ad4b27c4e91908f3e435,Web Design,1,1
+359,65c2c3ad881df6d1bc84af9c,Java the complete reference,65c2ace127c4e91908f3e40b,Programming,3,2
+360,65c2c3ad881df6d1bc84af9d,Enterprise java computing application and architecture,65c2ace127c4e91908f3e40b,Programming,2,1
+361,65c2c3ad881df6d1bc84af9e,Addvance unix ,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+362,65c2c3ad881df6d1bc84af9f,The complete reference visual  c++,65c2ace127c4e91908f3e40b,Programming,2,1
+363,65c2c3ad881df6d1bc84afa0,The complete reference  visual java,65c2ace127c4e91908f3e40b,Programming,2,1
+364,65c2c3ad881df6d1bc84afa1,Programming with pascal ,65c2ace127c4e91908f3e40b,Programming,4,1
+365,65c2c3ad881df6d1bc84afa2,Computer science a stucture programming approch using c++,65c2ace127c4e91908f3e40b,Programming,4,1
+366,65c2c3ad881df6d1bc84afa3,Fundamental of digital logic & microcomputer design ,65c2bba227c4e91908f3e4a8,Computer Architecture,2,1
+367,65c2c3ad881df6d1bc84afa4,Embedded  Micro Computer System,65c2add527c4e91908f3e462,Embedded Systems,4,1
+368,65c2c3ad881df6d1bc84afa5,Introduction to programme & logic Controllers,65c2ace127c4e91908f3e40b,Programming,3,1
+369,65c2c3ad881df6d1bc84afa6,Datamining ,65c2ac3527c4e91908f3e3bb,Data Mining,5,1
+370,65c2c3ad881df6d1bc84afa7,8051 Microcontroller ,65c2bba227c4e91908f3e4a8,Computer Architecture,4,1
+371,65c2c3ad881df6d1bc84afa8,8086 programming and advance processor architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,1,2
+372,65c2c3ad881df6d1bc84afa9,Processor architecture & interfacing,65c2bba227c4e91908f3e4a8,Computer Architecture,1,1
+373,65c2c3ad881df6d1bc84afaa,Data structures  & program design ,65c2bba227c4e91908f3e4a8,Computer Architecture,4,2
+374,65c2c3ad881df6d1bc84afab,Data structure using c,65c2b71a27c4e91908f3e486,Data Structures,4,1
+375,65c2c3ad881df6d1bc84afac,Algorithm +  Data Structure = Program,65c2ae1127c4e91908f3e47a,Algorithms,1,1
+376,65c2c3ad881df6d1bc84afad,Data Structure in c++,65c2b71a27c4e91908f3e486,Data Structures,5,1
+377,65c2c3ad881df6d1bc84afae,Algorithm  ,65c2ae1127c4e91908f3e47a,Algorithms,4,1
+378,65c2c3ad881df6d1bc84afaf,fundamental of algorithm,65c2ae1127c4e91908f3e47a,Algorithms,1,2
+379,65c2c3ad881df6d1bc84afb0,Data structure with application,65c2b71a27c4e91908f3e486,Data Structures,1,1
+380,65c2c3ad881df6d1bc84afb1,Quantum Computing,65c2ac5e27c4e91908f3e3e1,Computing,5,1
+381,65c2c3ad881df6d1bc84afb2,Concepts in enterprise resource planning,65c2ad0f27c4e91908f3e41d,Enterprise Resource Planning,3,1
+382,65c2c3ad881df6d1bc84afb3,Ecommerse strategy technology simplemention,65c2ad5727c4e91908f3e43b,E-commerce,5,1
+383,65c2c3ad881df6d1bc84afb4,High performance cluster computing,65c2ac5e27c4e91908f3e3e1,Computing,3,1
+384,65c2c3ad881df6d1bc84afb5,Distributed operating system,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+385,65c2c3ad881df6d1bc84afb6,Data warehousing,65c2ac4027c4e91908f3e3cb,Data Warehousing,4,1
+386,65c2c3ad881df6d1bc84afb7,Programming problem solving with java,65c2ace127c4e91908f3e40b,Programming,3,1
+387,65c2c3ad881df6d1bc84afb8,Simplifying c,65c2ace127c4e91908f3e40b,Programming,3,1
+388,65c2c3ad881df6d1bc84afb9,Windows  programming rinner plus,65c2ace127c4e91908f3e40b,Programming,3,1
+389,65c2c3ad881df6d1bc84afba,Programming in java 5.0,65c2ace127c4e91908f3e40b,Programming,2,1
+390,65c2c3ad881df6d1bc84afbb,The J2ff tutorial,65c2ace127c4e91908f3e40b,Programming,4,1
+391,65c2c3ad881df6d1bc84afbc,Programming with java,65c2ace127c4e91908f3e40b,Programming,2,1
+392,65c2c3ad881df6d1bc84afbd,Java servlets ,65c2ace127c4e91908f3e40b,Programming,2,1
+393,65c2c3ad881df6d1bc84afbe,world wide web design with html,65c2ada327c4e91908f3e44d,HTML,4,1
+394,65c2c3ad881df6d1bc84afbf,The scheme programming language ,65c2ace127c4e91908f3e40b,Programming,1,1
+395,65c2c3ad881df6d1bc84afc0,Programming in java  ,65c2ace127c4e91908f3e40b,Programming,5,1
+396,65c2c3ad881df6d1bc84afc1,Java servlets jsp,65c2ace127c4e91908f3e40b,Programming,5,1
+397,65c2c3ad881df6d1bc84afc2,Systems programming ,65c2ace127c4e91908f3e40b,Programming,1,1
+398,65c2c3ad881df6d1bc84afc3,HTML black book,65c2ace127c4e91908f3e40b,Programming,3,1
+399,65c2c3ad881df6d1bc84afc4,Sams teach yourself XML,65c2ace127c4e91908f3e40b,Programming,2,1
+400,65c2c3ad881df6d1bc84afc5,Java certification ,65c2ace127c4e91908f3e40b,Programming,5,1
+401,65c2c3ad881df6d1bc84afc6,Xml & Asp .NET,65c2ace127c4e91908f3e40b,Programming,3,1
+402,65c2c3ad881df6d1bc84afc7,Advanced java programming,65c2ace127c4e91908f3e40b,Programming,2,1
+403,65c2c3ad881df6d1bc84afc8,Programming with C,65c2ace127c4e91908f3e40b,Programming,2,1
+404,65c2c3ad881df6d1bc84afc9,Introduction to parallel processing,65c2ace127c4e91908f3e40b,Programming,2,1
+405,65c2c3ad881df6d1bc84afca,Digital Image Processing  Computer Vision,65c2b94527c4e91908f3e499,Digital Image Processing,2,1
+406,65c2c3ad881df6d1bc84afcb,Java Fundamental classes,65c2ace127c4e91908f3e40b,Programming,2,1
+407,65c2c3ad881df6d1bc84afcc,JDBC 3,65c2ace127c4e91908f3e40b,Programming,2,1
+408,65c2c3ad881df6d1bc84afcd,Digital Image Processing  Computer Vision,65c2b94527c4e91908f3e499,Digital Image Processing,5,1
+409,65c2c3ad881df6d1bc84afce,The java tutorial Continued,65c2ace127c4e91908f3e40b,Programming,5,1
+410,65c2c3ad881df6d1bc84afcf,Big Java,65c2ace127c4e91908f3e40b,Programming,4,1
+411,65c2c3ad881df6d1bc84afd0,Let us c++,65c2ace127c4e91908f3e40b,Programming,1,1
+412,65c2c3ad881df6d1bc84afd1,Programming in c#,65c2ace127c4e91908f3e40b,Programming,4,1
+413,65c2c3ad881df6d1bc84afd2,Programing in c#,65c2ace127c4e91908f3e40b,Programming,1,1
+414,65c2c3ad881df6d1bc84afd3,Java & Object Oriented Programming,65c2ace127c4e91908f3e40b,Programming,2,1
+415,65c2c3ad881df6d1bc84afd4,Digital Image Processing  Using Matlab,65c2ace127c4e91908f3e40b,Programming,2,1
+416,65c2c3ad881df6d1bc84afd5,UNIX Network programming,65c2ace127c4e91908f3e40b,Programming,1,1
+417,65c2c3ad881df6d1bc84afd6,Electronic Engineering Material & Devies ,65c2b9a827c4e91908f3e4a2,Digital Logic,3,1
+418,65c2c3ad881df6d1bc84afd7,Digital Intergrated Electronics ,65c2b9a827c4e91908f3e4a2,Digital Logic,4,1
+419,65c2c3ad881df6d1bc84afd8,JFC Unleased,65c2ace127c4e91908f3e40b,Programming,2,1
+420,65c2c3ad881df6d1bc84afd9,Analytics Across the EnterPrise ,65c2ad0827c4e91908f3e41a,Computer Networks,1,1
+421,65c2c3ad881df6d1bc84afda,Digital signal processing ,65c2b94527c4e91908f3e499,Digital Image Processing,1,1
+422,65c2c3ad881df6d1bc84afdb,Advanced Electronic Communication systems,65c2b9a827c4e91908f3e4a2,Digital Logic,1,1
+423,65c2c3ad881df6d1bc84afdc,Fundamental of logic design,65c2b9a827c4e91908f3e4a2,Digital Logic,5,1
+424,65c2c3ad881df6d1bc84afdd,Digital Circuits and system,65c2b9a827c4e91908f3e4a2,Digital Logic,1,1
+425,65c2c3ad881df6d1bc84afde,Electronic Devices and Circuits,65c2b9a827c4e91908f3e4a2,Digital Logic,1,1
+426,65c2c3ad881df6d1bc84afdf,Device Electronic for Integrated Circuits,65c2b9a827c4e91908f3e4a2,Digital Logic,4,1
+427,65c2c3ad881df6d1bc84afe0,Digital Electronic,65c2b9a827c4e91908f3e4a2,Digital Logic,4,1
+428,65c2c3ad881df6d1bc84afe1,Analog and digital Communication,65c2b9a827c4e91908f3e4a2,Digital Logic,5,1
+429,65c2c3ad881df6d1bc84afe2,Digital Systems design using VUDL,65c2b9a827c4e91908f3e4a2,Digital Logic,5,1
+430,65c2c3ad881df6d1bc84afe3,Chip Design for submicron VLSI,65c2b9a827c4e91908f3e4a2,Digital Logic,4,1
+431,65c2c3ad881df6d1bc84afe4,TCP/IP,65c2adaf27c4e91908f3e453,Networking,3,1
+432,65c2c3ad881df6d1bc84afe5,Computer Networking ,65c2adaf27c4e91908f3e453,Networking,4,1
+433,65c2c3ad881df6d1bc84afe6,Local Area Network,65c2adaf27c4e91908f3e453,Networking,4,1
+434,65c2c3ad881df6d1bc84afe7,Internetworking with TCP/IP,65c2adaf27c4e91908f3e453,Networking,3,1
+435,65c2c3ad881df6d1bc84afe8,Introduction to high performance network,65c2adaf27c4e91908f3e453,Networking,4,1
+436,65c2c3ad881df6d1bc84afe9,Data communication and networking,65c2adaf27c4e91908f3e453,Networking,5,1
+437,65c2c3ad881df6d1bc84afea,Compiler Construction,65c2b98d27c4e91908f3e49f,Compiler Design,2,1
+438,65c2c3ad881df6d1bc84afeb,Principles of Communication Systems ,65c2ad9027c4e91908f3e444,Communication Engineering,4,1
+439,65c2c3ad881df6d1bc84afec,Electronic Devices and Circuits,65c2b9a827c4e91908f3e4a2,Digital Logic,1,1
+440,65c2c3ad881df6d1bc84afed,VLSI design,65c2b9a827c4e91908f3e4a2,Digital Logic,1,1
+441,65c2c3ad881df6d1bc84afee,MCSF(IIS4.0),65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+442,65c2c3ad881df6d1bc84afef,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+443,65c2c3ad881df6d1bc84aff0,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+444,65c2c3ad881df6d1bc84aff1,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+445,65c2c3ad881df6d1bc84aff2,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+446,65c2c3ad881df6d1bc84aff3,Operating Systems concepts,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+447,65c2c3ad881df6d1bc84aff4,System programming & Operating System,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+448,65c2c3ad881df6d1bc84aff5,Distributed operating system,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+449,65c2c3ad881df6d1bc84aff6,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+450,65c2c3ad881df6d1bc84aff7,Modern Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+451,65c2c3ad881df6d1bc84aff8,Distributed System,65c2ad9027c4e91908f3e444,Communication Engineering,5,1
+452,65c2c3ad881df6d1bc84aff9,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+453,65c2c3ad881df6d1bc84affa,Computer Systems architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+454,65c2c3ad881df6d1bc84affb,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,5,1
+455,65c2c3ad881df6d1bc84affc,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+456,65c2c3ad881df6d1bc84affd,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+457,65c2c3ad881df6d1bc84affe,Distributed operating system,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+458,65c2c3ad881df6d1bc84afff,Operating Systems,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+459,65c2c3ad881df6d1bc84b000,The Architecture of Computer Hardware and system software,65c2bba227c4e91908f3e4a8,Computer Architecture,5,1
+460,65c2c3ad881df6d1bc84b001,Operating Systems in Depth,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+461,65c2c3ad881df6d1bc84b002,Foundation of Operatong system,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+462,65c2c3ad881df6d1bc84b003,Operating System,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+463,65c2c3ad881df6d1bc84b004,Distributed Operating System,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+464,65c2c3ad881df6d1bc84b005,Let us C Solution,65c2ace127c4e91908f3e40b,Programming,2,1
+465,65c2c3ad881df6d1bc84b006,C programming Concept,65c2ace127c4e91908f3e40b,Programming,2,1
+466,65c2c3ad881df6d1bc84b007,Programming and Problem Solving wing c,65c2ace127c4e91908f3e40b,Programming,2,1
+467,65c2c3ad881df6d1bc84b008,Object oriented programming in c++,65c2ace127c4e91908f3e40b,Programming,1,1
+468,65c2c3ad881df6d1bc84b009,Learning c++,65c2ace127c4e91908f3e40b,Programming,1,1
+469,65c2c3ad881df6d1bc84b00a,Programming with c++,65c2ace127c4e91908f3e40b,Programming,1,1
+470,65c2c3ad881df6d1bc84b00b,Interoduction to oops,65c2ace127c4e91908f3e40b,Programming,3,1
+471,65c2c3ad881df6d1bc84b00c,object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,5,1
+472,65c2c3ad881df6d1bc84b00d,Pointers Simplified,65c2ace127c4e91908f3e40b,Programming,3,1
+473,65c2c3ad881df6d1bc84b00e,Mastering cloud computing,65c2ac5927c4e91908f3e3de,Cloud Computing,1,1
+474,65c2c3ad881df6d1bc84b00f,Thinking in C++,65c2ace127c4e91908f3e40b,Programming,4,1
+475,65c2c3ad881df6d1bc84b010,C++ Primer answer book,65c2ace127c4e91908f3e40b,Programming,1,1
+476,65c2c3ad881df6d1bc84b011,Advanced Graphic Programming with C++,65c2ace127c4e91908f3e40b,Programming,2,1
+477,65c2c3ad881df6d1bc84b012,Object oriented programming with c++,65c2ace127c4e91908f3e40b,Programming,5,1
+478,65c2c3ad881df6d1bc84b013,Programming in C ,65c2ace127c4e91908f3e40b,Programming,2,1
+479,65c2c3ad881df6d1bc84b014,A First Book of Ansi-c,65c2ace127c4e91908f3e40b,Programming,4,1
+480,65c2c3ad881df6d1bc84b015,C++ Programming,65c2ace127c4e91908f3e40b,Programming,2,1
+481,65c2c3ad881df6d1bc84b016,Mastering C++,65c2ace127c4e91908f3e40b,Programming,5,1
+482,65c2c3ad881df6d1bc84b017,C++ Projects,65c2ace127c4e91908f3e40b,Programming,5,1
+483,65c2c3ad881df6d1bc84b018,C Made Easy,65c2ace127c4e91908f3e40b,Programming,2,1
+484,65c2c3ad881df6d1bc84b019,Programming in ANSI-C,65c2ace127c4e91908f3e40b,Programming,1,1
+485,65c2c3ad881df6d1bc84b01a,Numerical Technique,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,2,1
+486,65c2c3ad881df6d1bc84b01b,Programming with c,65c2ace127c4e91908f3e40b,Programming,3,1
+487,65c2c3ad881df6d1bc84b01c,C++ Data  Structure,65c2ace127c4e91908f3e40b,Programming,2,1
+488,65c2c3ad881df6d1bc84b01d,Computer Science,65c2b54827c4e91908f3e480,Computer Science,5,1
+489,65c2c3ad881df6d1bc84b01e,Tech Yourself c++,65c2ace127c4e91908f3e40b,Programming,4,1
+490,65c2c3ad881df6d1bc84b01f,Computer Arctecture & Logic Design,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+491,65c2c3ad881df6d1bc84b020,Internetworking with TCP/IP,65c2adaf27c4e91908f3e453,Networking,5,1
+492,65c2c3ad881df6d1bc84b021,Computer Organisation and Arctecture,65c2bba227c4e91908f3e4a8,Computer Architecture,4,1
+493,65c2c3ad881df6d1bc84b022,Data Structure ,65c2b71a27c4e91908f3e486,Data Structures,5,1
+494,65c2c3ad881df6d1bc84b023,Analysis and Design of Algo,65c2ae1127c4e91908f3e47a,Algorithms,4,1
+495,65c2c3ad881df6d1bc84b024,Computer Organisation  ,65c2bba227c4e91908f3e4a8,Computer Architecture,5,2
+496,65c2c3ad881df6d1bc84b025,Fundamental and Principles of Computer,65c2ad3027c4e91908f3e42c,Computer Fundamentals,3,2
+497,65c2c3ad881df6d1bc84b026,Computer Arctecture and Organisation ,65c2bba227c4e91908f3e4a8,Computer Architecture,2,1
+498,65c2c3ad881df6d1bc84b027,Computer Organisation and Arctecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,2
+499,65c2c3ad881df6d1bc84b028,Computer System Architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+500,65c2c3ad881df6d1bc84b029,Modern Computer Architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+501,65c2c3ad881df6d1bc84b02a,Computer Organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,1,3
+502,65c2c3ad881df6d1bc84b02b,Computer Architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,4,1
+503,65c2c3ad881df6d1bc84b02c,Computer Organisation and Design,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+504,65c2c3ad881df6d1bc84b02d,Fundamental of Multimedia,65c2ad8527c4e91908f3e441,Multimedia,3,1
+505,65c2c3ad881df6d1bc84b02e,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,2,2
+506,65c2c3ad881df6d1bc84b02f,Multimedia,65c2ad8527c4e91908f3e441,Multimedia,1,1
+507,65c2c3ad881df6d1bc84b030,Multimedia System Design,65c2ad8527c4e91908f3e441,Multimedia,2,1
+508,65c2c3ad881df6d1bc84b031,Computer System Architecture and Organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,1,1
+509,65c2c3ad881df6d1bc84b032,Computer architecture and paraller processing,65c2bba227c4e91908f3e4a8,Computer Architecture,4,3
+510,65c2c3ad881df6d1bc84b033,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,2,1
+511,65c2c3ad881df6d1bc84b034,Computer System organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,1,1
+512,65c2c3ad881df6d1bc84b035,Computer Graphics secret and solutions,65c2bd7c27c4e91908f3e4ab,Computer Graphics,3,1
+513,65c2c3ad881df6d1bc84b036,Procedual element for computer graphics ,65c2bd7c27c4e91908f3e4ab,Computer Graphics,2,2
+514,65c2c3ad881df6d1bc84b037,Multimedia computing communication & application,65c2ad8527c4e91908f3e441,Multimedia,2,1
+515,65c2c3ad881df6d1bc84b038,Computer system architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+516,65c2c3ad881df6d1bc84b039,Principle of interative computer graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,3,1
+517,65c2c3ad881df6d1bc84b03a,Computer graphics a programming approach,65c2bd7c27c4e91908f3e4ab,Computer Graphics,1,2
+518,65c2c3ad881df6d1bc84b03b,Computer organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,4,1
+519,65c2c3ad881df6d1bc84b03c,Computer graphics and multimedia,65c2bd7c27c4e91908f3e4ab,Computer Graphics,3,1
+520,65c2c3ad881df6d1bc84b03d,Digital design and computer organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,4,1
+521,65c2c3ad881df6d1bc84b03e,Computer organisation and architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,1,1
+522,65c2c3ad881df6d1bc84b03f,Computer architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,1
+523,65c2c3ad881df6d1bc84b040,Multimedia communication,65c2ad8527c4e91908f3e441,Multimedia,1,1
+524,65c2c3ad881df6d1bc84b041,Computer graphics & multimedia,65c2bd7c27c4e91908f3e4ab,Computer Graphics,5,1
+525,65c2c3ad881df6d1bc84b042,Computer graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,3,1
+526,65c2c3ad881df6d1bc84b043,Computer graphics principle and practice,65c2bd7c27c4e91908f3e4ab,Computer Graphics,4,3
+527,65c2c3ad881df6d1bc84b044,Computer graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,5,1
+528,65c2c3ad881df6d1bc84b045,Data structure through c,65c2b71a27c4e91908f3e486,Data Structures,2,1
+529,65c2c3ad881df6d1bc84b046,Data structure using c,65c2b71a27c4e91908f3e486,Data Structures,3,1
+530,65c2c3ad881df6d1bc84b047,Supply chain manage mesh,65c2ac4e27c4e91908f3e3db,Knowledge Management,4,1
+531,65c2c3ad881df6d1bc84b048,Android programming,65c2ace127c4e91908f3e40b,Programming,1,1
+532,65c2c3ad881df6d1bc84b049,Algorithm design,65c2ae1127c4e91908f3e47a,Algorithms,2,1
+533,65c2c3ad881df6d1bc84b04a,A  first book of c++ from here to these,65c2ace127c4e91908f3e40b,Programming,2,1
+534,65c2c3ad881df6d1bc84b04b,C with data structure,65c2ace127c4e91908f3e40b,Programming,1,1
+535,65c2c3ad881df6d1bc84b04c,Data structure and program design in c,65c2b71a27c4e91908f3e486,Data Structures,5,1
+536,65c2c3ad881df6d1bc84b04d,Data structure using c,65c2b71a27c4e91908f3e486,Data Structures,4,1
+537,65c2c3ad881df6d1bc84b04e,Design & analysis of algorithm,65c2ae1127c4e91908f3e47a,Algorithms,1,1
+538,65c2c3ad881df6d1bc84b04f,Algorithm,65c2ae1127c4e91908f3e47a,Algorithms,5,1
+539,65c2c3ad881df6d1bc84b050,Algorithm and data structure in c++,65c2ae1127c4e91908f3e47a,Algorithms,2,1
+540,65c2c3ad881df6d1bc84b051,Design and analysis of algorithm,65c2ae1127c4e91908f3e47a,Algorithms,2,2
+541,65c2c3ad881df6d1bc84b052,Formal language and automata theory,65c2ace127c4e91908f3e40b,Programming,4,1
+542,65c2c3ad881df6d1bc84b053,Computer algorithm,65c2ae1127c4e91908f3e47a,Algorithms,5,1
+543,65c2c3ad881df6d1bc84b054,Object oriented programming with C++,65c2ace127c4e91908f3e40b,Programming,5,1
+544,65c2c3ad881df6d1bc84b055,Graphics programming in c,65c2bd7c27c4e91908f3e4ab,Computer Graphics,2,1
+545,65c2c3ad881df6d1bc84b056,compilers,65c2b98d27c4e91908f3e49f,Compiler Design,1,1
+546,65c2c3ad881df6d1bc84b057,Compiler writing,65c2b98d27c4e91908f3e49f,Compiler Design,3,1
+547,65c2c3ad881df6d1bc84b058,Compiler design in c,65c2b98d27c4e91908f3e49f,Compiler Design,2,2
+548,65c2c3ad881df6d1bc84b059,Compiler design in c,65c2b98d27c4e91908f3e49f,Compiler Design,1,1
+549,65c2c3ad881df6d1bc84b05a,Engineering a compiler,65c2b98d27c4e91908f3e49f,Compiler Design,2,1
+550,65c2c3ad881df6d1bc84b05b,Theory of Computation,65c2be2c27c4e91908f3e4ae,Theory of Computation,2,1
+551,65c2c3ad881df6d1bc84b05c,Introduction to language & Toc,65c2be2c27c4e91908f3e4ae,Theory of Computation,2,1
+552,65c2c3ad881df6d1bc84b05d,Principle of compiler design,65c2b98d27c4e91908f3e49f,Compiler Design,3,1
+553,65c2c3ad881df6d1bc84b05e,Compiler design ,65c2b98d27c4e91908f3e49f,Compiler Design,2,1
+554,65c2c3ad881df6d1bc84b05f,Principle of compiler design,65c2b98d27c4e91908f3e49f,Compiler Design,3,1
+555,65c2c3ad881df6d1bc84b060,Theoty of Computer Science,65c2be2c27c4e91908f3e4ae,Theory of Computation,5,1
+556,65c2c3ad881df6d1bc84b061,Throry of computation,65c2be2c27c4e91908f3e4ae,Theory of Computation,1,1
+557,65c2c3ad881df6d1bc84b062,Introduction to automata theory language and computation,65c2be2c27c4e91908f3e4ae,Theory of Computation,2,1
+558,65c2c3ad881df6d1bc84b063,theory of computation'Compiler,65c2be2c27c4e91908f3e4ae,Theory of Computation,2,1
+559,65c2c3ad881df6d1bc84b064,Compiler,65c2b98d27c4e91908f3e49f,Compiler Design,4,1
+560,65c2c3ad881df6d1bc84b065,Compiler design in c,65c2b98d27c4e91908f3e49f,Compiler Design,3,1
+561,65c2c3ad881df6d1bc84b066,Elements of theory of computation,65c2be2c27c4e91908f3e4ae,Theory of Computation,5,1
+562,65c2c3ad881df6d1bc84b067,Data structure with c and c++,65c2b71a27c4e91908f3e486,Data Structures,5,1
+563,65c2c3ad881df6d1bc84b068,Compiler constructions,65c2b98d27c4e91908f3e49f,Compiler Design,3,1
+564,65c2c3ad881df6d1bc84b069,Introduction to automata and compiler design,65c2be2c27c4e91908f3e4ae,Theory of Computation,2,1
+565,65c2c3ad881df6d1bc84b06a,Principle of compiler design,65c2be2c27c4e91908f3e4ae,Theory of Computation,4,1
+566,65c2c3ad881df6d1bc84b06b,Principle of compiler design,65c2be2c27c4e91908f3e4ae,Theory of Computation,3,1
+567,65c2c3ad881df6d1bc84b06c,Modes compiler implementation in c,65c2b98d27c4e91908f3e49f,Compiler Design,5,1
+568,65c2c3ad881df6d1bc84b06d,Theory of autometa language and computer,65c2be2c27c4e91908f3e4ae,Theory of Computation,5,1
+569,65c2c3ad881df6d1bc84b06e,Elements of theory of computation,65c2be2c27c4e91908f3e4ae,Theory of Computation,1,1
+570,65c2c3ad881df6d1bc84b06f,Fundamental of algorithm,65c2ae1127c4e91908f3e47a,Algorithms,5,1
+571,65c2c3ad881df6d1bc84b070,Imntroduction to compiler design,65c2b98d27c4e91908f3e49f,Compiler Design,3,1
+572,65c2c3ad881df6d1bc84b071,Data mining,65c2ac3527c4e91908f3e3bb,Data Mining,4,1
+573,65c2c3ad881df6d1bc84b073,Telecommunications and computer,65c2ad9027c4e91908f3e444,Communication Engineering,1,1
+574,65c2c3ad881df6d1bc84b078,Computer architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,2
+575,65c2c3ad881df6d1bc84b07a,Network security,65c2acaa27c4e91908f3e3f9,Network Security,5,1
+576,65c2c3ad881df6d1bc84b07b,Computer network,65c2ad0827c4e91908f3e41a,Computer Networks,2,1
+577,65c2c3ad881df6d1bc84b07c,Local area network,65c2ad0827c4e91908f3e41a,Computer Networks,4,1
+578,65c2c3ad881df6d1bc84b081,Computer network,65c2ad0827c4e91908f3e41a,Computer Networks,1,1
+579,65c2c3ad881df6d1bc84b082,TCP/IP illustreted,65c2ad0827c4e91908f3e41a,Computer Networks,5,2
+580,65c2c3ad881df6d1bc84b083,Computer architecture and organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,5,3
+581,65c2c3ad881df6d1bc84b084,Networking approach to grid computing,65c2adaf27c4e91908f3e453,Networking,1,3
+582,65c2c3ad881df6d1bc84b085,Structured computer organisation,65c2bba227c4e91908f3e4a8,Computer Architecture,4,4
+583,65c2c3ad881df6d1bc84b086,High performance cluster computing,65c2ac5e27c4e91908f3e3e1,Computing,4,1
+584,65c2c3ad881df6d1bc84b087,Advance computer architecture,65c2bba227c4e91908f3e4a8,Computer Architecture,3,
+585,65c2c3ad881df6d1bc84b088,Broadband packet switching technology,65c2adaf27c4e91908f3e453,Networking,1,1
+586,65c2c3ad881df6d1bc84b089,Parallel programming in with MPI and MP,65c2ac5e27c4e91908f3e3e1,Computing,5,1
+587,65c2c3ad881df6d1bc84b08a,Parallel computing,65c2ac5e27c4e91908f3e3e1,Computing,2,1
+588,65c2c3ad881df6d1bc84b08b,Service oriented computing,65c2ac5e27c4e91908f3e3e1,Computing,1,2
+589,65c2c3ad881df6d1bc84b08c,The Grid Code technologies,65c2ac5e27c4e91908f3e3e1,Computing,5,1
+590,65c2c3ad881df6d1bc84b08d,Computer graphics toc java programmer,65c2bd7c27c4e91908f3e4ab,Computer Graphics,5,1
+591,65c2c3ad881df6d1bc84b08e,Grid Computing,65c2ac5e27c4e91908f3e3e1,Computing,4,1
+592,65c2c3ad881df6d1bc84b08f,Intrduction to parallel comuting,65c2ac5e27c4e91908f3e3e1,Computing,4,1
+593,65c2c3ad881df6d1bc84b090,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,2,1
+594,65c2c3ad881df6d1bc84b091,Computer Graphics,65c2bd7c27c4e91908f3e4ab,Computer Graphics,2,1
+595,65c2c3ad881df6d1bc84b092,Multimedia and nimation kit,65c2ad8527c4e91908f3e441,Multimedia,2,1
+596,65c2c3ad881df6d1bc84b093,Data structure through c,65c2b71a27c4e91908f3e486,Data Structures,5,1
+597,65c2c3ad881df6d1bc84b094,Data structure using c,65c2b71a27c4e91908f3e486,Data Structures,5,1
+598,65c2c3ad881df6d1bc84b095,Fundamental of algorithm,65c2ae1127c4e91908f3e47a,Algorithms,3,1
+599,65c2c3ad881df6d1bc84b096,Analysis of information system,65c2ad2a27c4e91908f3e429,Information Technology,3,1
+600,65c2c3ad881df6d1bc84b097,Desktop publishing on pc,65c2ad2a27c4e91908f3e429,Information Technology,3,1
+601,65c2c3ad881df6d1bc84b098,Information technology control & audit,65c2ad2a27c4e91908f3e429,Information Technology,2,1
+602,65c2c3ad881df6d1bc84b099,management information system,65c2ad2a27c4e91908f3e429,Information Technology,4,1
+603,65c2c3ad881df6d1bc84b09a,Biometric,65c2b69727c4e91908f3e483,Ethical Hacking,4,1
+604,65c2c3ad881df6d1bc84b09b,Introduction to c programming,65c2ace127c4e91908f3e40b,Programming,1,1
+605,65c2c3ad881df6d1bc84b09c,Programming with c++,65c2ace127c4e91908f3e40b,Programming,3,1
+606,65c2c3ad881df6d1bc84b09d,C projects,65c2ace127c4e91908f3e40b,Programming,4,1
+607,65c2c3ad881df6d1bc84b09e,web Hacking,65c2b69727c4e91908f3e483,Ethical Hacking,2,1
+608,65c2c3ad881df6d1bc84b09f,Dynamic web publishing,65c2ad4527c4e91908f3e432,Web Development,4,1
+609,65c2c3ad881df6d1bc84b0a0,Practical C++ programming,65c2ace127c4e91908f3e40b,Programming,5,1
+610,65c2c3ad881df6d1bc84b0a1,Android Application development,65c2adbd27c4e91908f3e456,Mobile Communication,1,1
+611,65c2c3ad881df6d1bc84b0a2,Ropbotics fundamental concept analysis,65c2adf127c4e91908f3e46e,Artificial Intelligence,1,1
+612,65c2c3ad881df6d1bc84b0a3,Numerical Methods,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,1,1
+613,65c2c3ad881df6d1bc84b0a4,Computer forensic & Investigator,65c2b69727c4e91908f3e483,Ethical Hacking,1,1
+614,65c2c3ad881df6d1bc84b0a5,IBM PC & clone,65c2ad0027c4e91908f3e417,Computer Maintenance,3,2
+615,65c2c3ad881df6d1bc84b0a6,Mastering Turbo c,65c2ace127c4e91908f3e40b,Programming,1,1
+616,65c2c3ad881df6d1bc84b0a7,Introduction to object oriented programming in C++,65c2ace127c4e91908f3e40b,Programming,2,1
+617,65c2c3ad881df6d1bc84b0a8,Ethical hacking and network defense,65c2b69727c4e91908f3e483,Ethical Hacking,1,1
+618,65c2c3ad881df6d1bc84b0a9,Software hacking,65c2b69727c4e91908f3e483,Ethical Hacking,3,1
+619,65c2c3ad881df6d1bc84b0aa,ATM networking,65c2adaf27c4e91908f3e453,Networking,4,1
+620,65c2c3ad881df6d1bc84b0ab,structured Cobol Programmingnwith Business Applications,65c2ace127c4e91908f3e40b,Programming,4,1
+621,65c2c3ad881df6d1bc84b0ac,Enterprise resources planning,65c2ad0f27c4e91908f3e41d,Enterprise Resource Planning,4,1
+622,65c2c3ad881df6d1bc84b0ad,Element of material science and engineering ,65c2ad2327c4e91908f3e426,Computer Engineering,1,1
+623,65c2c3ad881df6d1bc84b0ae,fundamental of Information technology,65c2ad2a27c4e91908f3e429,Information Technology,1,1
+624,65c2c3ad881df6d1bc84b0af,Internet for everyone,65c2ad0827c4e91908f3e41a,Computer Networks,5,1
+625,65c2c3ad881df6d1bc84b0b0,Neural network,65c2adeb27c4e91908f3e46b,Neural Networks,5,1
+626,65c2c3ad881df6d1bc84b0b1,The ABCs of intenet,65c2ad0827c4e91908f3e41a,Computer Networks,4,1
+627,65c2c3ad881df6d1bc84b0b2,The  ABC s of internet,65c2ad0827c4e91908f3e41a,Computer Networks,3,1
+628,65c2c3ad881df6d1bc84b0b3,X Window Application programming,65c2ace127c4e91908f3e40b,Programming,2,1
+629,65c2c3ad881df6d1bc84b0b4,Introducing UNIX system V,65c2ba2627c4e91908f3e4a5,Database Systems,1,2
+630,65c2c3ad881df6d1bc84b0b5,Understanding UNIX,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+631,65c2c3ad881df6d1bc84b0b6,UNIX shell programming,65c2ace127c4e91908f3e40b,Programming,5,2
+632,65c2c3ad881df6d1bc84b0b7,UNIX concept & Application,65c2ba2627c4e91908f3e4a5,Database Systems,5,2
+633,65c2c3ad881df6d1bc84b0b8,UNIX and shell programming,65c2ace127c4e91908f3e40b,Programming,1,1
+634,65c2c3ad881df6d1bc84b0b9,Advance Unix a programmer guide,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+635,65c2c3ad881df6d1bc84b0ba,The concept Reference Linux,65c2bf9b27c4e91908f3e4b1,Operating System,4,1
+636,65c2c3ad881df6d1bc84b0bb,red hat Linux 7. unleased,65c2bf9b27c4e91908f3e4b1,Operating System,2,1
+637,65c2c3ad881df6d1bc84b0bc,Unix primer plus,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+638,65c2c3ad881df6d1bc84b0bd,Gray hat hacking,65c2b69727c4e91908f3e483,Ethical Hacking,5,1
+639,65c2c3ad881df6d1bc84b0be,Introuction to Linux : Installation & programming,65c2bf9b27c4e91908f3e4b1,Operating System,5,1
+640,65c2c3ad881df6d1bc84b0bf,The complete reference Unix,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+641,65c2c3ad881df6d1bc84b0c0,ATM networks,65c2adaf27c4e91908f3e453,Networking,4,1
+642,65c2c3ad881df6d1bc84b0c1,Computer forensics and Investigation,65c2b69727c4e91908f3e483,Ethical Hacking,5,1
+643,65c2c3ad881df6d1bc84b0c2,Supply chain architecture,65c2ad2a27c4e91908f3e429,Information Technology,2,1
+644,65c2c3ad881df6d1bc84b0c3,Algorithms,65c2ae1127c4e91908f3e47a,Algorithms,3,1
+645,65c2c3ad881df6d1bc84b0c4,Hand om Microsoft SQL server 7 with VB6,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+646,65c2c3ad881df6d1bc84b0c5,Let us C++,65c2ace127c4e91908f3e40b,Programming,3,1
+647,65c2c3ad881df6d1bc84b0c6,Fuzzy Logic with engineering applications,65c2adeb27c4e91908f3e46b,Neural Networks,2,1
+648,65c2c3ad881df6d1bc84b0c7,Intoduction to mechatronics,65c2adf127c4e91908f3e46e,Artificial Intelligence,1,1
+649,65c2c3ad881df6d1bc84b0c8,Probability & statistics,65c2ac6427c4e91908f3e3e4,Probability and Statistics,3,1
+650,65c2c3ad881df6d1bc84b0c9,Computer Vision A Modern approach,65c2adf127c4e91908f3e46e,Artificial Intelligence,2,1
+651,65c2c3ad881df6d1bc84b0ca,MCSE Windows 2000 network security design,65c2adaf27c4e91908f3e453,Networking,3,1
+652,65c2c3ad881df6d1bc84b0cb,Windows & programming,65c2ace127c4e91908f3e40b,Programming,3,1
+653,65c2c3ad881df6d1bc84b0cc,The complete reference storage network,65c2adaf27c4e91908f3e453,Networking,2,1
+654,65c2c3ad881df6d1bc84b0cd,beyond software architecture creating and sustaining winning solutions,65c2adce27c4e91908f3e45f,Service-Oriented Architecture,4,1
+655,65c2c3ad881df6d1bc84b0ce,A cocise introduction to MATLAb,65c2ace127c4e91908f3e40b,Programming,3,1
+656,65c2c3ad881df6d1bc84b0cf,Embedded systems: A contemporay design tool,65c2add527c4e91908f3e462,Embedded Systems,5,1
+657,65c2c3ad881df6d1bc84b0d0,MTLAB and simulink introduction to application,65c2ace127c4e91908f3e40b,Programming,5,1
+658,65c2c3ad881df6d1bc84b0d1,software Architecture organisation principle and patterns,65c2adce27c4e91908f3e45f,Service-Oriented Architecture,3,1
+659,65c2c3ad881df6d1bc84b0d2,Mastering dos 60 & 62,65c2bf9b27c4e91908f3e4b1,Operating System,5,1
+660,65c2c3ad881df6d1bc84b0d3,Professions ios programming,65c2ace127c4e91908f3e40b,Programming,4,1
+661,65c2c3ad881df6d1bc84b0d4,Matlab 74,65c2ace127c4e91908f3e40b,Programming,2,1
+662,65c2c3ad881df6d1bc84b0d5, Android A programming divide,65c2ace127c4e91908f3e40b,Programming,5,1
+663,65c2c3ad881df6d1bc84b0d6,Fundamental of open sources software,65c2ace127c4e91908f3e40b,Programming,1,1
+664,65c2c3ad881df6d1bc84b0d7,E commerce an indian perspective,65c2ad5727c4e91908f3e43b,E-commerce,4,1
+665,65c2c3ad881df6d1bc84b0d8,Exploring python,65c2ace127c4e91908f3e40b,Programming,1,1
+666,65c2c3ad881df6d1bc84b0d9,Oracle Automatic storage management,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+667,65c2c3ad881df6d1bc84b0da,Natural language processing & information retrival,65c2adf927c4e91908f3e471,Natural Language Processing,5,1
+668,65c2c3ad881df6d1bc84b0db,The complete reference Ado NET,65c2ace127c4e91908f3e40b,Programming,4,1
+669,65c2c3ad881df6d1bc84b0dc,NET & CII programming,65c2ace127c4e91908f3e40b,Programming,4,1
+670,65c2c3ad881df6d1bc84b0dd,Programming in ANSI-C,65c2ace127c4e91908f3e40b,Programming,4,1
+671,65c2c3ad881df6d1bc84b0de,Mastering oracle 6.0,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+672,65c2c3ad881df6d1bc84b0df,Pattern Recoginiton,65c2adeb27c4e91908f3e46b,Neural Networks,2,1
+673,65c2c3ad881df6d1bc84b0e0,Exploring Python,65c2ace127c4e91908f3e40b,Programming,1,1
+674,65c2c3ad881df6d1bc84b0e1,introduction to Prolog,65c2ace127c4e91908f3e40b,Programming,2,1
+675,65c2c3ad881df6d1bc84b0e2,VHDL primer,65c2ace127c4e91908f3e40b,Programming,5,1
+676,65c2c3ad881df6d1bc84b0e3,CORBA with XML,65c2ace127c4e91908f3e40b,Programming,4,1
+677,65c2c3ad881df6d1bc84b0e4,Computer Vision A Modern approach,65c2adeb27c4e91908f3e46b,Neural Networks,2,1
+678,65c2c3ad881df6d1bc84b0e5,Learning with Python,65c2ace127c4e91908f3e40b,Programming,3,1
+679,65c2c3ad881df6d1bc84b0e6,"SQL ,PLSQL The Programming Language & Oracle",65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+680,65c2c3ad881df6d1bc84b0e7,Oracle &i,65c2ba2627c4e91908f3e4a5,Database Systems,1,1
+681,65c2c3ad881df6d1bc84b0e8,Orcle Designer handbook,65c2ba2627c4e91908f3e4a5,Database Systems,3,1
+682,65c2c3ad881df6d1bc84b0e9,Computer Sceince A strucutred programming a progress using c,65c2b54827c4e91908f3e480,Computer Science,3,1
+683,65c2c3ad881df6d1bc84b0ea,PHP Advance and oop,65c2ace127c4e91908f3e40b,Programming,5,1
+684,65c2c3ad881df6d1bc84b0eb,Swift in 24 hour,65c2ace127c4e91908f3e40b,Programming,3,1
+685,65c2c3ad881df6d1bc84b0ec,Pearsonal oracle 8.0,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+686,65c2c3ad881df6d1bc84b0ed,The Lowplete reference ASP NET,65c2ace127c4e91908f3e40b,Programming,4,1
+687,65c2c3ad881df6d1bc84b0ee,Hardware & Software of Pearsonal computer,65c2ad0027c4e91908f3e417,Computer Maintenance,5,1
+688,65c2c3ad881df6d1bc84b0ef,Cobol programming,65c2ace127c4e91908f3e40b,Programming,2,1
+689,65c2c3ad881df6d1bc84b0f0,Esential of NET,65c2ace127c4e91908f3e40b,Programming,3,1
+690,65c2c3ad881df6d1bc84b0f1,Computer & Information processing,65c2b54827c4e91908f3e480,Computer Science,5,1
+691,65c2c3ad881df6d1bc84b0f2,Topology,65c2ac6e27c4e91908f3e3e7,Engineering Mathematics,4,1
+692,65c2c3ad881df6d1bc84b0f3,C & data structure,65c2ace127c4e91908f3e40b,Programming,5,1
+693,65c2c3ad881df6d1bc84b0f4,Designing the user interface,65c2aced27c4e91908f3e40e,User Interface Design,4,1
+694,65c2c3ad881df6d1bc84b0f5,Digital Logic & microprocessor,65c2b9a827c4e91908f3e4a2,Digital Logic,4,1
+695,65c2c3ad881df6d1bc84b0f6,Object -oriented analysis & design,65c2adc927c4e91908f3e45c,Object-Oriented Design,1,1
+696,65c2c3ad881df6d1bc84b0f7,Java. Network programming,65c2ace127c4e91908f3e40b,Programming,2,1
+697,65c2c3ad881df6d1bc84b0f8,Introduction to programming and Computing,65c2b54827c4e91908f3e480,Computer Science,2,1
+698,65c2c3ad881df6d1bc84b0f9,The complete reference,65c2ace127c4e91908f3e40b,Programming,3,1
+699,65c2c3ad881df6d1bc84b0fa,Advance java programming,65c2ace127c4e91908f3e40b,Programming,4,1
+700,65c2c3ad881df6d1bc84b0fb,Java actually,65c2ace127c4e91908f3e40b,Programming,4,1
+701,65c2c3ad881df6d1bc84b0fc,Information technology today,65c2ad2a27c4e91908f3e429,Information Technology,3,1
+702,65c2c3ad881df6d1bc84b0fd,Structured Cobol Programming,65c2ace127c4e91908f3e40b,Programming,2,1
+703,65c2c3ad881df6d1bc84b0fe,Upgrading to window 98,65c2ba2627c4e91908f3e4a5,Database Systems,4,1
+704,65c2c3ad881df6d1bc84b0ff,Windoww AP7 bible,65c2ba2627c4e91908f3e4a5,Database Systems,2,1
+705,65c2c3ad881df6d1bc84b100,Windows Azure,65c2ac5927c4e91908f3e3de,Cloud Computing,4,1
+706,65c2c3ad881df6d1bc84b101,Management information system,65c2ad2a27c4e91908f3e429,Information Technology,2,1
+707,65c2c3ad881df6d1bc84b102,Information technology,65c2ad2a27c4e91908f3e429,Information Technology,5,1
+708,65c2c3ad881df6d1bc84b103,Java Beans,65c2ace127c4e91908f3e40b,Programming,3,1
+709,65c2c3ad881df6d1bc84b104,Microsoft internet Explorer 4,65c2ad7f27c4e91908f3e43e,Multimedia and Web Design,1,1
+710,65c2c3ad881df6d1bc84b105,C++ programming,65c2ace127c4e91908f3e40b,Programming,2,1
+711,65c2c3ad881df6d1bc84b106,Structured Cobol Programming,65c2ace127c4e91908f3e40b,Programming,2,1
+712,65c2c3ad881df6d1bc84b107,Programming Microsoft ASP Net 2.0,65c2ace127c4e91908f3e40b,Programming,2,1
+713,65c2c3ad881df6d1bc84b108,Managing information System in businesss government & society ,65c2acbd27c4e91908f3e3ff,Information Security,5,1
+714,65c2c3ad881df6d1bc84b109,Power System operation & Control,65c2acbd27c4e91908f3e3ff,Information Security,3,1
+715,65c2c3ad881df6d1bc84b10a,X window System Programming,65c2ace127c4e91908f3e40b,Programming,5,1

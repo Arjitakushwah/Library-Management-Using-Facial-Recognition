@@ -1,0 +1,55 @@
+{% extends "student.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h1>Search Books</h1>
+    <form id="search-form">
+        <div class="form-group">
+            <input type="text" class="form-control" id="search-query" placeholder="Enter search query">
+        </div>
+        <button type="button" class="btn btn-primary" onclick="searchBooks()">Search</button>
+    </form>
+    <div id="search-results" class="mt-4"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    function searchBooks() {
+        var searchQuery = document.getElementById("search-query").value;
+        console.log(searchQuery)
+
+        // Perform a fetch request to your Flask API endpoint
+        fetch(`/api/search?query=${searchQuery}`)
+          .then((response) => {
+            // Check if the response is successful
+            if (!response.ok) {
+              throw new Error("Network response was not ok");
+            }
+            // Parse the JSON response
+            return response.json();
+          })
+          .then((data) => {
+            // Process the received data and update the HTML content with the search results
+            var searchResultsHTML = "";
+            data.books.forEach((book) => {
+              searchResultsHTML += `
+                    <p>Title: ${book.title}</p>
+                    <p>Author: ${book.author}</p>
+                    <p>Book Status: ${book.status}</p>
+                    <button onclick="requestBook('${book.id}', '{{enrollment}}')">Request Book</button>
+                    <hr>
+                `;
+            });
+            document.getElementById("search-results").innerHTML =
+              searchResultsHTML;
+          })
+          .catch((error) => {
+            console.error("Error fetching search results:", error);
+            // Display an error message if fetch fails
+            document.getElementById("search-results").innerHTML =
+              "Error fetching search results.";
+          });
+      }
+</script>
+{% endblock %}

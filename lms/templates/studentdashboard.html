@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Add custom styles here if needed */
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Student Dashboard</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <!-- Nav links can be added here if needed -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Student Profile</h5>
+                        <p class="card-text">view and manage your profile</p>
+                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#profileModal">profile details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+      <!-- Profile Details Modal -->
+      <div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="bookSearchModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="bookSearchModalLabel">Book Search</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Book search form -->
+                    <form>
+                        <div class="form-group">
+                            <label for="bookName">Name</label>
+                            <input type="text" class="form-control" id="bookName" placeholder="Enter book name">
+                        </div>
+                        <div class="form-group">
+                            <label for="bookCode">enrollment no.</label>
+                            <input type="text" class="form-control" id="bookCode" placeholder="Enter book code">
+                        </div>
+                        <div class="form-group">
+                            <label for="branch">Branch</label>
+                            <input type="text" class="form-control" id="branch" placeholder="Enter branch">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Book Search</h5>
+                        <p class="card-text">Search for books available in the library.</p>
+                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#bookSearchModal">Search
+                            Books</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Book Search Modal -->
+    <div class="modal fade" id="bookSearchModal" tabindex="-1" aria-labelledby="bookSearchModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="bookSearchModalLabel">Book Search</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Book search form -->
+                    <form>
+                        <div class="form-group">
+                            <label for="bookName">Book Name</label>
+                            <input type="text" class="form-control" id="bookName" placeholder="Enter book name">
+                        </div>
+                        <div class="form-group">
+                            <label for="bookCode">Book Code</label>
+                            <input type="text" class="form-control" id="bookCode" placeholder="Enter book code">
+                        </div>
+                        <div class="form-group">
+                            <label for="branch">Branch</label>
+                            <input type="text" class="form-control" id="branch" placeholder="Enter branch">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Issue/Return Request</h5>
+                <p class="card-text">Request to issue or return a book.</p>
+                <a href="#" class="btn btn-primary">Request</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Stats</h5>
+                <p class="card-text">View statistics related to your library activities.</p>
+                <a href="#" class="btn btn-primary">View Stats</a>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+
+    <!-- Bootstrap JS and jQuery (needed for Bootstrap) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

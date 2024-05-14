@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Books</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container justify-content-center d-flex align-items-center">
+                <img src="{{ url_for('static', filename='rgpv-logo.jpg') }}" alt="Logo" class="logo">
+                <div class="header-text text-center d-flex flex-column">
+                    <h5 class="head">Department of Computer Science & Engineering</h5>
+                    <h6 class="head">University Institute of Technology</h6>
+                    <h6 class="head">Rajiv Gandhi Proudyogiki Vishwavidyalaya</h6>
+                    <h6 class="head">Bhopal (M.P.)</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Manage Books</a>
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a href="/admin" class="nav-link custom-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/managestudents" class="nav-link custom-link">Students</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/managebooks" class="nav-link custom-link">Books</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/stats" class="nav-link custom-link">Stats</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/" class="nav-link custom-link">Logout</a>
+                </li>
+            </ul>
+        </div>
+        </div>
+    </nav>
+    <!-- add category -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Add Category</h5>
+                        <p class="card-text">Add a new category/Section of Books</p>
+                        <a href="#" class="btn btn-danger mb-4" data-toggle="modal" data-target="#addCategoryModal">Add
+                            new
+                            Category</a>
+                    </div>
+                </div>
+            </div>
+            <!-- add category Modal -->
+            <div class="modal fade" id="addCategoryModal" tabindex="-1" aria-labelledby="addCategoryModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="addCategoryModalLabel">Add Category</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- add category form -->
+                            <form id="addCategoryForm">
+                                <div class="form-group">
+                                    <label for="categoryName">Category Name</label>
+                                    <input type="text" class="form-control" id="categoryName" name="categoryName"
+                                        required>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Add Category</button>
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Add</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- all categories -->
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Categories</h5>
+                        <p class="card-text">List of categories of books in library</p>
+                        <a href="#" class="btn btn-danger mb-4" data-toggle="modal" data-target="#allCatModal"> All
+                            categories</a>
+                    </div>
+                </div>
+            </div>
+            <!-- modal for all categories -->
+            <div class="modal fade" id="allCatModal" tabindex="-1" role="dialog" aria-labelledby="allCatLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="allCatLabel">All Categories</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <table id="categories-table" class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Name</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="categories-list"></tbody>
+                            </table>
+                        </div>
+                        <div class="modal-footer">
+                            <!-- Pagination links -->
+                            <nav aria-label="Cat Pagination">
+                                <ul class="pagination" id="catpagination">
+                                    <!-- Pagination controls will be dynamically added here -->
+                                </ul>
+                            </nav>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- update category -->
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Find Category</h5>
+                        <p class="card-text">Search the category and you can delete the category</p>
+                        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#updateCategoryModal">Search
+                            Category</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Find Category Modal -->
+            <div class="modal fade" id="updateCategoryModal" tabindex="-1" role="dialog"
+                aria-labelledby="updateCategoryModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="updateCategoryModalLabel">Find Category</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- Category Search Form -->
+                            <form id="categorySearchForm">
+                                <div class="form-group">
+                                    <label for="searchCategory">Search Category</label>
+                                    <input type="text" class="form-control" id="searchCategory" name="searchCategory"
+                                        placeholder="Enter category name">
+                                </div>
+                                <button type="submit" class="btn btn-primary">Search</button>
+                            </form>
+                            <div id="categoryList">
+                                <!-- Search results will be displayed here -->
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 2nd row -->
+        <div class="row">
+            <!-- add book -->
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Add Book</h5>
+                        <p class="card-text">Add a new book to the library.</p>
+                        <a href="#" class="btn btn-danger mb-4" data-toggle="modal" data-target="#addBookModal">Add
+                            Book</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Add Book Modal -->
+            <div class="modal fade" id="addBookModal" tabindex="-1" aria-labelledby="addBookModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="addBookModalLabel">Add Book</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- Add book form -->
+                            <form id="addBookForm">
+                                <div class="form-group">
+                                    <label for="bookName">Book Title</label>
+                                    <input type="text" class="form-control" id="bookName" name="bookName" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="author">Author</label>
+                                    <input type="text" class="form-control" id="author" name="author" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="publisher">Publisher</label>
+                                    <input type="text" class="form-control" id="publisher" name="publisher" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="edition">Edition</label>
+                                    <input type="number" class="form-control" id="edition" name="edition">
+                                </div>
+                                <div class="form-group">
+                                    <label for="bookCountAvailable">Available Copies</label>
+                                    <input type="number" class="form-control" id="bookCountAvailable"
+                                        name="bookCountAvailable" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="totalCount">Total Copies</label>
+                                    <input type="number" class="form-control" id="totalCount" name="totalCount"
+                                        required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="bookStatus">Book Status</label>
+                                    <select class="form-control" id="bookStatus" name="bookStatus" required>
+                                        <option value="Available">Available</option>
+                                        <option value="Unavailable">Unavailable</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="language">Language</label>
+                                    <input type="text" class="form-control" id="language" name="language" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="category">Category</label>
+                                    <select class="form-control" id="category" name="category">
+                                        {% for category in category %}
+                                        <option value="{{ category.id }}">{{ category.categoryName }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Add Book</button>
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Add</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- all books -->
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">All Books</h5>
+                        <p class="card-text">List if all books in library</p>
+                        <a href="#" class="btn btn-danger mb-4" data-toggle="modal" data-target="#allBooksModal"> All
+                            Books</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal for displaying all books -->
+            <div class="modal fade" id="allBooksModal" tabindex="-1" role="dialog" aria-labelledby="allBooksModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="allBooksModalLabel">All Books</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>S.No.</th>
+                                        <th>Title</th>
+                                        <th>Author</th>
+                                        <th>Edition</th>
+                                        <th>Publisher</th>
+                                        <th>Total Count</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="bookList">
+                                    <!-- Book rows will be dynamically added here -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="modal-footer">
+                            <!-- Pagination links -->
+                            <nav aria-label="Books Pagination">
+                                <ul class="pagination" id="pagination">
+                                    <!-- Pagination controls will be dynamically added here -->
+                                </ul>
+                            </nav>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- remove books -->
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Find Book</h5>
+                        <p class="card-text">Search a book and update the book details or delete the book from the
+                            library.</p>
+                        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#findBookModal">Search
+                            Books</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Find Book Modal -->
+            <div class="modal fade" id="findBookModal" tabindex="-1" aria-labelledby="findBookModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="findBookModalLabel">Find Book</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <form id="searchBookForm">
+                                <div class="form-group">
+                                    <label for="searchTerm">Search by Name or ID</label>
+                                    <input type="text" class="form-control" id="searchTerm" name="searchTerm" required>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Search</button>
+                            </form>
+                            <div id="searchResults">
+                                <!-- Search results will be displayed here -->
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- all categories script -->
+    <script>
+        function fetchCategories(page) {
+            fetch(`/api/categories?page=${page}`)
+                .then(response => response.json())
+                .then(data => {
+                    displayCategories(data.categories);
+                    displayPagination(data.pagination);
+                })
+                .catch(error => console.error('Error fetching categories:', error));
+        }
+
+        function displayCategories(categories) {
+            const categoriesList = document.getElementById('categories-list');
+            categoriesList.innerHTML = '';
+            categories.forEach(category => {
+                const row = document.createElement('tr');
+                const idCell = document.createElement('td');
+                const nameCell = document.createElement('td');
+                idCell.textContent = category.id;
+                nameCell.textContent = category.name;
+                row.appendChild(idCell);
+                row.appendChild(nameCell);
+                categoriesList.appendChild(row);
+            });
+        }
+
+        function displayPagination(pagination) {
+            const paginationDiv = document.getElementById('catpagination');
+            paginationDiv.innerHTML = '';
+            const { current_page, total_pages, has_prev, has_next } = pagination;
+            const prevPage = current_page > 1 ? current_page - 1 : null;
+            const nextPage = current_page < total_pages ? current_page + 1 : null;
+            const prevButton = document.createElement('button');
+            prevButton.textContent = 'Previous';
+            prevButton.disabled = !has_prev;
+            prevButton.addEventListener('click', () => {
+                if (prevPage) {
+                    fetchCategories(prevPage);
+                }
+            });
+            const nextPageButton = document.createElement('button');
+            nextPageButton.textContent = 'Next';
+            nextPageButton.disabled = !has_next;
+            nextPageButton.addEventListener('click', () => {
+                if (nextPage) {
+                    fetchCategories(nextPage);
+                }
+            });
+            paginationDiv.appendChild(prevButton);
+            paginationDiv.appendChild(document.createTextNode(` Page ${current_page} of ${total_pages} `));
+            paginationDiv.appendChild(nextPageButton);
+        }
+        fetchCategories(1);
+    </script>
+
+    <!-- all books script -->
+    <script>
+        function fetchBooks(pageNum) {
+            fetch(`/all-books?page=${pageNum}`)
+                .then(response => response.json())
+                .then(data => {
+                    updateBookList(data.books, pageNum);
+                    updatePagination(data.pagination);
+                })
+                .catch(error => console.error('Error fetching books:', error));
+        }
+
+        // Function to update the book list
+        function updateBookList(books, pageNum) {
+            const bookList = document.getElementById('bookList');
+            bookList.innerHTML = '';
+            let serialNumber = (pageNum - 1) * 10 + 1;
+            books.forEach(book => {
+                const row = document.createElement('tr');
+                const serialCell = document.createElement('td');
+                serialCell.textContent = serialNumber++;
+                const titleCell = document.createElement('td');
+                titleCell.textContent = book.title;
+                const authorCell = document.createElement('td');
+                authorCell.textContent = book.author;
+                const editionCell = document.createElement('td');
+                editionCell.textContent = book.edition;
+                const publisherCell = document.createElement('td');
+                publisherCell.textContent = book.publisher;
+                const totalCountCell = document.createElement('td');
+                totalCountCell.textContent = book.total;
+                row.appendChild(serialCell);
+                row.appendChild(titleCell);
+                row.appendChild(authorCell);
+                row.appendChild(editionCell);
+                row.appendChild(publisherCell);
+                row.appendChild(totalCountCell);
+                bookList.appendChild(row);
+
+            });
+        }
+
+        function updatePagination(pagination) {
+            const paginationList = document.getElementById('pagination');
+            paginationList.innerHTML = '';
+            if (pagination.has_prev) {
+                paginationList.appendChild(createPaginationItem(pagination.prev_num, 'Previous', false));
+            } else {
+                paginationList.appendChild(createPaginationItem(null, 'Previous', true));
+            }
+            const maxPagesToShow = 6;
+            const startPage = Math.max(1, pagination.page - Math.floor(maxPagesToShow / 2));
+            const endPage = Math.min(pagination.pages, startPage + maxPagesToShow - 1);
+            for (let i = startPage; i <= endPage; i++) {
+                paginationList.appendChild(createPaginationItem(i, i, i === pagination.page));
+            }
+            if (pagination.has_next) {
+                paginationList.appendChild(createPaginationItem(pagination.next_num, 'Next', false));
+            } else {
+                paginationList.appendChild(createPaginationItem(null, 'Next', true));
+            }
+        }
+        function createPaginationItem(pageNum, label, disabled) {
+            const listItem = document.createElement('li');
+            listItem.className = `page-item${disabled ? ' disabled' : ''}`;
+            const link = document.createElement('a');
+            link.className = 'page-link';
+            link.textContent = label;
+            if (!disabled) {
+                link.href = '#';
+                link.onclick = () => fetchBooks(pageNum);
+            }
+            listItem.appendChild(link);
+            return listItem;
+        }
+        fetchBooks(1);
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- add book script -->
+    <script>
+        document.getElementById('addBookForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            fetch('/add-book', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Error adding book');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    alert('Book added successfully');
+
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error adding book');
+                });
+        });
+    </script>
+    <!-- add category script -->
+    <script>
+        document.getElementById('addCategoryForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            fetch('/add-category', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Error adding category');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    alert('Category added successfully');
+                    $('#addCategoryModal').modal('hide');
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error adding category');
+                });
+        });
+    </script>
+    <!-- search book script -->
+    <script>
+        document.getElementById('searchBookForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            fetch('/search-book', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Error searching book');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    displaySearchResults(data.books);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error searching book');
+                });
+        });
+
+        function displaySearchResults(books) {
+            var searchResultsContainer = document.getElementById('searchResults');
+            searchResultsContainer.innerHTML = '';
+            if (books.length === 0) {
+                searchResultsContainer.innerHTML = '<p>No results found</p>';
+                return;
+            }
+            books.forEach(book => {
+                var listItem = document.createElement('li');
+                listItem.innerHTML = `ID: ${book.id}<br>Title: ${book.title}<br>Author: ${book.author}<br>Status: ${book.status}<br><button class="btn btn-primary btn-sm" onclick="updateBook(${book.id})">Update</button>&nbsp;<button class="btn btn-danger btn-sm" onclick="deleteBook(${book.id})">Delete</button><hr>`;
+
+                searchResultsContainer.appendChild(listItem);
+            });
+        }
+    </script>
+
+    <!-- search category script -->
+    <script>
+// Search Category Form Submission
+document.getElementById('categorySearchForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    var formData = new FormData(this);
+    fetch('/search-category', {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => response.json())
+    .then(data => {
+        // Clear previous search results
+        document.getElementById('categoryList').innerHTML = '';
+        
+        // Handle search results
+        if (data.categories && data.categories.length > 0) {
+            data.categories.forEach(category => {
+                appendCategory(category.id, category.name);
+            });
+        } else {
+            // Display message if no categories found
+            document.getElementById('categoryList').innerHTML = '<li>No categories found.</li>';
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+});
+
+// Function to append category to the list
+function appendCategory(categoryId, categoryName) {
+    var listItem = document.createElement('li');
+    listItem.innerHTML = `ID: ${categoryId}<br> Name: ${categoryName} <br> <button class="btn btn-danger btn-sm ml-2" onclick="deleteCategory(${categoryId})">Delete</button> <hr>`;
+    document.getElementById('categoryList').appendChild(listItem);
+}
+
+// Delete Category
+function deleteCategory(categoryId) {
+    if (confirm('Are you sure you want to delete this category?')) {
+        fetch('/delete-category', {
+            method: 'POST',
+            body: new URLSearchParams({ 'categoryId': categoryId })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                // Category deleted successfully, handle UI updates
+                console.log(data.message);
+                // Remove the deleted category from the list
+                document.getElementById('categoryList').querySelector(`li[data-id="${categoryId}"]`).remove();
+            } else {
+                // Failed to delete category, handle error
+                console.error(data.message);
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    }
+}
+
+    </script>
+</body>
+
+</html>
